@@ -1,0 +1,56 @@
+{
+  "project": "character-counter",
+  "checkedAt": "2026-10-12T05:15:00Z",
+  "pipeline": "gacha-assets check-cc-regressions (HTTPS HEAD/GET image content type + Pillow full decode/normalize)",
+  "candidates": [
+    {
+      "assetId": "genshin.weapon.cinnabar-spindle.icon",
+      "provider": "mihoyo-game-record",
+      "sourceId": "UI_EquipIcon_Sword_Opus",
+      "sourcePage": "https://genshin.denohub.com/chs/weapon/cinnabarspindle",
+      "imageUrl": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Opus.png",
+      "headStatus": 200,
+      "headContentType": "image/png",
+      "getStatus": 200,
+      "getContentType": "image/png",
+      "bytes": 61266,
+      "sha256": "9b10ed61190983071505bd07434245b0acd43f28cbd638431d51faa2a79154c1",
+      "decoded": true,
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "status": "ready"
+    },
+    {
+      "assetId": "zenless-zone-zero.weapon.poem-of-the-empty-feather-return.icon",
+      "provider": "gachabase",
+      "sourceId": "14158",
+      "sourcePage": "https://zzz.gachabase.net/w-engines/14158/poem-of-the-empty-feather-return/beta/3.1.4/17256074?lang=en",
+      "imageUrl": "https://img.gachabase.net/conv/zzz/assets/26e29f3e8a9e855d9757800182eb8254.png?q=50&sig=7abb6d485743ca199df7b7e81e5d55d2f5ddffd629223fdafe675c7a5fd64a32",
+      "validationError": "upstream image host DNS lookup failed (getaddrinfo failed)",
+      "status": "unresolved",
+      "classification": "Gachabase page image links return the provider missing.webp placeholder; no usable icon object"
+    },
+    {
+      "assetId": "zenless-zone-zero.character.sigrid.icon",
+      "provider": "gachabase",
+      "sourceId": "1591",
+      "sourcePage": "https://zzz.gachabase.net/agents/1591/sigrid/release",
+      "imageUrl": "https://i.gachabase.net/-p8sVe_IsM_p8Agodt2pseFrpG22MYDpgXAHBV4yAzE/q%3A50/f%3Awebp/plain/zzz/assets/7f975cf2ad95cff09ddbd214c9e4cf1e.png",
+      "status": "unresolved",
+      "classification": "decoded full-body character artwork; not the requested icon variant",
+      "candidateDimensions": [
+        1816,
+        2524
+      ]
+    },
+    {
+      "assetId": "zenless-zone-zero.weapon.lumiflux.icon",
+      "provider": null,
+      "sourceId": null,
+      "status": "unresolved",
+      "reason": "no_source_asset",
+      "classification": "Lumiflux is Remielle's attribute, not a W-Engine; Sigrid's signature W-Engine is Knight's Extolment (ID 14159)."
+    }
+  ]
+}

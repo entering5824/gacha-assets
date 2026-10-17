@@ -1,0 +1,5 @@
+game: wuwa
+contract: asset-contract-v1
+entity_types: [character, weapon, artifact, material, other]
+default_storage: public
+image_format: webp

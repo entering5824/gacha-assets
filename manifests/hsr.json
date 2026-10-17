@@ -1,0 +1,4955 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "assetId": "hsr.character.acheron.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "acheron",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/acheron.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/acheron.webp"
+      },
+      "sha256": "dd691e5179adf077fc5898c134ff9f0b47a8b29a1d1600234f1083c37903908b",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.aglaea.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "aglaea",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/aglaea.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/aglaea.webp"
+      },
+      "sha256": "5c4227dd4d354a5a1e96501eb210918127f95145820363e69bcb3bce087651d9",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.anaxa.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "anaxa",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/anaxa.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/anaxa.webp"
+      },
+      "sha256": "40a62a6ea9a7cad40e4b46d8e7fb6103a74bbddbcbc0e398ee01a263f012ba5d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.archer.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "archer",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/archer.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/archer.webp"
+      },
+      "sha256": "194dbd1060b4942290c896283e0936d957ff775f91535dc5a48b376a25ffd3b2",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.argenti.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "argenti",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/argenti.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/argenti.webp"
+      },
+      "sha256": "1eaefe0e894b01efc277ea6dfa21d768c718700152793c91f3f847f226320175",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.arlan.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "arlan",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/arlan.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/arlan.webp"
+      },
+      "sha256": "011df842a34cc995ab325171b4241ec677908e69e646b2ea5e7f6a0e4d4c7a53",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.ashveil.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "ashveil",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/ashveil.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/ashveil.webp"
+      },
+      "sha256": "f5e06767b6f8817660d35146f4fa2f7f9ceb017cf1c41dc801f464ec7b6c8d30",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.asta.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "asta",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/asta.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/asta.webp"
+      },
+      "sha256": "63d629bb60920272414af767bd0c305afc91095f15357b15523288cf551d0f26",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.aventurine-waveflair.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "aventurine-waveflair",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/aventurine-waveflair.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/aventurine-waveflair.webp"
+      },
+      "sha256": "c6048fa58e61865b4e5673399addb7d66d9c833ba41534ae245f0a0cb9ec7bed",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.aventurine.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "aventurine",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/aventurine.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/aventurine.webp"
+      },
+      "sha256": "02478e9b570238a857af9783bf727a12573bc56f425be0c37168b60809f95530",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.bailu.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "bailu",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/bailu.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/bailu.webp"
+      },
+      "sha256": "c636450cf8821fd3ce25d9bd3ec97da49da59af18e325c512a2b0e5bb221ee13",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.black-swan.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "black-swan",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/black-swan.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/black-swan.webp"
+      },
+      "sha256": "dee9cced0ce1894770799de12ad861c42c3e92ce6363a292f188e40bdcb21490",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.blade.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "blade",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/blade.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/blade.webp"
+      },
+      "sha256": "4a95834a7e4d2e15675ad114c0ec0f9b1d15f4cf35b3f74ea50ab791f0dcf462",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.boothill.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "boothill",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/boothill.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/boothill.webp"
+      },
+      "sha256": "17b844f09dfe73a903eee76e384fd64e3b84785b990eb5042d47baa877bd3e7d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.bronya.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "bronya",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/bronya.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/bronya.webp"
+      },
+      "sha256": "cebe428f94e7707949834dba25e041f43dd4a94313052970056c185847bfe5a1",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.caelus-destruction.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "caelus-destruction",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/caelus-destruction.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/caelus-destruction.webp"
+      },
+      "sha256": "5b6efd9ca710c1080c91ef08be854fd10d2da3853ba300172c15bdd5df421b2f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.caelus-elation.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "caelus-elation",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/caelus-elation.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/caelus-elation.webp"
+      },
+      "sha256": "9aa20284308eb7e5b4777b5df4fed49966cd5b7ddbc42b8c4aade5a746828c6e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.caelus-harmony.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "caelus-harmony",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/caelus-harmony.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/caelus-harmony.webp"
+      },
+      "sha256": "009dba41a5a13c780fd884f69a60260cc869fdda5ec729da006e7ca757956da3",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.caelus-preservation.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "caelus-preservation",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/caelus-preservation.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/caelus-preservation.webp"
+      },
+      "sha256": "bc4adbe0994177d54eece65e4cea49f3d58cb5b1dc0a00abffdcb19e982c76df",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.caelus-remembrance.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "caelus-remembrance",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/caelus-remembrance.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/caelus-remembrance.webp"
+      },
+      "sha256": "c10e5f8ab3576850000a36717bdaa24d3798e69fa1f136536f324845c8012184",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.castorice.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "castorice",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/castorice.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/castorice.webp"
+      },
+      "sha256": "788a8f5d8b30d0cf729173936c9b86cc9c7758f2590ce48bf117a93f7f28c9cc",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.cerydra.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "cerydra",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/cerydra.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/cerydra.webp"
+      },
+      "sha256": "32e1a9b3d1cce4b415538854fdcaaa23eab76dfda87251ca1633c943d581b2d5",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.cipher.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "cipher",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/cipher.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/cipher.webp"
+      },
+      "sha256": "a74c0e859f6d8f6bf070e2b870b4e0c33ca2a9e9fc72264280b6e1c914c29b51",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.clara.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "clara",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/clara.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/clara.webp"
+      },
+      "sha256": "9f2c8170e4b4408b324f7709fedf3231256a2a159c2c3057c64ee71a539613dd",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.cyrene.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "cyrene",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/cyrene.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/cyrene.webp"
+      },
+      "sha256": "c09fbc7ed917bedeeda0a48a66fdb4a3e8c16a3d32dce020058cf1e270eb2f42",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.dan-heng-imbibitor-lunae.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "dan-heng-imbibitor-lunae",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/dan-heng-imbibitor-lunae.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/dan-heng-imbibitor-lunae.webp"
+      },
+      "sha256": "0cf5b6ab61571d03b7dd52c9cbeee1402040f2a3c34d94ba5531b89e5e4ba82e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.dan-heng-permansor-terrae.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "dan-heng-permansor-terrae",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/dan-heng-permansor-terrae.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/dan-heng-permansor-terrae.webp"
+      },
+      "sha256": "4af64913350c4c83fff0ea52a088f79fa854f382c99b4d86207b8427afd20198",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.dan-heng.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "dan-heng",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/dan-heng.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/dan-heng.webp"
+      },
+      "sha256": "88d0aa957e57b54be4d980742959cfd088a3c0ff42aba2f73a1965527f7bf56f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.dr-ratio.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "dr-ratio",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/dr-ratio.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/dr-ratio.webp"
+      },
+      "sha256": "05d4bee2b9bf24a8b88ebdd31d945dbd1db245543a220b10b0e6282235159dbc",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.evanescia.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "evanescia",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/evanescia.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/evanescia.webp"
+      },
+      "sha256": "ccd2570cdcaa0ed7b770ab2b6bc7066255f1331f6f4f54bdef561b9fe04fcb90",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.evernight.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "evernight",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/evernight.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/evernight.webp"
+      },
+      "sha256": "6b0de767d5c10c97d92f96966eda37022c8709f1a04916e17164008d57923d0f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.feixiao.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "feixiao",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/feixiao.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/feixiao.webp"
+      },
+      "sha256": "eeb8430dc6fcf517cad9660c46a9e506525b669a71abfb047f88d13856614570",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.firefly.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "firefly",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/firefly.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/firefly.webp"
+      },
+      "sha256": "f8ad66c0eb77ebc41910a1a99108de6e3ac48b99a5fa95554997c3f447ff9765",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.fu-xuan.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "fu-xuan",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/fu-xuan.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/fu-xuan.webp"
+      },
+      "sha256": "8e38a5e47a4301400bd564cf58b1c48f679de46d202e7ff0532d91424538895c",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.fugue.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "fugue",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/fugue.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/fugue.webp"
+      },
+      "sha256": "ce0c592ef59950df958dc3eade6e93c1149d1fe237204df073899cd46ba97c92",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.gallagher.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "gallagher",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/gallagher.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/gallagher.webp"
+      },
+      "sha256": "0d57b458098df83bcc98808f52e8e77be760bf3b832f378d8f60c6f55b090342",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.gepard.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "gepard",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/gepard.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/gepard.webp"
+      },
+      "sha256": "2439ed9edbd10ff5b33576867161e1f3e898e4a0e394cb9f76c2de2e05052f79",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.gilgamesh.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "gilgamesh",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/gilgamesh.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/gilgamesh.webp"
+      },
+      "sha256": "d7460ec952f2562ef347bf13f07177550dc44aa5876a379df70cdd89d0acd58b",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.guinaifen.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "guinaifen",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/guinaifen.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/guinaifen.webp"
+      },
+      "sha256": "20ab13ade7e96e04fd6c666ae5184a35c3be4850d874d497b185d38fd9004ef7",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.hanya.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "hanya",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/hanya.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/hanya.webp"
+      },
+      "sha256": "4effd5dc44e0368b78fcae29ca5e61e8bf17d9600ec9a1457fa7c9413debde21",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.herta.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "herta",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/herta.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/herta.webp"
+      },
+      "sha256": "722eccdd141431951b17d84dd3c7c6571420d3c6cd897a0eb44fba4c3402b90d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.himeko-nova.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "himeko-nova",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/himeko-nova.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/himeko-nova.webp"
+      },
+      "sha256": "7b02ff137575223e811ce2c62d93d6f9a85b124f88f9c3d7fa16e70137c4a1f7",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.himeko.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "himeko",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/himeko.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/himeko.webp"
+      },
+      "sha256": "34e92877b13da662690132ba8aa46e1e069a22c0a7d679ec646f4be3627ac086",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.hook.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "hook",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/hook.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/hook.webp"
+      },
+      "sha256": "3998ba401fbb9c2e09def3db062ba82804d55338d1780aea0815a13767cd249a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.huohuo.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "huohuo",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/huohuo.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/huohuo.webp"
+      },
+      "sha256": "8ad0d074f5f2dbd4b47e89c64534b2cc45145b58f1fae2dc8f339ec290e3428e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.hyacine.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "hyacine",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/hyacine.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/hyacine.webp"
+      },
+      "sha256": "f6870822504e86492647b08a79492334b1f8f55335b84e410fe7fb8ccebc08e9",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.hysilens.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "hysilens",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/hysilens.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/hysilens.webp"
+      },
+      "sha256": "af4c912811193721630c9c514c62945ef0181ea2c83d1f97ff4661bbcff49882",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.jade.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "jade",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/jade.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/jade.webp"
+      },
+      "sha256": "64a1c22394dc3c49099a257e1acbd5a1042e731816647369dee31ef202136ebc",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.jiaoqiu.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "jiaoqiu",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/jiaoqiu.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/jiaoqiu.webp"
+      },
+      "sha256": "2685ee7b10cbe0afbd620d48bd26ceec9dcb959ddc95e34a2abf7a1f507adeb1",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.jing-yuan.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "jing-yuan",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/jing-yuan.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/jing-yuan.webp"
+      },
+      "sha256": "ee71cade84b3734007806c5b645a3c214bbca1a680f864e7d81a963e50c2f723",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.jingliu.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "jingliu",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/jingliu.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/jingliu.webp"
+      },
+      "sha256": "ad1df60ea87c6de663fc2a9357c591e8994f574816a1cb51bee43708b9244efb",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.kafka.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "kafka",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/kafka.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/kafka.webp"
+      },
+      "sha256": "3df19096c3869972f30f5d05e90850273fc79aa738837d8c62d8c7bb30c053e9",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.lingsha.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "lingsha",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/lingsha.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/lingsha.webp"
+      },
+      "sha256": "b154717274348d0303425ae2212d81c06371ec9325b2d69892c94c5ab7801461",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.luka.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "luka",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/luka.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/luka.webp"
+      },
+      "sha256": "784a8a5cc6f3b7a4caa0006cd75842308328624edf6aece1d475ad381d2905ef",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.luocha.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "luocha",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/luocha.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/luocha.webp"
+      },
+      "sha256": "806556e67485698e41e7cbb06a284e5c51f40c03193cec9ef030ff6097792af1",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.lynx.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "lynx",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/lynx.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/lynx.webp"
+      },
+      "sha256": "ffea450128117d48416ad7978cee472c64188a6911587769f6e1ebf078a62450",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.march-7th-the-hunt.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "march-7th-the-hunt",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/march-7th-the-hunt.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/march-7th-the-hunt.webp"
+      },
+      "sha256": "869ecc8da24942ba2925ed81cdc62d6b16f94f9c5750e28f3bdde8173648dca3",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.march-7th.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "march-7th",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/march-7th.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/march-7th.webp"
+      },
+      "sha256": "438efed75ee30e279c3692254c8f3757f7bddb95346126db5b837695bfe53c7f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.misha.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "misha",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/misha.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/misha.webp"
+      },
+      "sha256": "a618400b9409a0e0897dceb66eb7cd4c8f86781ca94b3fd7bd6328fcc89f2671",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.mortenax-blade.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "mortenax-blade",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/mortenax-blade.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/mortenax-blade.webp"
+      },
+      "sha256": "5bf91f86e99811ba8971e455559463a6f14534ba73bf7d91ed551ae16a750b87",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.moze.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "moze",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/moze.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/moze.webp"
+      },
+      "sha256": "3886337bbf2be86cbbb1dbd63e6d1bda45ed90c16155e59592a39e66b64869ed",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.mydei.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "mydei",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/mydei.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/mydei.webp"
+      },
+      "sha256": "6b944fe779b6611332b690b56edd487d7ba9d807aa9c54eb4b6840255105a31b",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.natasha.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "natasha",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/natasha.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/natasha.webp"
+      },
+      "sha256": "e98a0792f94eeba779e3fbff0ac69a9d423b1eb20fcd8cc39fe21d63355806ee",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.pearl.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "pearl",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/pearl.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/pearl.webp"
+      },
+      "sha256": "5563fd9e2ad6cdc84e459ee770db756caed7364d98bcc95e1e79344ea5afb739",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.pela.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "pela",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/pela.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/pela.webp"
+      },
+      "sha256": "a77cc379bcb36b6238b6767908c91fec4c020dae961a5ae3e10708a982de8ed3",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.phainon.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "phainon",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/phainon.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/phainon.webp"
+      },
+      "sha256": "8b2d9de73992aa8167c695fdd5c3cbb13538c8439e2dff103f600ca8d92ee835",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.qingque.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "qingque",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/qingque.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/qingque.webp"
+      },
+      "sha256": "0eefd5ee7be05d42ae1f09fd4ab6c3ae95d98f49b9357067f91314b5f016636f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.rappa.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "rappa",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/rappa.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/rappa.webp"
+      },
+      "sha256": "da73c8b1f11254c7bb0cd3c4f171d6a9f92b8d24c7d6f746941481e93d8eddd1",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.rin-tohsaka.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "rin-tohsaka",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/rin-tohsaka.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/rin-tohsaka.webp"
+      },
+      "sha256": "312f5fc3485c1de1a7906614b86fecd27312937af0bdf3db363633ff7b90d38f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.robin-summeretto.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "robin-summeretto",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/robin-summeretto.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/robin-summeretto.webp"
+      },
+      "sha256": "6d280b9d993992e71b8690a815bce362dd483bf3abdcb30e0171260cee34f4b4",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.robin.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "robin",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/robin.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/robin.webp"
+      },
+      "sha256": "69f5693f410ef33212a91b50d2df3ead05aa093ffb0e7d274b00a32ed9dd96c9",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.ruan-mei.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "ruan-mei",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/ruan-mei.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/ruan-mei.webp"
+      },
+      "sha256": "240971c995789df037c552f97112d3390bbe01c137a38a10925339c791f12b24",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.saber.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "saber",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/saber.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/saber.webp"
+      },
+      "sha256": "5cefe4e58b875195691e49f1bceb8e61d65e5187ca04602492eb49b7b6f46dfc",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.sampo.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "sampo",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/sampo.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/sampo.webp"
+      },
+      "sha256": "ed9a19fd692689ec18d6ccb3fe52f2023e447f63dc276b852a3d9c8183a40656",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.seele.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "seele",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/seele.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/seele.webp"
+      },
+      "sha256": "7cb9327d1ce7df98726491d1aa882b3ff6d9d35d9ca1150a7cdb301f2adb8133",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.serval.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "serval",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/serval.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/serval.webp"
+      },
+      "sha256": "24a5ef516de329ba0ba75a525c3e7c6822ade299c8282d4813afae32f0346129",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.silver-wolf-lv-999.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "silver-wolf-lv-999",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/silver-wolf-lv-999.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/silver-wolf-lv-999.webp"
+      },
+      "sha256": "2377f1ce9f42a579010d9288807a15840124c48b56ca0fb0c0dab18930c14b73",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.silver-wolf.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "silver-wolf",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/silver-wolf.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/silver-wolf.webp"
+      },
+      "sha256": "00d0dc9fe1ea1faaf318414ba107ad42385fa5b3bf2c8f685c26ab549042166a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.sparkle.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "sparkle",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/sparkle.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/sparkle.webp"
+      },
+      "sha256": "bc80bf05a617a5a29341cb335fc9ba5cd7d1ff7e1540b96652377b30cd3479a5",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.sparxie.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "sparxie",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/sparxie.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/sparxie.webp"
+      },
+      "sha256": "9ccbcc98ca02463591968b58363fc19e51b5dfae43f07144f0815c8cf932e379",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.stelle-destruction.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "stelle-destruction",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/stelle-destruction.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/stelle-destruction.webp"
+      },
+      "sha256": "d1e7cc0886ea2fd3dc9db9b6606689fef5a72a288fa2ed19b766b6edad517c1e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.stelle-elation.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "stelle-elation",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/stelle-elation.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/stelle-elation.webp"
+      },
+      "sha256": "9a1054b8cf3705c15bd1f458c1ea9fdec549763f2bb3c57733ed943ca68cd1f6",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.stelle-harmony.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "stelle-harmony",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/stelle-harmony.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/stelle-harmony.webp"
+      },
+      "sha256": "247d41e751dda7c0c17a1ac7cb303f51352255acd3a9cbce75cf7560c204ec96",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.stelle-preservation.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "stelle-preservation",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/stelle-preservation.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/stelle-preservation.webp"
+      },
+      "sha256": "14e2c7492af7a52da95da493aefce935eab33907d7d3bcd7bdcde3a10a5bab14",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.stelle-remembrance.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "stelle-remembrance",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/stelle-remembrance.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/stelle-remembrance.webp"
+      },
+      "sha256": "e95e3c8d87939100a8e8f90c62bb6a690672da59bc0027e67d6b9468da33633c",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.sunday.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "sunday",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/sunday.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/sunday.webp"
+      },
+      "sha256": "8c47d2d90c331ea2135fdf526850df3461aa4e082fb784ec2c41589b6501e7e2",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.sushang.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "sushang",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/sushang.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/sushang.webp"
+      },
+      "sha256": "0117d570de53b398ab652499ca644dcb2eecc15697598accf69197166a1e831a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.the-dahlia.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "the-dahlia",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/the-dahlia.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/the-dahlia.webp"
+      },
+      "sha256": "8eb4935ece7e31b0afcdf3614b37076bf9fab6f8ebcb66f0a9dcb31530215f88",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.the-herta.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "the-herta",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/the-herta.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/the-herta.webp"
+      },
+      "sha256": "04dd937a28cf5d416ff5dbfa3dbebea8c90f4b3e2d6ddaf9cf3e2e0e9801c89d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.tingyun.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "tingyun",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/tingyun.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/tingyun.webp"
+      },
+      "sha256": "293371b014db6d5a52dc377b4f37e3313e132f478e31790c2669e43dfacf65c5",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.topaz-and-numby.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "topaz-and-numby",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/topaz-and-numby.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/topaz-and-numby.webp"
+      },
+      "sha256": "cc85ef8fd82089666eaca58bf1e0067050a285ef4c24cd69720f89db64718bfa",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.tribbie.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "tribbie",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/tribbie.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/tribbie.webp"
+      },
+      "sha256": "d983f66e30387d88bd49c76f300186f166c28cb6fac4d9c7afdd50a4bf24ea2a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.welt.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "welt",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/welt.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/welt.webp"
+      },
+      "sha256": "6cd63afede7014d456945ee985ce0ea40ab4091586e29ffa69eb3b99006fe336",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.xueyi.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "xueyi",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/xueyi.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/xueyi.webp"
+      },
+      "sha256": "d208146df609be9874979de64d8fe47ab110f47fb9c371c7c9e9f150543fcd67",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.yanqing.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "yanqing",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/yanqing.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/yanqing.webp"
+      },
+      "sha256": "9839ceef3cd94960e23934172f43a1a71a5307441b4e99a0b0cde7a079a4e412",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.yao-guang.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "yao-guang",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/yao-guang.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/yao-guang.webp"
+      },
+      "sha256": "63a25742edfcef56020384b4163d18d98f0bfbfa9e92e7a2868f5a56d2a3a40c",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.yukong.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "yukong",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/yukong.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/yukong.webp"
+      },
+      "sha256": "97169660dc6569473203f13452a16132601bdc3e632fd0cadae159b272fca887",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.character.yunli.icon",
+      "game": "hsr",
+      "entityType": "character",
+      "entityId": "yunli",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/characters/yunli.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/characters/yunli.webp"
+      },
+      "sha256": "3c9dd81ed7bd989c3098c5cf2a04fa1e545c0e089c69c2232e18ce3ed72cba40",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.a-dream-scented-in-wheat.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "a-dream-scented-in-wheat",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/a-dream-scented-in-wheat.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/a-dream-scented-in-wheat.webp"
+      },
+      "sha256": "3ecc93f71d3200a6f0550cdae78b14fe83e42bf7b147f7c5ea43db5c781e03e0",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.a-grounded-ascent.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "a-grounded-ascent",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/a-grounded-ascent.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/a-grounded-ascent.webp"
+      },
+      "sha256": "27fc8e96776a1c63b1a8b2516948a0d774618f1114a1bc0dcb0f1d1d0f49c36e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.a-little-getaway.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "a-little-getaway",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/a-little-getaway.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/a-little-getaway.webp"
+      },
+      "sha256": "963bfb01652b3dce8fcc69de9c1a84c0e4b41b4c094b48e1805d617341ec9159",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.a-secret-vow.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "a-secret-vow",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/a-secret-vow.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/a-secret-vow.webp"
+      },
+      "sha256": "c637cfdcc360c2f433e1d0601836e3162c39b9bc24d80e07babe9fcede36e591",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.a-star-that-lights-the-night.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "a-star-that-lights-the-night",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/a-star-that-lights-the-night.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/a-star-that-lights-the-night.webp"
+      },
+      "sha256": "55a14356c035dd49455504d600a86c004e4c775f6a9546f69c80bd963f5a114d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.a-thankless-coronation.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "a-thankless-coronation",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/a-thankless-coronation.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/a-thankless-coronation.webp"
+      },
+      "sha256": "c1b577bafd0cb88c2535e2ee78b3774473fde5eb0942a9bcdcf0b2c5b47889fa",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.a-trail-of-bygone-blood.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "a-trail-of-bygone-blood",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/a-trail-of-bygone-blood.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/a-trail-of-bygone-blood.webp"
+      },
+      "sha256": "dc94ae4c496dc51560c24af49faa91746ac6249210614d62ddf5a9b1575be889",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.adversarial.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "adversarial",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/adversarial.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/adversarial.webp"
+      },
+      "sha256": "ba07ab3a014bd8cfff4fbc65e92776ff319207b256898a956f1e999d3503da7a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.after-the-charmony-fall.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "after-the-charmony-fall",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/after-the-charmony-fall.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/after-the-charmony-fall.webp"
+      },
+      "sha256": "9cd395cfb1fd0c6e2db4b0c2f08e6da2a0ee66c70b920d7496be5e88af745d95",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.along-the-passing-shore.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "along-the-passing-shore",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/along-the-passing-shore.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/along-the-passing-shore.webp"
+      },
+      "sha256": "e1dd4b43eaeb76aab6bf5803afab094800173b860df037710c74cedd67570dd7",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.amber.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "amber",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/amber.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/amber.webp"
+      },
+      "sha256": "ff07902a93a6a4cdffd18dfe025e747abad3a18214baeb2779b61cb07242e43a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.an-instant-before-a-gaze.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "an-instant-before-a-gaze",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/an-instant-before-a-gaze.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/an-instant-before-a-gaze.webp"
+      },
+      "sha256": "ab411ed29ca0f2948f9bbc0f85f8e14cab3d3b1a5d669eb4bc707c2f37f1dcf1",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.arrows.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "arrows",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/arrows.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/arrows.webp"
+      },
+      "sha256": "5ce9355a1fa5f6157f21644d55f857761713347f8932ac1a42a8cc4a3d33c866",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.baptism-of-pure-thought.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "baptism-of-pure-thought",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/baptism-of-pure-thought.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/baptism-of-pure-thought.webp"
+      },
+      "sha256": "26b8cf1afb34471a129fa1f031c34057e045512351433b27ba514b9374345e5b",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.before-dawn.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "before-dawn",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/before-dawn.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/before-dawn.webp"
+      },
+      "sha256": "bbe2763d3191a6a500f1887317615c061623095ea3777b87c6f7dcb812a8b2d6",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.before-the-tutorial-mission-starts.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "before-the-tutorial-mission-starts",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/before-the-tutorial-mission-starts.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/before-the-tutorial-mission-starts.webp"
+      },
+      "sha256": "1be79bfeae44ec9de2e330059d5379a61ca21b95fa7bd8a0f209b8705c94db9e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.boundless-choreo.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "boundless-choreo",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/boundless-choreo.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/boundless-choreo.webp"
+      },
+      "sha256": "3de7e935567ff3fcd228efbb88247f8ee7d644ab575e06b505df6a176e057c6d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.brighter-than-the-sun.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "brighter-than-the-sun",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/brighter-than-the-sun.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/brighter-than-the-sun.webp"
+      },
+      "sha256": "4389e52fbbf242aecc0bc8dec4995cc4a1bfc8180d1b838a0baac9b4d700b199",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.but-the-battle-isnt-over.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "but-the-battle-isnt-over",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/but-the-battle-isnt-over.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/but-the-battle-isnt-over.webp"
+      },
+      "sha256": "991fd50ac8c32d4c24a42dbb1ad79e0fb84637b8d2bc178aa9aaea870e435578",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.carve-the-moon-weave-the-clouds.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "carve-the-moon-weave-the-clouds",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/carve-the-moon-weave-the-clouds.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/carve-the-moon-weave-the-clouds.webp"
+      },
+      "sha256": "4b041bbef46586a0ea567d023fe6c3de24dfe354f7fc374c6dc1685fa649f690",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.chorus.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "chorus",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/chorus.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/chorus.webp"
+      },
+      "sha256": "df260626a2998b5caf8b1603e1c1f10fa9a0ca7820c2dd44d9641c35c9fde4c3",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.collapsing-sky.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "collapsing-sky",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/collapsing-sky.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/collapsing-sky.webp"
+      },
+      "sha256": "ee73707a0c33bdb3492aaac0b1c51fd589e292df3425766c4dd07d67c1ed3392",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.colors-for-tomorrow.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "colors-for-tomorrow",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/colors-for-tomorrow.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/colors-for-tomorrow.webp"
+      },
+      "sha256": "e0a8df6ebfd886eacf7ab60bf0538acd536d8032e533705601856dc5c60936f9",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.concert-for-two.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "concert-for-two",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/concert-for-two.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/concert-for-two.webp"
+      },
+      "sha256": "fe38cc25d35e1a39f59fc9163daa924b6c8f8a7a5308ae873979cedd1d2de00a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.cornucopia.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "cornucopia",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/cornucopia.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/cornucopia.webp"
+      },
+      "sha256": "e54076c93f239443bedc59bab0f32c9c62ec98ad5dcfb350398e480d8b80a991",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.cruising-in-the-stellar-sea.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "cruising-in-the-stellar-sea",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/cruising-in-the-stellar-sea.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/cruising-in-the-stellar-sea.webp"
+      },
+      "sha256": "e44b76bb26599090d8186da566f3d9af3c22ccd000984d7725791d06e85f4d8f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.dance-at-sunset.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "dance-at-sunset",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/dance-at-sunset.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/dance-at-sunset.webp"
+      },
+      "sha256": "8ecf7f3d234d33b40b587be12d576a06a425c3b2bd19f0714603d3daa700c57d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.dance-dance-dance.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "dance-dance-dance",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/dance-dance-dance.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/dance-dance-dance.webp"
+      },
+      "sha256": "fe85d2d2a956f3b15b75d5d67af5c47afa5cf33ea187a3bafe18e728677b98b8",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.darting-arrow.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "darting-arrow",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/darting-arrow.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/darting-arrow.webp"
+      },
+      "sha256": "1ef6c2dacc642307cb2c5c94beda2aef2fce9a18d0aa331638e3c683363b05cf",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.data-bank.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "data-bank",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/data-bank.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/data-bank.webp"
+      },
+      "sha256": "37da15ef75ff6bd3d2852644a94f48fe7c78a2279d9184b62eb38cc30e04e2d7",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.day-one-of-my-new-life.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "day-one-of-my-new-life",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/day-one-of-my-new-life.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/day-one-of-my-new-life.webp"
+      },
+      "sha256": "3d7e512396a5f04e75edb40b73fc441284e224f583cf193401eb470f504759af",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.dazzled-by-a-flowery-world.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "dazzled-by-a-flowery-world",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/dazzled-by-a-flowery-world.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/dazzled-by-a-flowery-world.webp"
+      },
+      "sha256": "ea19acf0db80253b774312870fcaea46f1e2dbd0757337c4e6f87cc5d746ccac",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.defense.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "defense",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/defense.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/defense.webp"
+      },
+      "sha256": "f16c2148be61466a9371ccac0aa1c652f9e5b88e4e8ed2d1d123d88ceff700b1",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.destinys-threads-forewoven.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "destinys-threads-forewoven",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/destinys-threads-forewoven.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/destinys-threads-forewoven.webp"
+      },
+      "sha256": "2d25482bbd3025aa18c273200ba0ade52fa2bc79f53cfb95fd9a43caba44c03d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.dreams-montage.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "dreams-montage",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/dreams-montage.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/dreams-montage.webp"
+      },
+      "sha256": "98e70964cbb2df72f615756f61cacf60c630f2b4c6a9335ba9995ed844efe795",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.dreamville-adventure.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "dreamville-adventure",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/dreamville-adventure.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/dreamville-adventure.webp"
+      },
+      "sha256": "44209082967c130a66f6a581bff303acdf10d1f7f6cc6d488c64089c60cfa554",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.earthly-escapade.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "earthly-escapade",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/earthly-escapade.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/earthly-escapade.webp"
+      },
+      "sha256": "bf7d603fa9db044ab8f82534dc291d04f7e785bda828e58b70ae687bbd2fa007",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.echoes-of-the-coffin.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "echoes-of-the-coffin",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/echoes-of-the-coffin.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/echoes-of-the-coffin.webp"
+      },
+      "sha256": "d9a9e5c65dfa05b584a59e3f905cd06f7adf2eacd28813d8922aad1a0b961163",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.elation-brimming-with-blessings.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "elation-brimming-with-blessings",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/elation-brimming-with-blessings.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/elation-brimming-with-blessings.webp"
+      },
+      "sha256": "a3471ff6f08bcb56584384c76a2c56a08ff1ea0d80b761a172fce3865bd96a34",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.epoch-etched-in-golden-blood.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "epoch-etched-in-golden-blood",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/epoch-etched-in-golden-blood.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/epoch-etched-in-golden-blood.webp"
+      },
+      "sha256": "677921855956d69149e24b0e9eab4abca230df118102ad467ffac52104c04ce6",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.eternal-calculus.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "eternal-calculus",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/eternal-calculus.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/eternal-calculus.webp"
+      },
+      "sha256": "5ede3e6ad7a49d4f69d7b741080a567ece9fd2eadf2d5fdf56a86464021dd6e8",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.eyes-of-the-prey.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "eyes-of-the-prey",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/eyes-of-the-prey.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/eyes-of-the-prey.webp"
+      },
+      "sha256": "9a0186b78d2a7c4160d5ab302e047599db603be18bb65ea313902286b9c960ad",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.fermata.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "fermata",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/fermata.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/fermata.webp"
+      },
+      "sha256": "8e1208ad5a6823cdaf2dcba6482047b979788a7d1a162d4137432d6ccfc01d36",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.final-victor.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "final-victor",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/final-victor.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/final-victor.webp"
+      },
+      "sha256": "f2f8d091b50bb2d408843eac45767fe50bbdc6c149626424c7667931341269fe",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.fine-fruit.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "fine-fruit",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/fine-fruit.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/fine-fruit.webp"
+      },
+      "sha256": "1d10ffe31d16259a52cffa4d69c1c27a678b6dc44af87a9d4ed6f58cc600fbc6",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.flame-of-blood-blaze-my-path.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "flame-of-blood-blaze-my-path",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/flame-of-blood-blaze-my-path.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/flame-of-blood-blaze-my-path.webp"
+      },
+      "sha256": "ddb7bee32c95a9f6976e5c46f6e7d5f166771586ebc0978f0dd19d96c96a6a34",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.flames-afar.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "flames-afar",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/flames-afar.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/flames-afar.webp"
+      },
+      "sha256": "b674304a6bc07f87763dae83013f6bbb276632ee008af749d1cb096e264e4cee",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.flickering-stars.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "flickering-stars",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/flickering-stars.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/flickering-stars.webp"
+      },
+      "sha256": "6b54a157aa0be15d3ef07f39a4ac6caf14a269cbb562873b15f963892114109d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.flowing-nightglow.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "flowing-nightglow",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/flowing-nightglow.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/flowing-nightglow.webp"
+      },
+      "sha256": "6fa2b202f6b46a7aca01a7e64f201929295c4321c9ee3443d61410d7f374d4ca",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.fly-into-a-pink-tomorrow.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "fly-into-a-pink-tomorrow",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/fly-into-a-pink-tomorrow.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/fly-into-a-pink-tomorrow.webp"
+      },
+      "sha256": "2481ea3b299b1a78240eed4262bb2248f0a5bc36465f290d85915fb7158e67b6",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.for-tomorrows-journey.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "for-tomorrows-journey",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/for-tomorrows-journey.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/for-tomorrows-journey.webp"
+      },
+      "sha256": "9211907049d4d718b758a048ff38cd434ffb96e986ace499d65c4193dc3afb9d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.geniuses-greetings.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "geniuses-greetings",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/geniuses-greetings.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/geniuses-greetings.webp"
+      },
+      "sha256": "a8523a2571b732b087eeb6335b5cb533934a3177acecbf9b25c34e89bbd1c855",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.geniuses-repose.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "geniuses-repose",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/geniuses-repose.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/geniuses-repose.webp"
+      },
+      "sha256": "8dd8d2e9951a7a0bfcdcb6cb42adf97d3b46421034287856811bec11a093df3f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.good-night-and-sleep-well.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "good-night-and-sleep-well",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/good-night-and-sleep-well.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/good-night-and-sleep-well.webp"
+      },
+      "sha256": "71d5b463079287cf7fc7f4527d8db9a6507a14e07c9703105d2c34e7f7480357",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.hey-over-here.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "hey-over-here",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/hey-over-here.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/hey-over-here.webp"
+      },
+      "sha256": "7d3805dc006cc1266befc12ce5712868bcb65158c9b5961997aa6d6cfd75850f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.hidden-shadow.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "hidden-shadow",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/hidden-shadow.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/hidden-shadow.webp"
+      },
+      "sha256": "90794c26f6535378c60d8367e62d201bd143a3d0ea81bef8880bbcb449f236ee",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.holiday-thermae-escapade.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "holiday-thermae-escapade",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/holiday-thermae-escapade.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/holiday-thermae-escapade.webp"
+      },
+      "sha256": "bec48a603936023e5a84d98aa873be68ed6cb51602571b97b45fa9bff0f496c7",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.i-am-as-you-behold.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "i-am-as-you-behold",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/i-am-as-you-behold.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/i-am-as-you-behold.webp"
+      },
+      "sha256": "020386bec292405f4450a3476a3e685fb446ac10cff9f53941a53df0fa4d543e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.i-shall-be-my-own-sword.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "i-shall-be-my-own-sword",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/i-shall-be-my-own-sword.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/i-shall-be-my-own-sword.webp"
+      },
+      "sha256": "10c808c5d8ecb85315736d9ac5e5e5acd9ca322ebf6cff63bb608b1c7a8595db",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.i-venture-forth-to-hunt.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "i-venture-forth-to-hunt",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/i-venture-forth-to-hunt.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/i-venture-forth-to-hunt.webp"
+      },
+      "sha256": "49d8bae0e2a3e7554afe6807e12e84ed7388d817af331ba9b46fcbcc64c9d84d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.if-time-were-a-flower.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "if-time-were-a-flower",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/if-time-were-a-flower.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/if-time-were-a-flower.webp"
+      },
+      "sha256": "e18fbb0c0db7827a2f231292b952e56df5aee1c01ca7fe135c6a587e4778f319",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.in-pursuit-of-the-wind.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "in-pursuit-of-the-wind",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/in-pursuit-of-the-wind.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/in-pursuit-of-the-wind.webp"
+      },
+      "sha256": "c9d4c2bfd37315ba5c0ee0546b9cb3ab6c1aac01c5e2dd92156e0e50f3a7d8aa",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.in-the-name-of-the-world.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "in-the-name-of-the-world",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/in-the-name-of-the-world.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/in-the-name-of-the-world.webp"
+      },
+      "sha256": "21a2c08c12a4f750bb41dedbb16fd2ee80e8ee9a8de8fd61bb44cc49c6d3463f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.in-the-night.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "in-the-night",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/in-the-night.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/in-the-night.webp"
+      },
+      "sha256": "294868d2b2a76dcd99e4efdaa00bb6eeb5fc552010da787695e94bb0274e7b6b",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.incessant-rain.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "incessant-rain",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/incessant-rain.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/incessant-rain.webp"
+      },
+      "sha256": "d5155ddbe5f4884ff8cedeef479db792db7b7ccbc78d743a8e44b4bf78a47198",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.indelible-promise.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "indelible-promise",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/indelible-promise.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/indelible-promise.webp"
+      },
+      "sha256": "12aa6bfcdb078142bd85f74c8afe262217879eee7d2b7108e5ce7daea742c114",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.inherently-unjust-destiny.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "inherently-unjust-destiny",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/inherently-unjust-destiny.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/inherently-unjust-destiny.webp"
+      },
+      "sha256": "a17d373c0e11e0e177361dd2241539a562bc35fb7280f46816f9c51a73a27c0b",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.into-the-unreachable-veil.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "into-the-unreachable-veil",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/into-the-unreachable-veil.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/into-the-unreachable-veil.webp"
+      },
+      "sha256": "51a8ee4f019c00559c78d11a03122de33c3ac9e9e7b568d2e8d3e328d0561054",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.its-showtime.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "its-showtime",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/its-showtime.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/its-showtime.webp"
+      },
+      "sha256": "d6690a76e57043d2d572fba1c41fd53dc9ce375631be7c81878dbd933f3c041a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.journey-forever-peaceful.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "journey-forever-peaceful",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/journey-forever-peaceful.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/journey-forever-peaceful.webp"
+      },
+      "sha256": "cbe8d0846e6d7633f3a64d1403847f4cba4e21e5b6eb1664fbd2fbe8e2b0bb22",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.landaus-choice.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "landaus-choice",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/landaus-choice.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/landaus-choice.webp"
+      },
+      "sha256": "835d1c84521ad540374a09aea310a171f737e3d0ba5812bb30659fd7e817f2b1",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.lies-dance-on-the-breeze.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "lies-dance-on-the-breeze",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/lies-dance-on-the-breeze.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/lies-dance-on-the-breeze.webp"
+      },
+      "sha256": "7ff62b1638cbb1cd0d296404c47ff101324b3544b97c256ea4fe75e687516ca8",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.life-should-be-cast-to-flames.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "life-should-be-cast-to-flames",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/life-should-be-cast-to-flames.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/life-should-be-cast-to-flames.webp"
+      },
+      "sha256": "168eb5ec981b60fc4cb81daea794e9137cb66c0391328834bb888bab70b75f5f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.lingering-tear.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "lingering-tear",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/lingering-tear.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/lingering-tear.webp"
+      },
+      "sha256": "6fbdf8c612e8431d30e41f125e653c7818feebd6e802425fe9cf53de8285ce1b",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.long-may-rainbows-adorn-the-sky.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "long-may-rainbows-adorn-the-sky",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/long-may-rainbows-adorn-the-sky.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/long-may-rainbows-adorn-the-sky.webp"
+      },
+      "sha256": "8fbd89f965c238691f64239ffabc8c65bb4b31f0c1b0fb5a984629ea0c2c248e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.long-road-leads-home.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "long-road-leads-home",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/long-road-leads-home.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/long-road-leads-home.webp"
+      },
+      "sha256": "44acbaeb7b386e7f5a348c8f19fcd5519f96bd37b601a6e0a21de0b6b561db0a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.loop.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "loop",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/loop.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/loop.webp"
+      },
+      "sha256": "01dbd45bee7ddec240d5bc4ace66526a97de161b22753b04a08233cfbc42b4db",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.make-farewells-more-beautiful.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "make-farewells-more-beautiful",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/make-farewells-more-beautiful.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/make-farewells-more-beautiful.webp"
+      },
+      "sha256": "c34d4cccb288392842b279c94c7077ca80963b45fa5a5950ab4d89577c914e48",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.make-the-world-clamor.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "make-the-world-clamor",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/make-the-world-clamor.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/make-the-world-clamor.webp"
+      },
+      "sha256": "1d5943c6b6662db36a374fdf092919832ca2ff674dbd83021d784ea22c3576bd",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.mediation.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "mediation",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/mediation.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/mediation.webp"
+      },
+      "sha256": "b61d52043511ebd1cdfc06e410e9bd2a9a22a0232b327e6e9eeca082eb49d847",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.memories-of-the-past.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "memories-of-the-past",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/memories-of-the-past.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/memories-of-the-past.webp"
+      },
+      "sha256": "9bf195eb549cc67814c42372c176d500dacc3c18d5c749b7797842f147f1a0ca",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.memorys-curtain-never-falls.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "memorys-curtain-never-falls",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/memorys-curtain-never-falls.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/memorys-curtain-never-falls.webp"
+      },
+      "sha256": "b0a874c40427d15133bbf4c396886f0b6c256064152df5a3567d85d86a488217",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.meshing-cogs.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "meshing-cogs",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/meshing-cogs.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/meshing-cogs.webp"
+      },
+      "sha256": "e351e640902645782e1945ac69abc2c84a413bca0a64239ab623f5cf45589ef0",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.moment-of-victory.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "moment-of-victory",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/moment-of-victory.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/moment-of-victory.webp"
+      },
+      "sha256": "0da837e5d43bdc7bdf6504cdf7fbb0b2b395e545fa76bcbd1fa517b48ecf007a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.multiplication.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "multiplication",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/multiplication.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/multiplication.webp"
+      },
+      "sha256": "97c96c0210e5ab9e8082ae04942f1065b23fbf31d217099637eaa7764fd5a690",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.mushy-shroomys-adventures.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "mushy-shroomys-adventures",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/mushy-shroomys-adventures.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/mushy-shroomys-adventures.webp"
+      },
+      "sha256": "283d8346c679d31cbd66194b746cdd79a5e62d014014a393bdcb2c4d3a713023",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.mutual-demise.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "mutual-demise",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/mutual-demise.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/mutual-demise.webp"
+      },
+      "sha256": "0a5fe8654b67edb90ae6d3f42b541216efbf84358172aa2eaeeae9303af8ab40",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.never-forget-her-flame.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "never-forget-her-flame",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/never-forget-her-flame.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/never-forget-her-flame.webp"
+      },
+      "sha256": "035f36803232faf3c709346e00236507123d9b456d0893171ff4ab0c6a93fd3e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.night-of-fright.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "night-of-fright",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/night-of-fright.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/night-of-fright.webp"
+      },
+      "sha256": "1dde7d5257fa3625476d852951e82ff518036722e639839529a6c303322a51e8",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.night-on-the-milky-way.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "night-on-the-milky-way",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/night-on-the-milky-way.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/night-on-the-milky-way.webp"
+      },
+      "sha256": "3190eee8ede7bb228aad352e04985fb6a2059155ff191220171ed58a8e13ef04",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.ninja-record-sound-hunt.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "ninja-record-sound-hunt",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/ninja-record-sound-hunt.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/ninja-record-sound-hunt.webp"
+      },
+      "sha256": "cc3a337086621a1f1384df732af36009f34fd754b2055bb1a2e0e5d2f2ba1dca",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.ninjutsu-inscription-dazzling-evilbreaker.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "ninjutsu-inscription-dazzling-evilbreaker",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/ninjutsu-inscription-dazzling-evilbreaker.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/ninjutsu-inscription-dazzling-evilbreaker.webp"
+      },
+      "sha256": "559ab917b261ff1e015d2e7901eff578189c4e5ac6fa373fa64b41d4d107616a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.nowhere-to-run.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "nowhere-to-run",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/nowhere-to-run.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/nowhere-to-run.webp"
+      },
+      "sha256": "c2d8b82d55800c52fbee926c055e7d94dfe193f821a51086dfb18c1f4cc02e78",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.on-the-fall-of-an-aeon.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "on-the-fall-of-an-aeon",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/on-the-fall-of-an-aeon.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/on-the-fall-of-an-aeon.webp"
+      },
+      "sha256": "46bf651f47d4acd9470449b069bad985440ab7e8338709b0d27650909aded69f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.only-silence-remains.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "only-silence-remains",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/only-silence-remains.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/only-silence-remains.webp"
+      },
+      "sha256": "688146d94007b3333a752288c928634dd5d1ca5b61843a0fa94a023da6c0e82f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.passkey.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "passkey",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/passkey.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/passkey.webp"
+      },
+      "sha256": "784b3e91b18b18dd8189c2eedd124690f6e0f095edc3b7b6052baf931824a80e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.past-and-future.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "past-and-future",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/past-and-future.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/past-and-future.webp"
+      },
+      "sha256": "741546195d53ee62f96abd980ec676d4e97ee5601d53ba10388f5a4dc99895dc",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.past-self-in-mirror.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "past-self-in-mirror",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/past-self-in-mirror.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/past-self-in-mirror.webp"
+      },
+      "sha256": "c9b96050767c72514b618653f0e23c9107d2d023a08b2d423021e492ba0cc742",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.patience-is-all-you-need.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "patience-is-all-you-need",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/patience-is-all-you-need.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/patience-is-all-you-need.webp"
+      },
+      "sha256": "6eae82dfb98a34d8a73d454cb94c2420ae61f2db20fdfd9a9de8651dcba8d1b3",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.perfect-timing.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "perfect-timing",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/perfect-timing.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/perfect-timing.webp"
+      },
+      "sha256": "2160473ffff07ddad920a34f83abb21a247a1a07ff5c021a77e56f13f41a4c30",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.pioneering.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "pioneering",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/pioneering.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/pioneering.webp"
+      },
+      "sha256": "9958ee4f6bdce6e7343eef8c5b5b2c88158d8fc2b70f2b3101a744cd10954c05",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.planetary-rendezvous.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "planetary-rendezvous",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/planetary-rendezvous.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/planetary-rendezvous.webp"
+      },
+      "sha256": "fbbac2bf47749b469747ddefdd59b82a26584a599d6ac36fdcecda47cbe2d9dc",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.poised-to-bloom.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "poised-to-bloom",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/poised-to-bloom.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/poised-to-bloom.webp"
+      },
+      "sha256": "3c78f9644b6a4843f80dd27b4de750eb0a904e5f691b79f441fac39ee53a0b7e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.post-op-conversation.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "post-op-conversation",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/post-op-conversation.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/post-op-conversation.webp"
+      },
+      "sha256": "cde566d3480484118fe750f4ab2baa16435803abc62d43b00d8b7daf258c9a51",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.quid-pro-quo.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "quid-pro-quo",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/quid-pro-quo.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/quid-pro-quo.webp"
+      },
+      "sha256": "12779b282fe58d976eccf52b3baf92cfb1d8a585d9aa191591e94de5af056d7b",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.race-to-the-horizon.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "race-to-the-horizon",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/race-to-the-horizon.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/race-to-the-horizon.webp"
+      },
+      "sha256": "e6a5b99527764788e4c7e7f166d97c1329f8e923eaab82464087a51adcdbf50c",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.reforged-in-hellfire.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "reforged-in-hellfire",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/reforged-in-hellfire.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/reforged-in-hellfire.webp"
+      },
+      "sha256": "77ee09b80306d0d78a9b57590ae89cc66c249fee5c16d4b06015eb8d18bd31ef",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.reforged-remembrance.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "reforged-remembrance",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/reforged-remembrance.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/reforged-remembrance.webp"
+      },
+      "sha256": "816192eed12784f11f7b188a6b4faf26394641e96926cdcabdedabad0dc9974d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.reminiscence.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "reminiscence",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/reminiscence.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/reminiscence.webp"
+      },
+      "sha256": "8b1f7015020bdb30f6bc8c48b6cf760ec184a93eaebe409bd1b483d048b0bcde",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.resolution-shines-as-pearls-of-sweat.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "resolution-shines-as-pearls-of-sweat",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/resolution-shines-as-pearls-of-sweat.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/resolution-shines-as-pearls-of-sweat.webp"
+      },
+      "sha256": "d7133af1f08a7416cb3e0ade9f5a14911465aa723449e1cfe8b8924f8fa148fe",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.return-to-darkness.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "return-to-darkness",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/return-to-darkness.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/return-to-darkness.webp"
+      },
+      "sha256": "fa8e27237c2eb31a4b880d3b800ca6fd3354e898f65b9f66600300f757d714cc",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.rise-and-sing.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "rise-and-sing",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/rise-and-sing.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/rise-and-sing.webp"
+      },
+      "sha256": "a8c8cbca9fd19cc364acbc7118c4635d1bb54dc5d20bc61962900c5b04f313fd",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.river-flows-in-spring.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "river-flows-in-spring",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/river-flows-in-spring.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/river-flows-in-spring.webp"
+      },
+      "sha256": "1f75381dc95bbd947f676b5b37b3d3a0e587863138534d3bc3a3a263e5c4ccb6",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.sagacity.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "sagacity",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/sagacity.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/sagacity.webp"
+      },
+      "sha256": "08aa99f85b4606f504f6f5a5fbecf0fac48f7ddd7c8302ec4deca695c87374ff",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.sailing-towards-a-second-life.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "sailing-towards-a-second-life",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/sailing-towards-a-second-life.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/sailing-towards-a-second-life.webp"
+      },
+      "sha256": "421bab9512be1ae034918970b7e1076ad2218370133868558765fe2cf7beb9ea",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.scent-alone-stays-true.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "scent-alone-stays-true",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/scent-alone-stays-true.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/scent-alone-stays-true.webp"
+      },
+      "sha256": "a8731606c3f8462ebc76a70c1019635a6f0023a03ff98d9e8e030212e6c40772",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.see-you-at-the-end.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "see-you-at-the-end",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/see-you-at-the-end.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/see-you-at-the-end.webp"
+      },
+      "sha256": "e5c31caa62b5463270d11a44311ab9270787413ca20193546de0bb696cfbbb94",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.shadowburn.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "shadowburn",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/shadowburn.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/shadowburn.webp"
+      },
+      "sha256": "d07808dcadd0d5defd1d0bd22d188fb391c9dfd8f937e09a05cec7c1652c48a6",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.shadowed-by-night.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "shadowed-by-night",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/shadowed-by-night.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/shadowed-by-night.webp"
+      },
+      "sha256": "e3ea84d57c10918dca38727c80f5c5753c965a47263c7587e590e34ec44c35c2",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.shared-feeling.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "shared-feeling",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/shared-feeling.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/shared-feeling.webp"
+      },
+      "sha256": "462cb2ed92b91924f73f989a5620ab703f31cf20b1d1dfe2bcfcf135dacadaae",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.shattered-home.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "shattered-home",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/shattered-home.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/shattered-home.webp"
+      },
+      "sha256": "84f9c321516c0e1005a59de0e1450d691bbe005fddef5e64ed8fdf41ecfcec3d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.she-already-shut-her-eyes.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "she-already-shut-her-eyes",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/she-already-shut-her-eyes.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/she-already-shut-her-eyes.webp"
+      },
+      "sha256": "85290ace4ef9bdf3ba2a2fa5f80666354712f463c8f461e3a50a66a04df3f8d3",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.sleep-like-the-dead.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "sleep-like-the-dead",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/sleep-like-the-dead.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/sleep-like-the-dead.webp"
+      },
+      "sha256": "2ab89958d6a8583e71652cf8eae9ebf9fa1597a7b2bed4333566e77e274609b1",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.sneering.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "sneering",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/sneering.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/sneering.webp"
+      },
+      "sha256": "e9f1dde53c6bc42efbc2a3286fae2dd8e4e1d60bc5834708f6c7b71c7f278cc0",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.solitary-healing.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "solitary-healing",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/solitary-healing.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/solitary-healing.webp"
+      },
+      "sha256": "c1138648f103407183c6105d99c678272a5fc33f812cd7a5a850ba64cc10b1f6",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.something-irreplaceable.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "something-irreplaceable",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/something-irreplaceable.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/something-irreplaceable.webp"
+      },
+      "sha256": "9b78fc2ab05b06c6d261677eccf3309e8f33a93ad5b67a69d753af7ada1e094a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.subscribe-for-more.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "subscribe-for-more",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/subscribe-for-more.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/subscribe-for-more.webp"
+      },
+      "sha256": "75d32c978ea2a77f4563edf0ca8ce8e875d02d9ad1e46dc88977a05e31856592",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.summer-rides-the-surf.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "summer-rides-the-surf",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/summer-rides-the-surf.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/summer-rides-the-surf.webp"
+      },
+      "sha256": "cdeb1dc241e88578d7b93ea6b4f0a57d0f607e5ba9094f3b5ca12a00567a06d9",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.sweat-now-cry-less.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "sweat-now-cry-less",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/sweat-now-cry-less.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/sweat-now-cry-less.webp"
+      },
+      "sha256": "5088f0bfac9973c35dce81d76e74f18fc275a688ff20b3f5afb1a7a7c10793a0",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.swordplay.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "swordplay",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/swordplay.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/swordplay.webp"
+      },
+      "sha256": "6270c0771c000c7554fcce084adbdbcf50524989e179c56a30a145ce9be4ee26",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.texture-of-memories.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "texture-of-memories",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/texture-of-memories.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/texture-of-memories.webp"
+      },
+      "sha256": "90a0b7330966e985d5fa80ce14a817471fcd4886332b1cccfdef53aa0a961ff7",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.the-birth-of-the-self.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "the-birth-of-the-self",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/the-birth-of-the-self.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/the-birth-of-the-self.webp"
+      },
+      "sha256": "95452b37886f13be132d6389e165d58bdd29f7492d2c57e2bcfe1522354d4f6b",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.the-day-the-cosmos-fell.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "the-day-the-cosmos-fell",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/the-day-the-cosmos-fell.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/the-day-the-cosmos-fell.webp"
+      },
+      "sha256": "ee3471ae67eaf73f09625f5c0e277111bd118139959986433d47c79cc9f8223c",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.the-finale-of-a-lie.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "the-finale-of-a-lie",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/the-finale-of-a-lie.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/the-finale-of-a-lie.webp"
+      },
+      "sha256": "64709795f9eb2cf19bb4c5a3b1e49f915b04aef1c47cf60c73c3003060b37907",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.the-flower-remembers.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "the-flower-remembers",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/the-flower-remembers.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/the-flower-remembers.webp"
+      },
+      "sha256": "8398768a10aa88af5302358741b6d9ff18371ae2bd205cd97d265c380fa773ef",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.the-forever-victual.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "the-forever-victual",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/the-forever-victual.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/the-forever-victual.webp"
+      },
+      "sha256": "88d516369f65d77f3aa4f92397ceaf4e6bbdc5b6aa97da40764e55bcceb75106",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.the-great-cosmic-enterprise.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "the-great-cosmic-enterprise",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/the-great-cosmic-enterprise.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/the-great-cosmic-enterprise.webp"
+      },
+      "sha256": "834b20fe01618508c74ac3da6af19703dbef533301cb730f4dad2d0f2de168f0",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.the-hell-where-ideals-burn.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "the-hell-where-ideals-burn",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/the-hell-where-ideals-burn.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/the-hell-where-ideals-burn.webp"
+      },
+      "sha256": "d95eecf9836309757a5a094729c79ba8d8f9850332a6e653409269ac38547a99",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.the-moles-welcome-you.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "the-moles-welcome-you",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/the-moles-welcome-you.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/the-moles-welcome-you.webp"
+      },
+      "sha256": "5e7a51cfbd8ca29b415a301f416f979fc88d920fbd516509200982fdfcb6c56d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.the-seriousness-of-breakfast.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "the-seriousness-of-breakfast",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/the-seriousness-of-breakfast.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/the-seriousness-of-breakfast.webp"
+      },
+      "sha256": "debaad207ec512f466b5059501cae33e68e2166c280a4e5cad96cb328b191ff9",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.the-storys-next-page.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "the-storys-next-page",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/the-storys-next-page.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/the-storys-next-page.webp"
+      },
+      "sha256": "2231092b0b3116c7059f39c0bb15c996828d083737aaa8e6347c0df945acaad7",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.the-unreachable-side.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "the-unreachable-side",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/the-unreachable-side.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/the-unreachable-side.webp"
+      },
+      "sha256": "646075b7b23bf950829d1d1d8aee83145e111ef4a299e17014bc11a7e3793ea5",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.this-is-me.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "this-is-me",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/this-is-me.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/this-is-me.webp"
+      },
+      "sha256": "a9b9fc249cfa1ea8c88ebf65326d81db15e7d637f83c5e37eaa573790462d93e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.this-love-forever.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "this-love-forever",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/this-love-forever.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/this-love-forever.webp"
+      },
+      "sha256": "9d4d508de028f4a97df5a2c24282658ec7cdf983e8b99ea51068fcedff71f48a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.those-many-springs.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "those-many-springs",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/those-many-springs.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/those-many-springs.webp"
+      },
+      "sha256": "81e0e82de6c9800f6c21c650557e267419e7de67b1abef031bbf1f05a5fc92c7",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.though-worlds-apart.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "though-worlds-apart",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/though-worlds-apart.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/though-worlds-apart.webp"
+      },
+      "sha256": "89e8343a162167c48692b0860f1c02f978e714a4cacc326f2d5529eae8ee1506",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.thus-burns-the-dawn.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "thus-burns-the-dawn",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/thus-burns-the-dawn.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/thus-burns-the-dawn.webp"
+      },
+      "sha256": "0f9d2fb9245c6b539858b8d90df88a20f80a4ace7aa90e24ae9a84e8b1713d30",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.time-waits-for-no-one.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "time-waits-for-no-one",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/time-waits-for-no-one.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/time-waits-for-no-one.webp"
+      },
+      "sha256": "7aa945c5d44c3d7e603fac9a7527852eb7bc7f3a8e7a32db88a52df6865169fa",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.time-woven-into-gold.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "time-woven-into-gold",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/time-woven-into-gold.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/time-woven-into-gold.webp"
+      },
+      "sha256": "d0784acc6b17af161581c4f4f2e728c1f96324ed7c3dab1ab19cd540806b79ea",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.to-evernights-stars.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "to-evernights-stars",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/to-evernights-stars.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/to-evernights-stars.webp"
+      },
+      "sha256": "432f7a392ccf3b3cdc017b658ea832123458d6b5804f0ac96cd5dd345061871d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.today-is-another-peaceful-day.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "today-is-another-peaceful-day",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/today-is-another-peaceful-day.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/today-is-another-peaceful-day.webp"
+      },
+      "sha256": "ac4e007929322248d47e1434aa3a8377a5946822c47694154f0cbcb9e217ca09",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.todays-good-luck.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "todays-good-luck",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/todays-good-luck.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/todays-good-luck.webp"
+      },
+      "sha256": "64d71d20aa2f3e81500c250c547e93608eeda0d78c9c0a56031c837efb1b31f7",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.tomorrow-together.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "tomorrow-together",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/tomorrow-together.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/tomorrow-together.webp"
+      },
+      "sha256": "8aadf6a9da82138787952e42345da65ca315658bdf88174b7dbd61421cfd2d42",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.trend-of-the-universal-market.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "trend-of-the-universal-market",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/trend-of-the-universal-market.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/trend-of-the-universal-market.webp"
+      },
+      "sha256": "818f899b2238f9580422e642c0d26ae4b9e1fa771b3c1dd5141cf119f39b1a15",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.under-the-blue-sky.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "under-the-blue-sky",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/under-the-blue-sky.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/under-the-blue-sky.webp"
+      },
+      "sha256": "f0b8503b4139b8e4ac16755580aba99b39fc5911d4edbccad8b2af419923dc30",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.until-the-flowers-bloom-again.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "until-the-flowers-bloom-again",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/until-the-flowers-bloom-again.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/until-the-flowers-bloom-again.webp"
+      },
+      "sha256": "edddcd3bc7877b93bf0923b1bc4c5d85e265d04c212787d0e655f2946b8df215",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.unto-tomorrows-morrow.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "unto-tomorrows-morrow",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/unto-tomorrows-morrow.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/unto-tomorrows-morrow.webp"
+      },
+      "sha256": "dbbc5fe032cc9a468fd6876f9e9dbfe3d8390e13b90d9cb325fd3519236ba85f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.victory-in-a-blink.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "victory-in-a-blink",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/victory-in-a-blink.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/victory-in-a-blink.webp"
+      },
+      "sha256": "8b87752df225913fcff01e5cc8c1b8abea8c1382d9aa0c0cbd13ee2aae4b80e3",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.void.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "void",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/void.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/void.webp"
+      },
+      "sha256": "220322085f74437a45836223d4257630862514c17180e1af37f049680bc93eed",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.warmth-shortens-cold-nights.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "warmth-shortens-cold-nights",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/warmth-shortens-cold-nights.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/warmth-shortens-cold-nights.webp"
+      },
+      "sha256": "aa4e604d70b9bc1cbd3fba67d1fbb8675380609748150ae20678c49c6d367be7",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.we-are-wildfire.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "we-are-wildfire",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/we-are-wildfire.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/we-are-wildfire.webp"
+      },
+      "sha256": "7524cce71e54eb519b28e342b2273777a8879654520d214fff1b7c1ea6483b27",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.we-will-meet-again.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "we-will-meet-again",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/we-will-meet-again.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/we-will-meet-again.webp"
+      },
+      "sha256": "fd6b32ce853bf5aa420e07fd49ef80ed10679a903350390c0f468c7438649767",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.welcome-to-the-cosmic-city.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "welcome-to-the-cosmic-city",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/welcome-to-the-cosmic-city.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/welcome-to-the-cosmic-city.webp"
+      },
+      "sha256": "fd7959d19d82a4450ac7004e10ccfe68bd06207bcf300b9261ef377db03d54b3",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.what-is-real.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "what-is-real",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/what-is-real.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/what-is-real.webp"
+      },
+      "sha256": "651eec70c03248278a9988de6db60543d7b80dcc3574306bca13da0706ddd6bb",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.when-she-decided-to-see.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "when-she-decided-to-see",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/when-she-decided-to-see.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/when-she-decided-to-see.webp"
+      },
+      "sha256": "2126b39cafe64a464c274f0495217038439b3af167f3d98edde4b5deacc0a69e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.whereabouts-should-dreams-rest.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "whereabouts-should-dreams-rest",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/whereabouts-should-dreams-rest.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/whereabouts-should-dreams-rest.webp"
+      },
+      "sha256": "dc19796665754546273f0d069e3f1ea87bde1fbb3a1e94534683ada19a79d8b7",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.why-does-the-ocean-sing.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "why-does-the-ocean-sing",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/why-does-the-ocean-sing.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/why-does-the-ocean-sing.webp"
+      },
+      "sha256": "c19663e530b440ce84dab3b4eb06d01f841c2acf0454b30caec6d9bada8da44f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.woof-walk-time.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "woof-walk-time",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/woof-walk-time.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/woof-walk-time.webp"
+      },
+      "sha256": "6447a7427abadd088138f6ef4c8a9657cddba37d996546923baae8d44d101c58",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.worrisome-blissful.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "worrisome-blissful",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/worrisome-blissful.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/worrisome-blissful.webp"
+      },
+      "sha256": "09f1171a3593df4195016063c3ccae726fb8f0913c347a3ffe033d1c4d2bf356",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.weapon.yet-hope-is-priceless.icon",
+      "game": "hsr",
+      "entityType": "weapon",
+      "entityId": "yet-hope-is-priceless",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/light-cones/yet-hope-is-priceless.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/weapons/yet-hope-is-priceless.webp"
+      },
+      "sha256": "f9cd513566ae9d5b9cb2ec16c984eeecd0e8ded0bb1ac4802b2d904356c43790",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.amphoreus-the-eternal-land.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "amphoreus-the-eternal-land",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/amphoreus-the-eternal-land.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/amphoreus-the-eternal-land.webp"
+      },
+      "sha256": "703bfa888d377a8813b48f9d8e81bcbdcb6908bae194fdfad180b446c1dd92e5",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.arcadia-of-woven-dreams.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "arcadia-of-woven-dreams",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/arcadia-of-woven-dreams.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/arcadia-of-woven-dreams.webp"
+      },
+      "sha256": "ac3edd3f530ffceeafbb1bc1dbf8f4c6fcf223b12c06dbfdef70643f831a2d55",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.as-navigator-isee-sees-it.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "as-navigator-isee-sees-it",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/as-navigator-isee-sees-it.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/as-navigator-isee-sees-it.webp"
+      },
+      "sha256": "7c35ec82462c4b901861ae4f2a89ba21a6a2a4162af858828c23ba16d3861bca",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.band-of-sizzling-thunder.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "band-of-sizzling-thunder",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/band-of-sizzling-thunder.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/band-of-sizzling-thunder.webp"
+      },
+      "sha256": "ca7f8f8247992db5b232e3a79d71808faffc9e6cc59c316baedae2d52e806b55",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.belobog-of-the-architects.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "belobog-of-the-architects",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/belobog-of-the-architects.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/belobog-of-the-architects.webp"
+      },
+      "sha256": "54199b002f4cb8b2a5686ce96dde9f7bc66a1f07d7d7fcfd331226b675bfc396",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.bone-collections-serene-demesne.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "bone-collections-serene-demesne",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/bone-collections-serene-demesne.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/bone-collections-serene-demesne.webp"
+      },
+      "sha256": "445be93d5abff2581912331cba93a18daf772345464605cb41bffb1274e3e4f9",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.broken-keel.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "broken-keel",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/broken-keel.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/broken-keel.webp"
+      },
+      "sha256": "df24823a4eb174534a4093387cb061d75d5776f8e476bd5bf68138bcd7d19f11",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.celestial-differentiator.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "celestial-differentiator",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/celestial-differentiator.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/celestial-differentiator.webp"
+      },
+      "sha256": "803b779204322c387167e3f2c9d5c2b6970b5899e1135189a05331ddc42be271",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.champion-of-streetwise-boxing.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "champion-of-streetwise-boxing",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/champion-of-streetwise-boxing.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/champion-of-streetwise-boxing.webp"
+      },
+      "sha256": "1758797da781f9400827604fcd4f82d523ba8af40ee5132bf5d80bc11548cd5e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.city-of-converging-stars.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "city-of-converging-stars",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/city-of-converging-stars.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/city-of-converging-stars.webp"
+      },
+      "sha256": "112dbcb0952cd30f2d66e1c950dcf81460056f7a5c884e3736eee20a69010a50",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.cosmic-life-sciences-institute.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "cosmic-life-sciences-institute",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/cosmic-life-sciences-institute.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/cosmic-life-sciences-institute.webp"
+      },
+      "sha256": "e1eac942825442847801e7c793e1e7db4281f42e7d0986128bebd3ba77de12bf",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.divine-querying-master-smith.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "divine-querying-master-smith",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/divine-querying-master-smith.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/divine-querying-master-smith.webp"
+      },
+      "sha256": "226aadb5e0bef6c6a4f32146ee9b63d89ca5fc1a16d9269bd42c00768b100a8e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.diviner-of-distant-reach.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "diviner-of-distant-reach",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/diviner-of-distant-reach.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/diviner-of-distant-reach.webp"
+      },
+      "sha256": "7fd95a5554e035279d45fada9c4815687a15fff37aff2f5f606985a5d6d6dd94",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.dreamlit-actor.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "dreamlit-actor",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/dreamlit-actor.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/dreamlit-actor.webp"
+      },
+      "sha256": "5c6ceac8077d2c5e33fc06e251970873ba274fd7378c572e731e6477554f75b6",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.duran-dynasty-of-running-wolves.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "duran-dynasty-of-running-wolves",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/duran-dynasty-of-running-wolves.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/duran-dynasty-of-running-wolves.webp"
+      },
+      "sha256": "b96a88fe37e4bff850f51ad674059cfec648b86513567d7a8e9eab8a86e66199",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.eagle-of-twilight-line.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "eagle-of-twilight-line",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/eagle-of-twilight-line.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/eagle-of-twilight-line.webp"
+      },
+      "sha256": "da8940fb989a62f6ca23dcb5dd89dbd1ac7c2f8cbfdd4442cc98a754b2b0cfb2",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.ever-glorious-magical-girl.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "ever-glorious-magical-girl",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/ever-glorious-magical-girl.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/ever-glorious-magical-girl.webp"
+      },
+      "sha256": "5de64582835b5e7d37ba4820a3b474fe233d1aad06cbb8130748e5920c2bc67d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.fallen-star-anchorage.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "fallen-star-anchorage",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/fallen-star-anchorage.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/fallen-star-anchorage.webp"
+      },
+      "sha256": "50f0c830282765de5a16149682775d74d5c272728bcc52dab0a071a2cb2a5ed9",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.firesmith-of-lava-forging.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "firesmith-of-lava-forging",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/firesmith-of-lava-forging.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/firesmith-of-lava-forging.webp"
+      },
+      "sha256": "7533b99172d004c8760de9ab4e58135e25a269d2c08a115cbe560d49d3bdaaf5",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.firmament-frontline-glamoth.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "firmament-frontline-glamoth",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/firmament-frontline-glamoth.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/firmament-frontline-glamoth.webp"
+      },
+      "sha256": "29edec915602dc939c29a519a422fdccaf392cc14adaa97cacc4d9f8895e06de",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.fleet-of-the-ageless.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "fleet-of-the-ageless",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/fleet-of-the-ageless.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/fleet-of-the-ageless.webp"
+      },
+      "sha256": "2608aa369d7345f182aa2663cdb391f8550f7e0af150ab1fc064e595b3bf8bff",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.forge-of-the-kalpagni-lantern.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "forge-of-the-kalpagni-lantern",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/forge-of-the-kalpagni-lantern.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/forge-of-the-kalpagni-lantern.webp"
+      },
+      "sha256": "4f801cb7b4d931692c6b627049f43900469e376530b5dd23197d65c21565705e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.genius-of-brilliant-stars.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "genius-of-brilliant-stars",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/genius-of-brilliant-stars.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/genius-of-brilliant-stars.webp"
+      },
+      "sha256": "0fe11529787b07249d7e88d4c081d5c96876d7a15e087b4c155b9722b9da7fd5",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.giant-tree-of-rapt-brooding.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "giant-tree-of-rapt-brooding",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/giant-tree-of-rapt-brooding.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/giant-tree-of-rapt-brooding.webp"
+      },
+      "sha256": "da226c4fa6e90c7ae87be87699cfb33570c8c4eb4a1a241e03c16cd46e612e66",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.guard-of-wuthering-snow.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "guard-of-wuthering-snow",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/guard-of-wuthering-snow.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/guard-of-wuthering-snow.webp"
+      },
+      "sha256": "319dee1625f06a023f6796329cad0907c217c0375719202246d6a8ecaf71b7e9",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.hero-of-triumphant-song.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "hero-of-triumphant-song",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/hero-of-triumphant-song.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/hero-of-triumphant-song.webp"
+      },
+      "sha256": "3bb102c7d9ff1005d0ffbf8fd3dfc66e24770c4714d80ce6fef88f0ce0ebc612",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.hunter-of-glacial-forest.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "hunter-of-glacial-forest",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/hunter-of-glacial-forest.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/hunter-of-glacial-forest.webp"
+      },
+      "sha256": "52123bd2829f4b3c9dcd69bb11b0dfd8e7fa8ec6cd395365cf51fa0d15666a7a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.inert-salsotto.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "inert-salsotto",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/inert-salsotto.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/inert-salsotto.webp"
+      },
+      "sha256": "30e92322d1ed10da8a8678184f932548444edb50a1296df69b0992e36b541ca8",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.iron-cavalry-against-the-scourge.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "iron-cavalry-against-the-scourge",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/iron-cavalry-against-the-scourge.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/iron-cavalry-against-the-scourge.webp"
+      },
+      "sha256": "47d2d4b42e5704b43a182d6a1efdc74b8cdee6a7b42544b22e4e5d2d35dd3f58",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.izumo-gensei-and-takama-divine-realm.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "izumo-gensei-and-takama-divine-realm",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/izumo-gensei-and-takama-divine-realm.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/izumo-gensei-and-takama-divine-realm.webp"
+      },
+      "sha256": "5b66d95a23ab316daaac1fd52aa71363091549de75c2a4b246ada54cb45d65d2",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.knight-of-purity-palace.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "knight-of-purity-palace",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/knight-of-purity-palace.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/knight-of-purity-palace.webp"
+      },
+      "sha256": "e9ca277425716601761008ef5c01843aaac13071c37e44d7c1626c3b420e6f13",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.longevous-disciple.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "longevous-disciple",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/longevous-disciple.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/longevous-disciple.webp"
+      },
+      "sha256": "af6018d19bbc1dc1512cfa053cfa890158aa27cbad2da29f6845fbaeefa1332d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.lushaka-the-sunken-seas.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "lushaka-the-sunken-seas",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/lushaka-the-sunken-seas.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/lushaka-the-sunken-seas.webp"
+      },
+      "sha256": "259237d5dccddb8d3d39c398d1220f0d304e059c75bfe9f95248b54631cdfe43",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.messenger-traversing-hackerspace.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "messenger-traversing-hackerspace",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/messenger-traversing-hackerspace.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/messenger-traversing-hackerspace.webp"
+      },
+      "sha256": "52b638b5d1995bab6f6adac7b408b62d13d4f3ed965340b29b90a01577bfd2aa",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.musketeer-of-wild-wheat.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "musketeer-of-wild-wheat",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/musketeer-of-wild-wheat.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/musketeer-of-wild-wheat.webp"
+      },
+      "sha256": "680e6119ef8e5c9fa712d30fd29190aaaabb86092a06787e9903a7ee52352fdf",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.pan-cosmic-commercial-enterprise.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "pan-cosmic-commercial-enterprise",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/pan-cosmic-commercial-enterprise.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/pan-cosmic-commercial-enterprise.webp"
+      },
+      "sha256": "102a44444a42c69cab40247097bafd93260ab5a36e26de6541e53eb3711deb03",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.passerby-of-wandering-cloud.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "passerby-of-wandering-cloud",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/passerby-of-wandering-cloud.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/passerby-of-wandering-cloud.webp"
+      },
+      "sha256": "9aa11a67f020ab725628b3df2ab3f2d205e4e7b5773595fb3404d93333abf4bc",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.penacony-land-of-the-dreams.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "penacony-land-of-the-dreams",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/penacony-land-of-the-dreams.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/penacony-land-of-the-dreams.webp"
+      },
+      "sha256": "2a8d3c0e8630db0d39c94431fc07086f74089897cc7900c0423a90ddf890e861",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.pioneer-diver-of-dead-waters.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "pioneer-diver-of-dead-waters",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/pioneer-diver-of-dead-waters.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/pioneer-diver-of-dead-waters.webp"
+      },
+      "sha256": "cb5f10bb04d61deff8e7a5edab9a4a73a68024810baf0a3b5013f1557031e341",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.poet-of-mourning-collapse.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "poet-of-mourning-collapse",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/poet-of-mourning-collapse.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/poet-of-mourning-collapse.webp"
+      },
+      "sha256": "23b9a04762c0e2fc9808985ae9e7814274c94efc56efa9d02294ad80917a3ee1",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.prisoner-in-deep-confinement.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "prisoner-in-deep-confinement",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/prisoner-in-deep-confinement.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/prisoner-in-deep-confinement.webp"
+      },
+      "sha256": "4e47227db7bf9c62efac5b832e105c195240db4712716ba77e6fd73f0838feaa",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.punklorde-stage-zero.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "punklorde-stage-zero",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/punklorde-stage-zero.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/punklorde-stage-zero.webp"
+      },
+      "sha256": "4cf78ffe5e78f2e593590f0cee55b657c65271a7847243fedde562d12b90c097",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.revelry-by-the-sea.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "revelry-by-the-sea",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/revelry-by-the-sea.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/revelry-by-the-sea.webp"
+      },
+      "sha256": "77f72b500e9c2f7dd3615e7fc3c997b5161c817bfdc5ca566a82722257eae188",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.rutilant-arena.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "rutilant-arena",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/rutilant-arena.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/rutilant-arena.webp"
+      },
+      "sha256": "f535e14b2c8386a434afc4d4e3830c6462183ad9ee90e0d538d1f48404975006",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.sacerdos-relived-ordeal.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "sacerdos-relived-ordeal",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/sacerdos-relived-ordeal.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/sacerdos-relived-ordeal.webp"
+      },
+      "sha256": "3084d2c16b8d56c62b5747da09280330e3297ff05655ef6e7e6e0bd4b00d0e1d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.scholar-lost-in-erudition.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "scholar-lost-in-erudition",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/scholar-lost-in-erudition.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/scholar-lost-in-erudition.webp"
+      },
+      "sha256": "334c0e2a1a2a860f92545b7799a1e1188d3bf5c4b10e961806b93d27c1d764d7",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.self-enshrouded-recluse.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "self-enshrouded-recluse",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/self-enshrouded-recluse.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/self-enshrouded-recluse.webp"
+      },
+      "sha256": "1e77d45118602f247a0fca0efe7aa24499cdf0b7abf5a844694c74df5c465edc",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.sigonia-the-unclaimed-desolation.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "sigonia-the-unclaimed-desolation",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/sigonia-the-unclaimed-desolation.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/sigonia-the-unclaimed-desolation.webp"
+      },
+      "sha256": "de4bd635be35433d185bace4d0d75af6e3d979d7ff15b5d5b75a3aefcdce3be5",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.space-sealing-station.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "space-sealing-station",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/space-sealing-station.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/space-sealing-station.webp"
+      },
+      "sha256": "a3e945e4fe80c07f11f6095949d7c0cea8f1dc808ad709bbd0d475b2d039ca4d",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.sprightly-vonwacq.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "sprightly-vonwacq",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/sprightly-vonwacq.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/sprightly-vonwacq.webp"
+      },
+      "sha256": "fc5cc87fcb4d2f4be838c6106920df2476e4a834fd50743eece4f681117f6549",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.talia-kingdom-of-banditry.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "talia-kingdom-of-banditry",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/talia-kingdom-of-banditry.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/talia-kingdom-of-banditry.webp"
+      },
+      "sha256": "4908f0a4c0dd889a0fd0dd3ef7903c31cfcdf1ef34c2b57a46580f7316ae3a0e",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.tengoku-live-stream.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "tengoku-live-stream",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/tengoku-live-stream.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/tengoku-live-stream.webp"
+      },
+      "sha256": "357ef23e9bae2e389ead267dcac7153f5bf02c2fdb008551a5fcda86c27bcf38",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.the-ashblazing-grand-duke.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "the-ashblazing-grand-duke",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/the-ashblazing-grand-duke.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/the-ashblazing-grand-duke.webp"
+      },
+      "sha256": "378e8893350791454e992f607b71d0783e98648f07dacaac6a20375a2719d104",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.the-edacious-heretic.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "the-edacious-heretic",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/the-edacious-heretic.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/the-edacious-heretic.webp"
+      },
+      "sha256": "7a7c9d7f868eaabbba121959249b6a85adba26fb139ec695c9a949beab172a97",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.the-wind-soaring-valorous.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "the-wind-soaring-valorous",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/the-wind-soaring-valorous.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/the-wind-soaring-valorous.webp"
+      },
+      "sha256": "9e7e10a2875093e18343677b41cfac4f5c6b0807d9751aba11199e8a72117d8a",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.the-wondrous-bananamusement-park.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "the-wondrous-bananamusement-park",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/the-wondrous-bananamusement-park.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/the-wondrous-bananamusement-park.webp"
+      },
+      "sha256": "c1b80bd9cecbf6b6552337a25e73d2dde829e0d7c92c2c6bb6787caa18babd1f",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.thief-of-shooting-meteor.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "thief-of-shooting-meteor",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/thief-of-shooting-meteor.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/thief-of-shooting-meteor.webp"
+      },
+      "sha256": "2a928a2edf6c178033fd53a65c06d9f6c1176d565b0092f6a76a5148994b3baf",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.warrior-goddess-of-sun-and-thunder.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "warrior-goddess-of-sun-and-thunder",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/warrior-goddess-of-sun-and-thunder.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/warrior-goddess-of-sun-and-thunder.webp"
+      },
+      "sha256": "910f718fcb777ac60cc258d9257b19659d9c576aa23cca61f6305261e9cc02d9",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.wastelander-of-banditry-desert.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "wastelander-of-banditry-desert",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/wastelander-of-banditry-desert.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/wastelander-of-banditry-desert.webp"
+      },
+      "sha256": "1032e96ada19a8c1a4085ccb0428d1804fb7495dd5e04bdd956cf9758091bc44",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.watchmaker-master-of-dream-machinations.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "watchmaker-master-of-dream-machinations",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/watchmaker-master-of-dream-machinations.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/watchmaker-master-of-dream-machinations.webp"
+      },
+      "sha256": "140b3278b84a6c258a1ec842aba3c865d6bc342a2a1db66d90c51bc2903d1a08",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.wavestrider-captain.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "wavestrider-captain",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/wavestrider-captain.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/wavestrider-captain.webp"
+      },
+      "sha256": "390ac9fff79135a40b31f4b621efb67996d590d4fc1602f76b48860603fae70b",
+      "status": "ready"
+    },
+    {
+      "assetId": "hsr.artifact.world-remaking-deliverer.icon",
+      "game": "hsr",
+      "entityType": "artifact",
+      "entityId": "world-remaking-deliverer",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/honkai-star-rail/relics/world-remaking-deliverer.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "honkai-star-rail/artifacts/world-remaking-deliverer.webp"
+      },
+      "sha256": "03d9424de27749c564c33d9820f9d111d95221d2c7cbcc4912f25406c1f43b63",
+      "status": "ready"
+    }
+  ]
+}

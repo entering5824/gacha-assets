@@ -1,0 +1,38 @@
+{
+  "project": "character-counter",
+  "description": "Previously failing derived asset URLs. Resolve from an actual upstream object catalog only; empty candidates must stay unresolved.",
+  "assets": [
+    {
+      "assetId": "genshin.weapon.cinnabar-spindle.icon",
+      "game": "genshin",
+      "entityType": "weapon",
+      "entityId": "cinnabar-spindle",
+      "variant": "icon",
+      "sourceId": "cinnabar-spindle"
+    },
+    {
+      "assetId": "zzz.weapon.poem-of-the-empty-feather-return.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "poem-of-the-empty-feather-return",
+      "variant": "icon",
+      "sourceId": "poem-of-the-empty-feather-return"
+    },
+    {
+      "assetId": "zzz.character.sigrid.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "sigrid",
+      "variant": "icon",
+      "sourceId": "sigrid"
+    },
+    {
+      "assetId": "zzz.weapon.lumiflux.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "lumiflux",
+      "variant": "icon",
+      "sourceId": "lumiflux"
+    }
+  ]
+}

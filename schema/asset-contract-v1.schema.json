@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/schemas/asset-contract-v1.schema.json",
+  "title": "Shared Asset Contract v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["assetId", "game", "entityType", "entityId", "variant", "storage", "path", "source", "sha256", "status"],
+  "properties": {
+    "assetId": { "type": "string", "pattern": "^[a-z][a-z0-9-]*\\.[a-z][a-z0-9-]*\\.[a-z0-9][a-z0-9-]*\\.[a-z][a-z0-9-]*$" },
+    "game": { "type": "string", "pattern": "^[a-z][a-z0-9-]*$" },
+    "entityType": { "enum": ["character", "weapon", "artifact", "material", "other"] },
+    "entityId": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+    "variant": { "type": "string", "pattern": "^[a-z][a-z0-9-]*$" },
+    "storage": { "enum": ["supabase", "public", "bundled"] },
+    "path": { "type": "string", "minLength": 1, "pattern": "^(?!/)(?!.*(?:^|/)\\.\\.?/).+$" },
+    "source": {
+      "type": "object", "additionalProperties": false, "required": ["provider", "sourceId"],
+      "properties": { "provider": { "type": "string", "minLength": 1 }, "sourceId": { "type": "string", "minLength": 1 } }
+    },
+    "sha256": { "oneOf": [{ "type": "string", "pattern": "^[a-f0-9]{64}$" }, { "type": "null" }] },
+    "status": { "enum": ["ready", "pending", "missing", "failed"] }
+  }
+}

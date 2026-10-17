@@ -1,0 +1,747 @@
+{
+  "game": "genshin",
+  "entityType": "material",
+  "rulesMaterials": 517,
+  "mapped": 413,
+  "missing": 104,
+  "failed": 0,
+  "upstreamSource": "https://github.com/genshindev/api",
+  "upstreamCatalogItems": 408,
+  "upstreamMatchedRecords": 17,
+  "upstreamMissingIconVariants": [
+    "ClearwaterJade",
+    "CloudseamScale",
+    "FontemerUnihorn",
+    "GuideToKindling",
+    "Lumitoile",
+    "MarkOfTheBindingBlessing",
+    "OldOperativesPocketWatch",
+    "OperativesConstancy",
+    "OperativesStandardPocketWatch",
+    "OverripeFlamegranate",
+    "PhilosophiesOfKindling",
+    "QuenepaBerry",
+    "SaurianClawSucculent",
+    "SprayfeatherGill",
+    "SubdetectionUnit",
+    "TeachingsOfKindling",
+    "TourbillonDevice"
+  ],
+  "upstreamUnmatchedKeys": [
+    "AberrantCoreOfTheDeepShadow",
+    "AfterglowOfLongNightFlint",
+    "ArtfulDeviceFragment",
+    "ArtfulDeviceInheritance",
+    "ArtfulDeviceReplica",
+    "ArtfulDeviceWish",
+    "AscendedSampleKnight",
+    "AscendedSampleQueen",
+    "AscendedSampleRook",
+    "AureateRadianceOfTheFarNorthScions",
+    "AxisOfTheSecretSource",
+    "BewilderingBroadleaf",
+    "BlazeOfLongNightFlint",
+    "BlazingSacrificialHeartsHesitance",
+    "BlazingSacrificialHeartsResolve",
+    "BlazingSacrificialHeartsSplendor",
+    "BlazingSacrificialHeartsTerror",
+    "BrilliantChrysanthemum",
+    "BrokenDriveShaft",
+    "ChasmlightFin",
+    "CounterfeitResin",
+    "ElixirOfTheHeretic",
+    "EmberOfLongNightFlint",
+    "ErodedHorn",
+    "FeatheryFin",
+    "FlareOfLongNightFlint",
+    "FracturedEyeOfTheDeepShadow",
+    "FrostlampFlower",
+    "FrostnightsGlimmer",
+    "FrostnightsGlory",
+    "FrostnightsGlow",
+    "GlowingHornshroom",
+    "GlowingRemains",
+    "GoldInscribedSecretSourceCore",
+    "GuideToElysium",
+    "GuideToMoonlight",
+    "GuideToVagrancy",
+    "HeartOfTheSecretSource",
+    "HookedBeakOfTheDeepShadow",
+    "IgnitedSeedOfLife",
+    "IgnitedSeeingEye",
+    "IgnitedStone",
+    "IllusoryLeafcoil",
+    "ImmaculateWarrant",
+    "LightbearingScaleFeather",
+    "LightlessBone",
+    "LocusOfAClearWill",
+    "LunarFin",
+    "MadmansRestraint",
+    "MaskOfTheVirtuousDoctor",
+    "MistshroudHelmet",
+    "MistshroudManifestation",
+    "MistshroudPlate",
+    "MoonfallSilver",
+    "NightWindsMysticAugury",
+    "NightWindsMysticConsideration",
+    "NightWindsMysticPremonition",
+    "OblationOfTheFarNorthScions",
+    "PhilosophiesOfElysium",
+    "PhilosophiesOfMoonlight",
+    "PhilosophiesOfVagrancy",
+    "PineAmber",
+    "PortableBearing",
+    "PrecisionDriveShaft",
+    "PrecisionKuuvahkiStampingDie",
+    "ProfanedSprout",
+    "RadiantAntler",
+    "RadiantExoskeleton",
+    "RefractiveBud",
+    "ReinforcedDriveShaft",
+    "RemnantOfTheDreadwing",
+    "SecretSourceAirflowAccumulator",
+    "ShardOfAShatteredWill",
+    "SheathOfTheSecretSource",
+    "SigilOfAStridingWill",
+    "SunderedGloryOfTheFarNorthScions",
+    "TalismanOfTheEnigmaticLand",
+    "TatteredWarrant",
+    "TeachingsOfElysium",
+    "TeachingsOfMoonlight",
+    "TeachingsOfVagrancy",
+    "TheCornerstoneOfStarsAndFlames",
+    "TwistedWitheredBranch",
+    "UnyieldingDelusionOfTheFarNorthScions",
+    "VagabondsCrackedArmor",
+    "WinterIcelea",
+    "WitheringPurpurbloom"
+  ],
+  "upstreamCandidates": 0,
+  "published": true,
+  "issues": [
+    {
+      "materialKey": "AberrantCoreOfTheDeepShadow",
+      "assetId": "genshin.material.aberrant-core-of-the-deep-shadow.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "AfterglowOfLongNightFlint",
+      "assetId": "genshin.material.afterglow-of-long-night-flint.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "ArtfulDeviceFragment",
+      "assetId": "genshin.material.artful-device-fragment.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "ArtfulDeviceInheritance",
+      "assetId": "genshin.material.artful-device-inheritance.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "ArtfulDeviceReplica",
+      "assetId": "genshin.material.artful-device-replica.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "ArtfulDeviceWish",
+      "assetId": "genshin.material.artful-device-wish.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "AscendedSampleKnight",
+      "assetId": "genshin.material.ascended-sample-knight.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "AscendedSampleQueen",
+      "assetId": "genshin.material.ascended-sample-queen.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "AscendedSampleRook",
+      "assetId": "genshin.material.ascended-sample-rook.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "AureateRadianceOfTheFarNorthScions",
+      "assetId": "genshin.material.aureate-radiance-of-the-far-north-scions.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "AxisOfTheSecretSource",
+      "assetId": "genshin.material.axis-of-the-secret-source.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "BewilderingBroadleaf",
+      "assetId": "genshin.material.bewildering-broadleaf.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "BlazeOfLongNightFlint",
+      "assetId": "genshin.material.blaze-of-long-night-flint.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "BlazingSacrificialHeartsHesitance",
+      "assetId": "genshin.material.blazing-sacrificial-hearts-hesitance.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "BlazingSacrificialHeartsResolve",
+      "assetId": "genshin.material.blazing-sacrificial-hearts-resolve.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "BlazingSacrificialHeartsSplendor",
+      "assetId": "genshin.material.blazing-sacrificial-hearts-splendor.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "BlazingSacrificialHeartsTerror",
+      "assetId": "genshin.material.blazing-sacrificial-hearts-terror.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "BrilliantChrysanthemum",
+      "assetId": "genshin.material.brilliant-chrysanthemum.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "BrokenDriveShaft",
+      "assetId": "genshin.material.broken-drive-shaft.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "ChasmlightFin",
+      "assetId": "genshin.material.chasmlight-fin.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "ClearwaterJade",
+      "assetId": "genshin.material.clearwater-jade.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "CloudseamScale",
+      "assetId": "genshin.material.cloudseam-scale.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "CounterfeitResin",
+      "assetId": "genshin.material.counterfeit-resin.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "ElixirOfTheHeretic",
+      "assetId": "genshin.material.elixir-of-the-heretic.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "EmberOfLongNightFlint",
+      "assetId": "genshin.material.ember-of-long-night-flint.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "ErodedHorn",
+      "assetId": "genshin.material.eroded-horn.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "FeatheryFin",
+      "assetId": "genshin.material.feathery-fin.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "FlareOfLongNightFlint",
+      "assetId": "genshin.material.flare-of-long-night-flint.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "FontemerUnihorn",
+      "assetId": "genshin.material.fontemer-unihorn.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "FracturedEyeOfTheDeepShadow",
+      "assetId": "genshin.material.fractured-eye-of-the-deep-shadow.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "FrostlampFlower",
+      "assetId": "genshin.material.frostlamp-flower.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "FrostnightsGlimmer",
+      "assetId": "genshin.material.frostnights-glimmer.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "FrostnightsGlory",
+      "assetId": "genshin.material.frostnights-glory.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "FrostnightsGlow",
+      "assetId": "genshin.material.frostnights-glow.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "GlowingHornshroom",
+      "assetId": "genshin.material.glowing-hornshroom.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "GlowingRemains",
+      "assetId": "genshin.material.glowing-remains.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "GoldInscribedSecretSourceCore",
+      "assetId": "genshin.material.gold-inscribed-secret-source-core.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "GuideToElysium",
+      "assetId": "genshin.material.guide-to-elysium.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "GuideToKindling",
+      "assetId": "genshin.material.guide-to-kindling.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "GuideToMoonlight",
+      "assetId": "genshin.material.guide-to-moonlight.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "GuideToVagrancy",
+      "assetId": "genshin.material.guide-to-vagrancy.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "HeartOfTheSecretSource",
+      "assetId": "genshin.material.heart-of-the-secret-source.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "HookedBeakOfTheDeepShadow",
+      "assetId": "genshin.material.hooked-beak-of-the-deep-shadow.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "IgnitedSeedOfLife",
+      "assetId": "genshin.material.ignited-seed-of-life.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "IgnitedSeeingEye",
+      "assetId": "genshin.material.ignited-seeing-eye.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "IgnitedStone",
+      "assetId": "genshin.material.ignited-stone.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "IllusoryLeafcoil",
+      "assetId": "genshin.material.illusory-leafcoil.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "ImmaculateWarrant",
+      "assetId": "genshin.material.immaculate-warrant.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "LightbearingScaleFeather",
+      "assetId": "genshin.material.lightbearing-scale-feather.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "LightlessBone",
+      "assetId": "genshin.material.lightless-bone.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "LocusOfAClearWill",
+      "assetId": "genshin.material.locus-of-aclear-will.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "Lumitoile",
+      "assetId": "genshin.material.lumitoile.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "LunarFin",
+      "assetId": "genshin.material.lunar-fin.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "MadmansRestraint",
+      "assetId": "genshin.material.madmans-restraint.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "MarkOfTheBindingBlessing",
+      "assetId": "genshin.material.mark-of-the-binding-blessing.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "MaskOfTheVirtuousDoctor",
+      "assetId": "genshin.material.mask-of-the-virtuous-doctor.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "MistshroudHelmet",
+      "assetId": "genshin.material.mistshroud-helmet.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "MistshroudManifestation",
+      "assetId": "genshin.material.mistshroud-manifestation.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "MistshroudPlate",
+      "assetId": "genshin.material.mistshroud-plate.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "MoonfallSilver",
+      "assetId": "genshin.material.moonfall-silver.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "NightWindsMysticAugury",
+      "assetId": "genshin.material.night-winds-mystic-augury.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "NightWindsMysticConsideration",
+      "assetId": "genshin.material.night-winds-mystic-consideration.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "NightWindsMysticPremonition",
+      "assetId": "genshin.material.night-winds-mystic-premonition.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "OblationOfTheFarNorthScions",
+      "assetId": "genshin.material.oblation-of-the-far-north-scions.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "OldOperativesPocketWatch",
+      "assetId": "genshin.material.old-operatives-pocket-watch.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "OperativesConstancy",
+      "assetId": "genshin.material.operatives-constancy.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "OperativesStandardPocketWatch",
+      "assetId": "genshin.material.operatives-standard-pocket-watch.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "OverripeFlamegranate",
+      "assetId": "genshin.material.overripe-flamegranate.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "PhilosophiesOfElysium",
+      "assetId": "genshin.material.philosophies-of-elysium.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "PhilosophiesOfKindling",
+      "assetId": "genshin.material.philosophies-of-kindling.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "PhilosophiesOfMoonlight",
+      "assetId": "genshin.material.philosophies-of-moonlight.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "PhilosophiesOfVagrancy",
+      "assetId": "genshin.material.philosophies-of-vagrancy.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "PineAmber",
+      "assetId": "genshin.material.pine-amber.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "PortableBearing",
+      "assetId": "genshin.material.portable-bearing.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "PrecisionDriveShaft",
+      "assetId": "genshin.material.precision-drive-shaft.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "PrecisionKuuvahkiStampingDie",
+      "assetId": "genshin.material.precision-kuuvahki-stamping-die.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "ProfanedSprout",
+      "assetId": "genshin.material.profaned-sprout.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "QuenepaBerry",
+      "assetId": "genshin.material.quenepa-berry.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "RadiantAntler",
+      "assetId": "genshin.material.radiant-antler.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "RadiantExoskeleton",
+      "assetId": "genshin.material.radiant-exoskeleton.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "RefractiveBud",
+      "assetId": "genshin.material.refractive-bud.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "ReinforcedDriveShaft",
+      "assetId": "genshin.material.reinforced-drive-shaft.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "RemnantOfTheDreadwing",
+      "assetId": "genshin.material.remnant-of-the-dreadwing.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "SaurianClawSucculent",
+      "assetId": "genshin.material.saurian-claw-succulent.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "SecretSourceAirflowAccumulator",
+      "assetId": "genshin.material.secret-source-airflow-accumulator.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "ShardOfAShatteredWill",
+      "assetId": "genshin.material.shard-of-ashattered-will.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "SheathOfTheSecretSource",
+      "assetId": "genshin.material.sheath-of-the-secret-source.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "SigilOfAStridingWill",
+      "assetId": "genshin.material.sigil-of-astriding-will.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "SprayfeatherGill",
+      "assetId": "genshin.material.sprayfeather-gill.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "SubdetectionUnit",
+      "assetId": "genshin.material.subdetection-unit.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "SunderedGloryOfTheFarNorthScions",
+      "assetId": "genshin.material.sundered-glory-of-the-far-north-scions.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "TalismanOfTheEnigmaticLand",
+      "assetId": "genshin.material.talisman-of-the-enigmatic-land.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "TatteredWarrant",
+      "assetId": "genshin.material.tattered-warrant.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "TeachingsOfElysium",
+      "assetId": "genshin.material.teachings-of-elysium.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "TeachingsOfKindling",
+      "assetId": "genshin.material.teachings-of-kindling.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "TeachingsOfMoonlight",
+      "assetId": "genshin.material.teachings-of-moonlight.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "TeachingsOfVagrancy",
+      "assetId": "genshin.material.teachings-of-vagrancy.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "TheCornerstoneOfStarsAndFlames",
+      "assetId": "genshin.material.the-cornerstone-of-stars-and-flames.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "TourbillonDevice",
+      "assetId": "genshin.material.tourbillon-device.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "TwistedWitheredBranch",
+      "assetId": "genshin.material.twisted-withered-branch.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "UnyieldingDelusionOfTheFarNorthScions",
+      "assetId": "genshin.material.unyielding-delusion-of-the-far-north-scions.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "VagabondsCrackedArmor",
+      "assetId": "genshin.material.vagabonds-cracked-armor.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "WinterIcelea",
+      "assetId": "genshin.material.winter-icelea.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    },
+    {
+      "materialKey": "WitheringPurpurbloom",
+      "assetId": "genshin.material.withering-purpurbloom.icon",
+      "status": "missing",
+      "reason": "no_source_asset"
+    }
+  ]
+}

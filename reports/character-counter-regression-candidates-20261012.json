@@ -1,0 +1,16 @@
+[
+  {
+    "assetId": "genshin.weapon.cinnabar-spindle.icon",
+    "sourceVariant": "icon",
+    "provider": "mihoyo-game-record",
+    "sourceId": "UI_EquipIcon_Sword_Opus",
+    "imageUrl": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Opus.png"
+  },
+  {
+    "assetId": "zzz.character.sigrid.icon",
+    "sourceVariant": "portrait",
+    "provider": "gachabase",
+    "sourceId": "1591",
+    "imageUrl": "https://i.gachabase.net/-p8sVe_IsM_p8Agodt2pseFrpG22MYDpgXAHBV4yAzE/q%3A50/f%3Awebp/plain/zzz/assets/7f975cf2ad95cff09ddbd214c9e4cf1e.png"
+  }
+]
