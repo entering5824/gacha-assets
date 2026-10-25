@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:gacha-assets:game-data-contract:1",
+  "title": "Game Data Entity v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "game", "entityType", "sourceId", "canonicalId", "names", "attributes", "assets", "source", "contentHash", "syncedAt"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "game": {"type": "string", "pattern": "^[a-z][a-z0-9-]*$"},
+    "entityType": {"type": "string", "pattern": "^[a-z][a-z0-9-]*$"},
+    "sourceId": {"oneOf": [{"type": "integer"}, {"type": "string", "minLength": 1}]},
+    "canonicalId": {"type": "string", "pattern": "^[a-z][a-z0-9-]*\\.[a-z][a-z0-9-]*\\.[a-z0-9][a-z0-9-]*$"},
+    "names": {"type": "object"},
+    "attributes": {"type": "object"},
+    "assets": {"type": "array", "items": {"type": "object", "required": ["field", "status"], "properties": {"field": {"type": "string"}, "status": {"enum": ["ready", "unresolved", "missing", "failed"]}}}},
+    "source": {"type": "object", "additionalProperties": false, "required": ["provider", "version", "locale", "endpoint"], "properties": {"provider": {"type": "string"}, "version": {"type": "string"}, "locale": {"type": "string"}, "endpoint": {"type": "string"}}},
+    "contentHash": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "syncedAt": {"type": "string", "minLength": 20}
+  }
+}

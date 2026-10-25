@@ -1,0 +1,4 @@
+sources:
+  enka_catalog: {provider: enka, url_env: ENKA_CATALOG_URL}
+  github: {provider: github, token_env: GITHUB_TOKEN}
+  cloudinary: {provider: cloudinary, cloud_env: CLOUDINARY_CLOUD_NAME, key_env: CLOUDINARY_API_KEY, secret_env: CLOUDINARY_API_SECRET}

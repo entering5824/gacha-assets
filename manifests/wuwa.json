@@ -1,0 +1,3425 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "assetId": "wuwa.character.aalto.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "aalto",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/aalto.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/aalto.webp"
+      },
+      "sha256": "e42845a82ccdbf06f2d0e824eac27aeb688cb35a06d87f5c77e8ea9bcaf570dd",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.aemeath.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "aemeath",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/aemeath.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/aemeath.webp"
+      },
+      "sha256": "b15d4f5b88dcd708923d999909523ef0434b3e9e6a377bcb03abc3162221845f",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.augusta.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "augusta",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/augusta.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/augusta.webp"
+      },
+      "sha256": "36ce6f421268021369dc7fb25f85a16366d5f136e7c38781bfc1e4abb6f7a199",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.baizhi.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "baizhi",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/baizhi.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/baizhi.webp"
+      },
+      "sha256": "365ad54270570e4d140f263a4136b24d26cebfb6da60e2e71c31cc03f91219b0",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.brant.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "brant",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/brant.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/brant.webp"
+      },
+      "sha256": "11d0150086618f1c8799e24994acaa5cf23242711afb06fe1341ad2b6ea46301",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.buling.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "buling",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/buling.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/buling.webp"
+      },
+      "sha256": "11f3eb9ae8b0d03e6d97b342ec37e210d253c51f6bab772a3a156d17a1d122bb",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.calcharo.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "calcharo",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/calcharo.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/calcharo.webp"
+      },
+      "sha256": "9f05876f37bfec7dfbf4f215b3acb478f99984ad2c61d280bb859e882e5270e7",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.camellya.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "camellya",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/camellya.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/camellya.webp"
+      },
+      "sha256": "d026512683a8239768b30a19de833e03e7d2e431b880974389a4dac2f92db695",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.cantarella.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "cantarella",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/cantarella.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/cantarella.webp"
+      },
+      "sha256": "3e88ac8813675c81448f7d7e1805fe9ccad46f49bf638b468e9cd86b8a6d7884",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.carlotta.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "carlotta",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/carlotta.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/carlotta.webp"
+      },
+      "sha256": "20403617c582fbf0b02239a0297f892b2a5e9d2aa7d8f84b442d26b1f42f9f44",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.cartethyia.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "cartethyia",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/cartethyia.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/cartethyia.webp"
+      },
+      "sha256": "6045526d67c3126a4bcd0c6bcc8c5c08b4abafc8996ea33eb6a1893580da5636",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.changli.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "changli",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/changli.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/changli.webp"
+      },
+      "sha256": "20b6ecb25301dc251eb5602ce15ce211849dd80b051edfd4ce5f5aa11a5a368d",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.chisa.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "chisa",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/chisa.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/chisa.webp"
+      },
+      "sha256": "b5f4fded48e8c75843cd2ac6b8a9f2134962d51e6d2bed84463f73d27318938b",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.chixia.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "chixia",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/chixia.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/chixia.webp"
+      },
+      "sha256": "24cf955a619c549c952886a73dbea8451eeb4b82642f0503d0d35623f542393e",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.ciaccona.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "ciaccona",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/ciaccona.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/ciaccona.webp"
+      },
+      "sha256": "6619a42b90fb279c6e22e1552d6806f68fc2e0891ffb0081bc1722acb2be6c11",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.danjin.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "danjin",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/danjin.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/danjin.webp"
+      },
+      "sha256": "51a989270c4bf1038c07a4d2d45f83b769a16885c9ed2373f5f6b70281d73c08",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.denia.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "denia",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/denia.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/denia.webp"
+      },
+      "sha256": "dfdff591622fc3b840f12e8810cfbb3f1116907f7f4791d8a878c303824f42fb",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.encore.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "encore",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/encore.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/encore.webp"
+      },
+      "sha256": "704f0439489f1e0b8328f3505f8b90274df93310345a42c172e3eb78fefd69e3",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.galbrena.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "galbrena",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/galbrena.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/galbrena.webp"
+      },
+      "sha256": "1c80ab1cf68c43caff7c62375f988b487086d9f86d43236ffe684b1e10238e39",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.hiyuki.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "hiyuki",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/hiyuki.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/hiyuki.webp"
+      },
+      "sha256": "0f3f8fcd4d31e39e00c513325c6e37c8c539a52c3b1d09fa6e726ea5bb65bc13",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.hsin.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "hsin",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/hsin.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/hsin.webp"
+      },
+      "sha256": "5a7190cd5a66e0841d3f96acd4c3cdbde1ac4580b2be39123a12748f06a51144",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.iuno.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "iuno",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/iuno.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/iuno.webp"
+      },
+      "sha256": "0c9abfbd51b90fbefd77731a8b0849a9067c518d97e184b88fd30180598c1238",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.jianxin.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "jianxin",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/jianxin.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/jianxin.webp"
+      },
+      "sha256": "0327cbf88dbad9a7c9b0189a8644c12cfcaa0c896d062b6919a9f8e1ce83aa14",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.jingran.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "jingran",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/jingran.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/jingran.webp"
+      },
+      "sha256": "71f508ceb36cbb5171e9d4e33cbfaf4492bd4b7d03a383b10ce80e7dede004f1",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.jinhsi.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "jinhsi",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/jinhsi.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/jinhsi.webp"
+      },
+      "sha256": "2147661d732c96f0422c9280b930692548e184eb98e4dcf33f506b4d1c177dca",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.jiyan.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "jiyan",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/jiyan.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/jiyan.webp"
+      },
+      "sha256": "e9b368469fdad137574fe600200c5c6b6405da86ed7d55dcec27f55ed045000e",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.lingyang.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "lingyang",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/lingyang.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/lingyang.webp"
+      },
+      "sha256": "a1bbb0eea8e2a287c0fce8cfa4b07452bd213296a035b294e96da4e070129646",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.lucilla.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "lucilla",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/lucilla.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/lucilla.webp"
+      },
+      "sha256": "72866989de64f726b3fb2933fbbef59d65d09fd22b58d626e01697e7be955a97",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.lucy.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "lucy",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/lucy.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/lucy.webp"
+      },
+      "sha256": "5d9765c149f22e8a3393d8c10660b316546dfb6a945108affab520752c9de981",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.lumi.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "lumi",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/lumi.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/lumi.webp"
+      },
+      "sha256": "0a457f4ef658e75f1e8f85622874c338f59fb7a01b9b120308b582b6d634ae71",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.lupa.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "lupa",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/lupa.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/lupa.webp"
+      },
+      "sha256": "6c6ffa5cf51a8dd47e9d50c39a80d76c1928e17dcbec19272718142e5834db67",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.luuk-herssen.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "luuk-herssen",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/luuk-herssen.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/luuk-herssen.webp"
+      },
+      "sha256": "81247b4f0c798a3a34d058c3ad2e786fa7f26db1e6bb638e4e9991982411dd3b",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.lynae.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "lynae",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/lynae.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/lynae.webp"
+      },
+      "sha256": "fce5b4fa047af00fc40d47c8c0019c3ff12f1e887d908ec8b71f9801042b7cb7",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.mornye.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "mornye",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/mornye.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/mornye.webp"
+      },
+      "sha256": "de680151b720217108ccb4b2a8bf349206e64af46ddebbf42729fd1dee3be7d2",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.mortefi.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "mortefi",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/mortefi.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/mortefi.webp"
+      },
+      "sha256": "54a09c3f0467c19f1484325308738e323da38f740abd636c3c5847f12d8caec2",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.phoebe.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "phoebe",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/phoebe.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/phoebe.webp"
+      },
+      "sha256": "df6041e503d4077cbda14d1c75e9276dd41af1d7801c970e48fe806089a3d5a3",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.phrolova.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "phrolova",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/phrolova.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/phrolova.webp"
+      },
+      "sha256": "2d2f1360d14e1f9445eac7c421d9d74df817075fad0725d3998c285a68b5a509",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.qingxiao.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "qingxiao",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/qingxiao.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/qingxiao.webp"
+      },
+      "sha256": "57940ccc56c6351e49fdd38c97b26db075c32c4dc7136c06008d4fea44eb1915",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.qiuyuan.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "qiuyuan",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/qiuyuan.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/qiuyuan.webp"
+      },
+      "sha256": "ac733b33c820389a6cd9029035cd2baba65a3dce927167d633e7febfdb329e96",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.rebecca.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "rebecca",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/rebecca.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/rebecca.webp"
+      },
+      "sha256": "0d2b9d572b9d60f0c923c5c13493e0dfedfb5f81d8feda5f41eabf101e65fe95",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.roccia.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "roccia",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/roccia.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/roccia.webp"
+      },
+      "sha256": "51ee113ee0195a22ad6f7a75b123617c335473f97469efc9dee46b10980eb2fc",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.rover-female.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "rover-female",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/rover-female.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/rover-female.webp"
+      },
+      "sha256": "e064fd425624b6f611eb24b71360a4ceb391b7dc66fa1d546500e48858b924fa",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.rover-male.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "rover-male",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/rover-male.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/rover-male.webp"
+      },
+      "sha256": "23d2de7e22815c7df3b127fefe4023b72bc564c164ec3b1c101cb0cacfaa51c2",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.sanhua.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "sanhua",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/sanhua.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/sanhua.webp"
+      },
+      "sha256": "6c495e3acbf8d790d37df808077ede1fefea50926757dd8e95a7f9101f53abc8",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.sigrika.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "sigrika",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/sigrika.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/sigrika.webp"
+      },
+      "sha256": "aa198fac1bb8783517b9edca4ae99038ffa1dfc24ea526b82d018b608e27c69f",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.suisui.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "suisui",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/suisui.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/suisui.webp"
+      },
+      "sha256": "8a36446d42c4a9ee67870ee824849a9dbebad0d676ebde97efb125bdb8d60ac8",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.suoming.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "suoming",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/suoming.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/suoming.webp"
+      },
+      "sha256": "b1091c953bc88a5f14e922a8cab8173565258c39eef6d65cc6b8abcf8ecc0626",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.taoqi.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "taoqi",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/taoqi.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/taoqi.webp"
+      },
+      "sha256": "d615ee9559a2417d0dd4aec935aa4cda432c7ebcce9c3e4baa99a8c7dd1d77d7",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.the-shorekeeper.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "the-shorekeeper",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/the-shorekeeper.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/the-shorekeeper.webp"
+      },
+      "sha256": "a362e9cc3835bb79eb328ba1902a2309f3fd77c4ef6928bbbf3c7d14f5138aa8",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.verina.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "verina",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/verina.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/verina.webp"
+      },
+      "sha256": "193e41fe8e5cae8b66ecce40708b7ad2e70d429e163c9aef035a3c14b9ef4e21",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.xiangli-yao.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "xiangli-yao",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/xiangli-yao.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/xiangli-yao.webp"
+      },
+      "sha256": "687bf7f2d6906e38d7321f1ea7eb08ef24bc5ec3bd6adfcb293f8bb8a1b70131",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.yangyang-xuanling.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "yangyang-xuanling",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/yangyang-xuanling.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/yangyang-xuanling.webp"
+      },
+      "sha256": "678cd72065a0c68ace0c871133917aefc4fc32f4261f728690d962385146d055",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.yangyang.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "yangyang",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/yangyang.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/yangyang.webp"
+      },
+      "sha256": "1057ab44d574a480d3042bf39adab1e7aba142bce63ed3ac6163d0b425bfb058",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.yinlin.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "yinlin",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/yinlin.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/yinlin.webp"
+      },
+      "sha256": "4f8e3cb6e30d28713c189f661571ac4e472eba70e1ca99a498c7568d5a20470d",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.youhu.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "youhu",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/youhu.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/youhu.webp"
+      },
+      "sha256": "f4ce06ea02f999c9359023fb6ca072bae79a5b4bc016d7ed6735b9c31842d385",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.yuanwu.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "yuanwu",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/yuanwu.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/yuanwu.webp"
+      },
+      "sha256": "393d92d8a307895fbe7c0a70396b4b5ce6e5e50374e7a66e32d9592326b5d202",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.zani.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "zani",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/zani.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/zani.webp"
+      },
+      "sha256": "7b9ac8cb66f5fe4fb542f420cf118868f2dacedd2294e05a05b670b846e61c08",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.character.zhezhi.icon",
+      "game": "wuwa",
+      "entityType": "character",
+      "entityId": "zhezhi",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/characters/zhezhi.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/characters/zhezhi.webp"
+      },
+      "sha256": "928ccecd356b48c727e681bfee17e7200430b7e8b84ec763ccdf89dfa77bb851",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.abyss-surges.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "abyss-surges",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/abyss-surges.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/abyss-surges.webp"
+      },
+      "sha256": "245175270b6fdd3c67e18468494b94d6076a2c00ee625d91990713705c2270de",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.aether-strike.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "aether-strike",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/aether-strike.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/aether-strike.webp"
+      },
+      "sha256": "f8dd244db6917ab783affaceec6ea1589bdf6b11e7696e5ab07230d79df70eec",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.ages-of-harvest.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "ages-of-harvest",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/ages-of-harvest.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/ages-of-harvest.webp"
+      },
+      "sha256": "8c080b47cdc1919456432f122f5b57766de2c52ead123d95196ab4a518344c5a",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.amity-accord.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "amity-accord",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/amity-accord.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/amity-accord.webp"
+      },
+      "sha256": "e7165218256b965511dde761132df4e92cf989c992a8257c6f2a051bd481d0c5",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.augment.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "augment",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/augment.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/augment.webp"
+      },
+      "sha256": "2483c56487ca35d0d7664496e03fba868309e5299facb0107c86f69ecc1ee163",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.aureate-zenith.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "aureate-zenith",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/aureate-zenith.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/aureate-zenith.webp"
+      },
+      "sha256": "db02aafaa1e88116f7664b25d51fb7caf56eb570d62ba088d5db22e7f2613cac",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.autumntrace.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "autumntrace",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/autumntrace.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/autumntrace.webp"
+      },
+      "sha256": "3d91dd0f4b96c400a4c290c283e01576d9551b55274790f280b23b4ca43fb7b2",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.azure-oath.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "azure-oath",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/azure-oath.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/azure-oath.webp"
+      },
+      "sha256": "54e04ea18f90f9fa35fc27f49fdd1d06a93bcb8734a654badad693c17dab9076",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.beguiling-melody.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "beguiling-melody",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/beguiling-melody.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/beguiling-melody.webp"
+      },
+      "sha256": "bdaf58d29aae42895f312a0d15b0268ad033b3ccec48fb804915df4c01deb5f7",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.blazing-brilliance.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "blazing-brilliance",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/blazing-brilliance.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/blazing-brilliance.webp"
+      },
+      "sha256": "7d5a789249d7c70a6fc439e40a28e95512d325f8a634201271b82e16824fc147",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.blazing-justice.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "blazing-justice",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/blazing-justice.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/blazing-justice.webp"
+      },
+      "sha256": "ae1e5fc255670c2aef07301adc49092d1658564460b22c86f091fa9a0c900a50",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.bloodpacts-pledge.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "bloodpacts-pledge",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/bloodpacts-pledge.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/bloodpacts-pledge.webp"
+      },
+      "sha256": "26b396c7a06c4e848e76bce88a57e2fa4adc91a134cea3afff3ca407b8ae79e6",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.boson-astrolabe.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "boson-astrolabe",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/boson-astrolabe.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/boson-astrolabe.webp"
+      },
+      "sha256": "589eb5f3a32db4322af292975acdfba888d9e20ae3f7ce08e40a7fca459541bb",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.broadblade-41.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "broadblade-41",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/broadblade-41.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/broadblade-41.webp"
+      },
+      "sha256": "12bba46f30343d9ead96015473a3f3409eccb0c1158313f07fee0044ffd79a9f",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.broadblade-of-night.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "broadblade-of-night",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/broadblade-of-night.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/broadblade-of-night.webp"
+      },
+      "sha256": "20b7495e465d0ca9fb178ca931bdb877534fe8d814bd72aa63df2ade63e26809",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.broadblade-of-voyager.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "broadblade-of-voyager",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/broadblade-of-voyager.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/broadblade-of-voyager.webp"
+      },
+      "sha256": "659670ef9e055fc3320d7b8ea8e624293b2e81ca02433671f27cfc18c09993af",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.cadenza.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "cadenza",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/cadenza.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/cadenza.webp"
+      },
+      "sha256": "2fce3bb6631b2e67ad531616588dab2e4efbd96681505e2359eb23f1cd6ef2c9",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.call-of-the-abyss.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "call-of-the-abyss",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/call-of-the-abyss.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/call-of-the-abyss.webp"
+      },
+      "sha256": "133bfdd6771ffbec2130b23932c0bc8910cd11a50048102a475e3fb5ab2e44f2",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.celestial-spiral.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "celestial-spiral",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/celestial-spiral.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/celestial-spiral.webp"
+      },
+      "sha256": "c2f8d7a360cd2468009406e41018ab45e1301faa7eb4ceb007129a740171515d",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.comet-flare.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "comet-flare",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/comet-flare.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/comet-flare.webp"
+      },
+      "sha256": "bcb91689ed28e65e4cb23f19efa41e101198b1fc0a73b0785a562ca7f8db6c7b",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.commando-of-conviction.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "commando-of-conviction",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/commando-of-conviction.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/commando-of-conviction.webp"
+      },
+      "sha256": "7f4dd73e71d50b4c23c396acf0b1e3f57324c369c653f64b32c4f705b28be58d",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.cosmic-ripples.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "cosmic-ripples",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/cosmic-ripples.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/cosmic-ripples.webp"
+      },
+      "sha256": "5fc148175f9a2108938bc54e82b842ea878ce5aef77d21f80b3976ca4c1b2c5d",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.dauntless-evernight.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "dauntless-evernight",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/dauntless-evernight.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/dauntless-evernight.webp"
+      },
+      "sha256": "7f32bb2f9a2469a8592982f3bffa0dece4681ecd4b4f00b337edfeb8bccf9faa",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.daybreakers-spine.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "daybreakers-spine",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/daybreakers-spine.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/daybreakers-spine.webp"
+      },
+      "sha256": "3ac499cfba2b33a47c75936ce68a29df10ec7b6a6fee979c3358fec390b8dd84",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.defiers-thorn.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "defiers-thorn",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/defiers-thorn.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/defiers-thorn.webp"
+      },
+      "sha256": "790b5998d03f1e77dc65d28afd8d72be1b51d2c7da0a8fc56dcbb556ef33f3d4",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.discord.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "discord",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/discord.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/discord.webp"
+      },
+      "sha256": "e27def6be5061caabe99ab66a9d564ab9c66809abe0b3ae939f696086a7fb5b1",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.emerald-of-genesis.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "emerald-of-genesis",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/emerald-of-genesis.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/emerald-of-genesis.webp"
+      },
+      "sha256": "a0a031130678b3e9592c8127f7b13a7f6a755463aef1ac0ff99b5ae67773d6c9",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.emerald-sentence.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "emerald-sentence",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/emerald-sentence.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/emerald-sentence.webp"
+      },
+      "sha256": "f8236d7e7af293ba78450e90d93c7fac3ef5b761bd2dc2d1dde148b160e05fc1",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.endless-collapse.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "endless-collapse",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/endless-collapse.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/endless-collapse.webp"
+      },
+      "sha256": "968112239828415d368f0fb244fedb01bab1abc96712c094086b9a06c632d923",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.everbright-polestar.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "everbright-polestar",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/everbright-polestar.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/everbright-polestar.webp"
+      },
+      "sha256": "a642eba281b83419d252775260bfc7f4714e176dde2cb260cc3b825a3a5aa130",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.fables-of-wisdom.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "fables-of-wisdom",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/fables-of-wisdom.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/fables-of-wisdom.webp"
+      },
+      "sha256": "b1f95d0de9f82c0a6551ca6195c1d89990cc2666c84a0d11d22dd47d0bd58f27",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.feather-edge.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "feather-edge",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/feather-edge.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/feather-edge.webp"
+      },
+      "sha256": "6c1fdbbe95c408e856b972fe4e7a046730af2599d1d01905475e3e6e91f41962",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.firstlights-herald.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "firstlights-herald",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/firstlights-herald.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/firstlights-herald.webp"
+      },
+      "sha256": "df542dc7d1cbbc444da76604817f088336563590f9310f8c40b4028953e7bf4c",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.forged-dwarf-star.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "forged-dwarf-star",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/forged-dwarf-star.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/forged-dwarf-star.webp"
+      },
+      "sha256": "17e43e24a0214c917f6806de27c8df0d6fc877da991a0a878e583b0a41129a7e",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.freeze-frame.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "freeze-frame",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/freeze-frame.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/freeze-frame.webp"
+      },
+      "sha256": "cc64101a18ba4bc1e83bb43bb6d847a154dab62744ddd3384cdddf0ae4f1b2e7",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.frostburn.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "frostburn",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/frostburn.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/frostburn.webp"
+      },
+      "sha256": "7b1474127b8a988202cf1dbacaf79a27df9cec7c76a1edcbeb9148ffc0db0c68",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.fusion-accretion.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "fusion-accretion",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/fusion-accretion.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/fusion-accretion.webp"
+      },
+      "sha256": "29b562c9b9c5e498f987383617f5ac0217b0ee95c0f44e292eff9d9f63fcb136",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.gauntlets-21d.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "gauntlets-21d",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/gauntlets-21d.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/gauntlets-21d.webp"
+      },
+      "sha256": "3e73573e056f6ca06f99ef145c4004ccb80969c2b85862cdad71cd059d5f144f",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.gauntlets-of-night.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "gauntlets-of-night",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/gauntlets-of-night.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/gauntlets-of-night.webp"
+      },
+      "sha256": "848e80293003b6f35c378106b921ef2436a2494ce4cc0d3ec359ef69a9e3f743",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.gauntlets-of-voyager.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "gauntlets-of-voyager",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/gauntlets-of-voyager.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/gauntlets-of-voyager.webp"
+      },
+      "sha256": "907f1c1cf9b3ca76477156e94ea4e75b745868057b81ae380574b8a2b2643a8b",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.glint-of-clouds.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "glint-of-clouds",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/glint-of-clouds.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/glint-of-clouds.webp"
+      },
+      "sha256": "20e191ebbbce9d1174e6f10fbadebcbf7dbc894b641df1069e1dd53b62bd7b5d",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.guardian-broadblade.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "guardian-broadblade",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/guardian-broadblade.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/guardian-broadblade.webp"
+      },
+      "sha256": "349c27de538c6c11e8d3b89981e3d850538e86de0f9eb533a1a87c7be30175a2",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.guardian-gauntlets.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "guardian-gauntlets",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/guardian-gauntlets.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/guardian-gauntlets.webp"
+      },
+      "sha256": "44bc360fb7b36b264e4c5ff4e6515d2a14e2a5ba6d21a52a3359995044eeb0ae",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.guardian-pistols.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "guardian-pistols",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/guardian-pistols.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/guardian-pistols.webp"
+      },
+      "sha256": "9ca049e31d3cd3b0b3941d158f6147bab11e561252bc1a56d2d75a6d23d5b5fb",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.guardian-rectifier.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "guardian-rectifier",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/guardian-rectifier.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/guardian-rectifier.webp"
+      },
+      "sha256": "8c23991fa6574fd9fc4a4e2a3f51e704840d21af8b4f64d3ab08731ecc33c48c",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.guardian-sword.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "guardian-sword",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/guardian-sword.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/guardian-sword.webp"
+      },
+      "sha256": "23309a1dc6cceeeb1cd501d3b40ce318e09c816b9b7d38b340c352fce9e428ec",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.helios-cleaver.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "helios-cleaver",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/helios-cleaver.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/helios-cleaver.webp"
+      },
+      "sha256": "b6d2248f67e6fe7c250c13e089ae9890f77ec1d74dc14b749df7aa1710f9e778",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.hollow-mirage.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "hollow-mirage",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/hollow-mirage.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/hollow-mirage.webp"
+      },
+      "sha256": "2f4f14a79fe3fb4992572857ad6d8e2c0830fe6c0d9e0555d7ab4e6aa9a10b8c",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.jinzhou-keeper.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "jinzhou-keeper",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/jinzhou-keeper.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/jinzhou-keeper.webp"
+      },
+      "sha256": "0fa6ea6aca7c47f2724d8fc2b623cdab30a48f24884de67c1d278c7ce4b216d3",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.kumokiri.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "kumokiri",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/kumokiri.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/kumokiri.webp"
+      },
+      "sha256": "5c854fdfb0cc0e5624bc9ab981f47a1bb4ea5b054b2b778e18c05af5154e2c1f",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.laser-shearer.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "laser-shearer",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/laser-shearer.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/laser-shearer.webp"
+      },
+      "sha256": "2745625d2ce13f296f2b4419eda761318d88dc85b0454a1652bf367f6b00dc0b",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.legend-of-drunken-hero.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "legend-of-drunken-hero",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/legend-of-drunken-hero.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/legend-of-drunken-hero.webp"
+      },
+      "sha256": "8a1f785c2585547362a206c9322fbc00f41b7be97ba12ffc2c53f2daf88b9c51",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.lethean-elegy.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "lethean-elegy",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/lethean-elegy.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/lethean-elegy.webp"
+      },
+      "sha256": "54e60806d49c39182b9bb1b521f4b2ce9f1c9b94d35293631aa98ef9e6f608b6",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.lumingloss.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "lumingloss",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/lumingloss.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/lumingloss.webp"
+      },
+      "sha256": "c5aedcedfb0af806bab1bc2c294ed762abd4ae308f84482e9352776cc82ebf21",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.luminous-hymn.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "luminous-hymn",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/luminous-hymn.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/luminous-hymn.webp"
+      },
+      "sha256": "237b9510b4a817caf6f2d0baf1a08285b451793df8e018a3746466361efed655",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.lunar-cutter.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "lunar-cutter",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/lunar-cutter.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/lunar-cutter.webp"
+      },
+      "sha256": "1fdc318557591a295b545bd4d873f5ba6f30545306827f5345d3f10cb0c0d541",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.lustrous-razor.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "lustrous-razor",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/lustrous-razor.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/lustrous-razor.webp"
+      },
+      "sha256": "5976a431b60662714ddeeeda2f69348fbed9aabc8678ddcba115c62d33f1fee9",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.lux-and-umbra.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "lux-and-umbra",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/lux-and-umbra.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/lux-and-umbra.webp"
+      },
+      "sha256": "fd7ecb8cd7524f010432bd86f5c347744c1edb48cc0f95df33302a407a9fb97f",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.marcato.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "marcato",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/marcato.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/marcato.webp"
+      },
+      "sha256": "2bc8400d6d0b8f72cf60b5550dc51a673c37bd6a7dd90c26cca6f8c1f15b5c03",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.meditations-on-mercy.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "meditations-on-mercy",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/meditations-on-mercy.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/meditations-on-mercy.webp"
+      },
+      "sha256": "31d1ebd731face469f44a8c23f67f18e16aac464d3ba948c01abfd96ed37b4d5",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.moongazers-sigil.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "moongazers-sigil",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/moongazers-sigil.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/moongazers-sigil.webp"
+      },
+      "sha256": "c678b3157a8ce548cf486a2c5f76227e667d0606511c58c21688c64920eed904",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.novaburst.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "novaburst",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/novaburst.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/novaburst.webp"
+      },
+      "sha256": "b8a76c2cddad2e113d21f467da08f72c84e92e6d2f2f9cbf2774a0d245a5b8fc",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.oceans-gift.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "oceans-gift",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/oceans-gift.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/oceans-gift.webp"
+      },
+      "sha256": "65c2f4d6bfe57dfcf56776e803c49b3d4d8c7b4ed29c0f4416cd3e0de160ae5e",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.originite-type-i.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "originite-type-i",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/originite-type-i.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/originite-type-i.webp"
+      },
+      "sha256": "426ac13d286e425bad176f66392adcdc6da7e65c83176eb49360775af344760e",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.originite-type-ii.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "originite-type-ii",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/originite-type-ii.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/originite-type-ii.webp"
+      },
+      "sha256": "9180e244c5de0de837dea44cd6b71b4753fb2ccdddd3ff02d8463fe401b994f7",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.originite-type-iii.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "originite-type-iii",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/originite-type-iii.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/originite-type-iii.webp"
+      },
+      "sha256": "4cb0655556d8671ecfad88b64645c170b735eb0556027acf4d88cdecb6dbf991",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.originite-type-iv.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "originite-type-iv",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/originite-type-iv.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/originite-type-iv.webp"
+      },
+      "sha256": "d846387ee203e24bd58ea9e7bbf4c037fa7b07b8880644878485a5ec0b058ffa",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.originite-type-v.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "originite-type-v",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/originite-type-v.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/originite-type-v.webp"
+      },
+      "sha256": "69f68350436e006583b75996c59d19f3e8e38f604df0789041e421588c439a83",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.overture.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "overture",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/overture.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/overture.webp"
+      },
+      "sha256": "4f1bb2e309da5187b402efc411b056f44b2461aa5a5de6b286ac805270e4dd13",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.phasic-homogenizer.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "phasic-homogenizer",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/phasic-homogenizer.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/phasic-homogenizer.webp"
+      },
+      "sha256": "5611d523934e0366cc4b5e0e39f0b92a1697b71e2993324e4ffce1002418e7e4",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.pistols-26.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "pistols-26",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/pistols-26.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/pistols-26.webp"
+      },
+      "sha256": "03acb2ee98f5605c13e8ed080d46d3ec8fbe194b61cd35cc12a618ad74b36e5b",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.pistols-of-night.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "pistols-of-night",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/pistols-of-night.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/pistols-of-night.webp"
+      },
+      "sha256": "884216dbbeee6c6c0748e8b3a0e170de7fd65afef680e2242fbeaa11444ee0e8",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.pistols-of-voyager.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "pistols-of-voyager",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/pistols-of-voyager.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/pistols-of-voyager.webp"
+      },
+      "sha256": "8babf4d13c6d9663ab2cc724ad6d20791e25e1e7bf42233ae795ae3cd5abe4f8",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.projection-formless-broadblade.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "projection-formless-broadblade",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/projection-formless-broadblade.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/projection-formless-broadblade.webp"
+      },
+      "sha256": "2e4340459cc2c8459194573dbbbbac35eecca5e34d910e52c3a9ffe68cf50a00",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.projection-formless-gauntlets.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "projection-formless-gauntlets",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/projection-formless-gauntlets.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/projection-formless-gauntlets.webp"
+      },
+      "sha256": "fc5ff2c4ebcaad24138cd3f4db1131dbb4c84447ad4a2656c1a934f29ac1343d",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.projection-formless-pistol.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "projection-formless-pistol",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/projection-formless-pistol.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/projection-formless-pistol.webp"
+      },
+      "sha256": "c995890bb05ed2e102e15562bb66f73630d64128e1dc4392aa63262d2d4dc28a",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.projection-formless-rectifier.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "projection-formless-rectifier",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/projection-formless-rectifier.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/projection-formless-rectifier.webp"
+      },
+      "sha256": "13c520677b44effb6d588a35a30436638178945aef368e22fc4917b558f710db",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.projection-formless-sword.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "projection-formless-sword",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/projection-formless-sword.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/projection-formless-sword.webp"
+      },
+      "sha256": "1a3ad8b3235400b884efad17f96db803317fc4adeb425b36d12588b87da73089",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.projection-peach-blossom.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "projection-peach-blossom",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/projection-peach-blossom.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/projection-peach-blossom.webp"
+      },
+      "sha256": "4c932e57d9dc63043fdbefee2132e6da642923541b5be3d8ba70d5b02586f752",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.pulsation-bracer.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "pulsation-bracer",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/pulsation-bracer.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/pulsation-bracer.webp"
+      },
+      "sha256": "c2490e2dd6eeaf04df3c2563caddcad44cf5dd52a440b9a8bc61b45e92c85150",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.radiance-cleaver.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "radiance-cleaver",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/radiance-cleaver.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/radiance-cleaver.webp"
+      },
+      "sha256": "c9fd03684b9b222a0f96c987021737fa4771a6fe2d092be3fda9345ff583f15b",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.radiant-dawn.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "radiant-dawn",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/radiant-dawn.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/radiant-dawn.webp"
+      },
+      "sha256": "df10540b1e661c3ed02da39dcb5f62d2e7f6af148812623f0dd54ec6d53e62e5",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.rectifier-25.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "rectifier-25",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/rectifier-25.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/rectifier-25.webp"
+      },
+      "sha256": "1b452a454e42e65a29fa7d99354b0ad8746a58bf71aeed3b90f4b0b3650b002f",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.rectifier-of-night.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "rectifier-of-night",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/rectifier-of-night.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/rectifier-of-night.webp"
+      },
+      "sha256": "7e2136dcb69f79cc9ee0aae4fba0e450d91802d6fdfa67247a8895dcc73d832e",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.rectifier-of-voyager.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "rectifier-of-voyager",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/rectifier-of-voyager.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/rectifier-of-voyager.webp"
+      },
+      "sha256": "dca9321a2bc667ab152b3c311eb0a40c49b225e22b4280ffcd50cb0aa3364e6f",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.red-spring.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "red-spring",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/red-spring.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/red-spring.webp"
+      },
+      "sha256": "112263440968f23ebc947b3c9d0a7a8e8de423bb8fe0623a4ee72326bb20dd3a",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.relativistic-jet.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "relativistic-jet",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/relativistic-jet.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/relativistic-jet.webp"
+      },
+      "sha256": "a8ef25e4aadf88e3fe449fb4fb9b402c10fd7e1664a516990b732916b9935aa9",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.rime-draped-sprouts.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "rime-draped-sprouts",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/rime-draped-sprouts.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/rime-draped-sprouts.webp"
+      },
+      "sha256": "4d4879a6c317bd32c30aafdd2ce4a44c086b7122deb58c127c4c1feee8b419e2",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.romance-in-farewell.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "romance-in-farewell",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/romance-in-farewell.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/romance-in-farewell.webp"
+      },
+      "sha256": "8df0e113169620e8fedb123501e5151d12b2f1a8deab7d02c1854aa90b8fa425",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.skull-thrasher.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "skull-thrasher",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/skull-thrasher.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/skull-thrasher.webp"
+      },
+      "sha256": "c26a5e7344deceb6801475125cc6f839fe58c64d69adaacc39c7857dd9b5d420",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.solar-flame.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "solar-flame",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/solar-flame.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/solar-flame.webp"
+      },
+      "sha256": "a3ecffba0772058d9ec79cf9930e6e0e13a941572b9efed89c6d3bbbc500deb0",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.solsworn-ciphers.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "solsworn-ciphers",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/solsworn-ciphers.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/solsworn-ciphers.webp"
+      },
+      "sha256": "c94352507a627e97678ce4ce510e5c5302fc89922f0b8b3cf863e9f20968f973",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.somnoire-anchor.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "somnoire-anchor",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/somnoire-anchor.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/somnoire-anchor.webp"
+      },
+      "sha256": "f3e4dddde32053343b2c77e1c6569f99bbb0fc6b435ea1f8207f6e0c0098404f",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.spectral-trigger.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "spectral-trigger",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/spectral-trigger.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/spectral-trigger.webp"
+      },
+      "sha256": "52748c6e14a654c5e58619e3f44933e390cc0c4c51b8e61755859fe55340eed7",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.spectrum-blaster.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "spectrum-blaster",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/spectrum-blaster.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/spectrum-blaster.webp"
+      },
+      "sha256": "faf246fe6da49629d1479ccaa83d6148a2d8857167768db211d109ff95fa16c6",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.starfield-calibrator.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "starfield-calibrator",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/starfield-calibrator.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/starfield-calibrator.webp"
+      },
+      "sha256": "69fa64e2c4e68d6b2da6ace8be064b3aac86614ca406a7fea8b02217b7949bc2",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.static-mist.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "static-mist",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/static-mist.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/static-mist.webp"
+      },
+      "sha256": "1114c9c5ceb4a7b01dc489fbd0adedd51bf929c57cfb0251eda3eed020aa1199",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.stellar-symphony.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "stellar-symphony",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/stellar-symphony.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/stellar-symphony.webp"
+      },
+      "sha256": "b4517f4904da853049ea571b7a5d689e78b5bd93bf37a8a9a43c1cba8ea614e8",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.stonard.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "stonard",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/stonard.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/stonard.webp"
+      },
+      "sha256": "b5d044f529db5e7e73e0024d39aab66a42d458d3320b1b83384c6f5775349518",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.stringmaster.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "stringmaster",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/stringmaster.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/stringmaster.webp"
+      },
+      "sha256": "39740942eb1f66689e1c4f9c3efb989a980e1570ee1bb3fc6e148423c58c571a",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.sword-18.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "sword-18",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/sword-18.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/sword-18.webp"
+      },
+      "sha256": "53fe8ab2206f47f0d9ca76f6af409ba4a8b75bf570f43f6ae9ffc0031258e6d3",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.sword-of-night.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "sword-of-night",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/sword-of-night.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/sword-of-night.webp"
+      },
+      "sha256": "54e85a683788d1d69b305723a94dfb63144befbb63a81510dafcdb1225007c30",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.sword-of-voyager.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "sword-of-voyager",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/sword-of-voyager.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/sword-of-voyager.webp"
+      },
+      "sha256": "0ef0c27fcb8a29e7df8af979d2c431b046d9a8119e0f58c51180b014cdd7acaa",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.the-last-dance.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "the-last-dance",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/the-last-dance.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/the-last-dance.webp"
+      },
+      "sha256": "9e8afb5ea764adf9a6a6e6c323ae197e40df15fdd8e1be152ed028ad35373085",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.thousandfold-deliverance.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "thousandfold-deliverance",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/thousandfold-deliverance.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/thousandfold-deliverance.webp"
+      },
+      "sha256": "ad531f35cc7330122017545355e16d4db20ebddd138f0e003479a89b40862571",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.thunderbolt.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "thunderbolt",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/thunderbolt.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/thunderbolt.webp"
+      },
+      "sha256": "5de027278cb943b65213ea15f88ae845251dde0e73f0e8b8ccf1433ad8754886",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.thunderflare-dominion.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "thunderflare-dominion",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/thunderflare-dominion.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/thunderflare-dominion.webp"
+      },
+      "sha256": "e0779375ddd638e2327e039175c62ed2a04c512dde6da25c365ebb8e5f3884dd",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.tragicomedy.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "tragicomedy",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/tragicomedy.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/tragicomedy.webp"
+      },
+      "sha256": "63f76acb10b7e742c6b782e8e9ee4035bf85a44fb29dcb62e42793d6a12bf8ed",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.training-broadblade.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "training-broadblade",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/training-broadblade.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/training-broadblade.webp"
+      },
+      "sha256": "26f764d0f69665cefd274b54623d205f3079f05484c6093a60e65212f062ccdc",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.training-gauntlets.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "training-gauntlets",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/training-gauntlets.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/training-gauntlets.webp"
+      },
+      "sha256": "e382ca7fbf76313d5a444bafebdef45d4293a7a10bb40933c3815cf1c03d991c",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.training-pistols.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "training-pistols",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/training-pistols.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/training-pistols.webp"
+      },
+      "sha256": "dfcfd302f0da0f3c54a188962e78d559954081ad5aedb5d4d6a134560ea36166",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.training-rectifier.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "training-rectifier",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/training-rectifier.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/training-rectifier.webp"
+      },
+      "sha256": "b70337b5c5b4e3b48a3a924ab7fab1b7dbb4ab4588f8d20c82ac11791b929cec",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.training-sword.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "training-sword",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/training-sword.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/training-sword.webp"
+      },
+      "sha256": "0262b886442ea47bcd4ae4424447e75ed0555a715495e512528f44e33d528049",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.tyro-broadblade.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "tyro-broadblade",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/tyro-broadblade.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/tyro-broadblade.webp"
+      },
+      "sha256": "894ad1af01100fd9484ee3fc43c3d5154ba53b609bb64d39988f9e6026915ed0",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.tyro-gauntlets.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "tyro-gauntlets",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/tyro-gauntlets.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/tyro-gauntlets.webp"
+      },
+      "sha256": "c93f696ba8247baf157ba5c9add1a0d72d882130be5ef7efe7776b30cc496585",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.tyro-pistols.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "tyro-pistols",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/tyro-pistols.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/tyro-pistols.webp"
+      },
+      "sha256": "4d180dd3183d4aa6d75318bb01861382ad08da92fa71376eb03caa1049937416",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.tyro-rectifier.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "tyro-rectifier",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/tyro-rectifier.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/tyro-rectifier.webp"
+      },
+      "sha256": "96c8532f148bd616711e5a63803776d78c0de89eeae34d3c0bd754c86ae905de",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.tyro-sword.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "tyro-sword",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/tyro-sword.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/tyro-sword.webp"
+      },
+      "sha256": "3b5b4285373a91679a6fe4d64e0f3c681e538a61c68cd8ececda236c232b6920",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.undying-flame.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "undying-flame",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/undying-flame.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/undying-flame.webp"
+      },
+      "sha256": "2e08b0485bbd10794ed6914ea8491725482b960c6d51ab8d35d2348d51d42041",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.unflickering-valor.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "unflickering-valor",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/unflickering-valor.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/unflickering-valor.webp"
+      },
+      "sha256": "ef8ba3422a3ecb6c9c3dc68a7eed64e0013b7f76df1671985356c7832fdc2a8d",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.unreleased-weapon-skin-80080009.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "unreleased-weapon-skin-80080009",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/unreleased-weapon-skin-80080009.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/unreleased-weapon-skin-80080009.webp"
+      },
+      "sha256": "35d047766140efdd471413f9815fcae9f6287f8c319d98abdbb19a7ae1a3a942",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.variation.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "variation",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/variation.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/variation.webp"
+      },
+      "sha256": "2b02f25373f5c5cf4d8ab9f808e5684d6854ef1d7bc16f0d671dda61bd8f07eb",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.verdant-summit.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "verdant-summit",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/verdant-summit.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/verdant-summit.webp"
+      },
+      "sha256": "53a64377f9099ae04a9cc6f8d93f089604197e526f781777b9a772209ca81df0",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.veritys-handle.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "veritys-handle",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/veritys-handle.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/veritys-handle.webp"
+      },
+      "sha256": "8c0eaf5e1bf1ddbbe465c1cf3aa9eefdc2f57adb838726828fbd79f360b9400e",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.waltz-in-masquerade.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "waltz-in-masquerade",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/waltz-in-masquerade.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/waltz-in-masquerade.webp"
+      },
+      "sha256": "e0722f4f87982efd18b5eb2a2077a3549b61771d4c131ae64abe62e7b06c9479",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.waning-redshift.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "waning-redshift",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/waning-redshift.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/waning-redshift.webp"
+      },
+      "sha256": "65b15fe8e210c8f1dd4c16a4697b8eb3ed3e530b6ca69f587b872be92bb7e6df",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.whispers-of-sirens.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "whispers-of-sirens",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/whispers-of-sirens.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/whispers-of-sirens.webp"
+      },
+      "sha256": "f2ce2bab73af628c37b690a63edc9549e524699c9d7d4d8ccbcdb857f396b21f",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.wildfire-mark.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "wildfire-mark",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/wildfire-mark.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/wildfire-mark.webp"
+      },
+      "sha256": "31e27b0aec88b07a08e0bc6853cc1d7c13d563bfc121ff8f96a133812e2a5bc8",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.weapon.woodland-aria.icon",
+      "game": "wuwa",
+      "entityType": "weapon",
+      "entityId": "woodland-aria",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/weapons/woodland-aria.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/weapons/woodland-aria.webp"
+      },
+      "sha256": "3fcb8a40f0013474ed813bb90ba11d2e13e481880cb3ed4938bbcf3fb8ad48a8",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.celestial-light.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "celestial-light",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/celestial-light.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/celestial-light.webp"
+      },
+      "sha256": "20d517bddb5a61a945a09fbb8c4eccffd12a7af98d81e8243eda50ae606d2627",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.chromatic-foam.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "chromatic-foam",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/chromatic-foam.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/chromatic-foam.webp"
+      },
+      "sha256": "36f6d3d7b10c274883fa6024eebfaae8fe51a671c95a7ed52685073d222d242b",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.crown-of-valor.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "crown-of-valor",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/crown-of-valor.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/crown-of-valor.webp"
+      },
+      "sha256": "65c07da020526a85fa0c9e232a371fd93e885e5a7d6aadb2daf965dc43418e65",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.dream-of-the-lost.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "dream-of-the-lost",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/dream-of-the-lost.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/dream-of-the-lost.webp"
+      },
+      "sha256": "b0e0966cf4970bf5109c9aa5c093fc8ad4c0b3abed6e1b87f2fda0e16e384dfd",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.electro-sonata-effect.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "electro-sonata-effect",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/electro-sonata-effect.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/electro-sonata-effect.webp"
+      },
+      "sha256": "f7dc098ae025bd621044af1225ceb6577b086ff3c8942e988dc8a7d2e8d11d38",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.electro.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "electro",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/electro.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/electro.webp"
+      },
+      "sha256": "8ff06c21c9864ba6a4e0fcf4e8f719d98969df57d9a1ffde2cdb46ab4d8e3cb5",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.empyrean-anthem.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "empyrean-anthem",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/empyrean-anthem.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/empyrean-anthem.webp"
+      },
+      "sha256": "3b1583bf7c3f2e1497e7c1dc1ac994552fb0b71c29f2f3dbc3b6ba33bd828dd8",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.eternal-radiance.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "eternal-radiance",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/eternal-radiance.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/eternal-radiance.webp"
+      },
+      "sha256": "65be7b8984f99af2aba6eb39b3a81293ce1f440b11386e5045f657e128ce80cb",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.flamewings-shadow.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "flamewings-shadow",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/flamewings-shadow.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/flamewings-shadow.webp"
+      },
+      "sha256": "a0d9207ab52b3efc525f609cd4fdeb1e93e13f3376a349dee6b9c55999289fe3",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.flaming-clawprint.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "flaming-clawprint",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/flaming-clawprint.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/flaming-clawprint.webp"
+      },
+      "sha256": "b89667e00380a5292a7bc96fdfafeeb2470426ff2a5cf3d3870fa9142fde4a94",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.freezing-frost.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "freezing-frost",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/freezing-frost.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/freezing-frost.webp"
+      },
+      "sha256": "c4b53be460d77b175b4e6e273820dbf9fed8f45d424f36a93305acbaf2098682",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.frosty-resolve.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "frosty-resolve",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/frosty-resolve.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/frosty-resolve.webp"
+      },
+      "sha256": "3a7b873cc61be613f5088f44d5148d04d0ee61e0f39a92e7d9a9d0f42d4b4b57",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.fusion.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "fusion",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/fusion.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/fusion.webp"
+      },
+      "sha256": "68378bd43a894f9aa244519775edf6848cdd27f48e1b75ab8815b7ff190573d5",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.glacio.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "glacio",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/glacio.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/glacio.webp"
+      },
+      "sha256": "b92977e828f70e955f845bd70135e560cbff935cd34520da7f9b450db3af1532",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.gusts-of-welkin.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "gusts-of-welkin",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/gusts-of-welkin.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/gusts-of-welkin.webp"
+      },
+      "sha256": "36606b5ab8f9e8088f04a2c4d5a58e7b0adab72a457839f77bc7c7eb40dbee94",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.halo-of-starry-radiance.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "halo-of-starry-radiance",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/halo-of-starry-radiance.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/halo-of-starry-radiance.webp"
+      },
+      "sha256": "9493b9903e3adaa142c82fb81495ef24741dc90938ea3d7d3f0d54cda7b8fe93",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.havoc-eclipse.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "havoc-eclipse",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/havoc-eclipse.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/havoc-eclipse.webp"
+      },
+      "sha256": "33401950bfa72cb350ebad520f9ea3f65840e174238c9f484fdb336820259b4b",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.healing-sonata-effect.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "healing-sonata-effect",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/healing-sonata-effect.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/healing-sonata-effect.webp"
+      },
+      "sha256": "ebcc34a43d008a2072f7a359255ba42a2e5dac78c94790f03e42f1b0a52810ca",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.heart-of-evils-purge.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "heart-of-evils-purge",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/heart-of-evils-purge.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/heart-of-evils-purge.webp"
+      },
+      "sha256": "9fc1a65878446f806461650febfaf61fb5bec07d12c5b62888494f2b215bf17a",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.lamp-of-nether-road.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "lamp-of-nether-road",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/lamp-of-nether-road.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/lamp-of-nether-road.webp"
+      },
+      "sha256": "6d4ba91b97e4c7b1ef60c85db63c3ae6d7f07b959efed24f9e66779f9f79e716",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.law-of-harmony.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "law-of-harmony",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/law-of-harmony.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/law-of-harmony.webp"
+      },
+      "sha256": "ce896a44299d4ef6125892fbbfd92229ab21fe1def11d2d67749258546eff0aa",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.lingering-tunes.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "lingering-tunes",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/lingering-tunes.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/lingering-tunes.webp"
+      },
+      "sha256": "46547a40e70bbaddaac723097386e3e8336af84d811d4722a9aee5b9e20aa579",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.midnight-veil.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "midnight-veil",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/midnight-veil.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/midnight-veil.webp"
+      },
+      "sha256": "6585e578b4b4400a7ab42b43deacf01daa3973242ab01d5fdeccbfdd6de68d23",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.molten-rift.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "molten-rift",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/molten-rift.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/molten-rift.webp"
+      },
+      "sha256": "7dbf8234eb8b1637e2d82359ecf3792f2b1e23cc7c95930ca754cfbbf8276e5f",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.moonlit-clouds.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "moonlit-clouds",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/moonlit-clouds.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/moonlit-clouds.webp"
+      },
+      "sha256": "9e594d1fad099015af4bb7e22bfdb2d833777d563db804d881aead66502c8529",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.pact-of-neonlight-leap.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "pact-of-neonlight-leap",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/pact-of-neonlight-leap.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/pact-of-neonlight-leap.webp"
+      },
+      "sha256": "0f40b4390de3b29542ad7fc42fe9ae7c222ec9727a6980374d13deaaf13f52d0",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.reel-of-spliced-memories.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "reel-of-spliced-memories",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/reel-of-spliced-memories.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/reel-of-spliced-memories.webp"
+      },
+      "sha256": "741b941d2a20f5dc8afaca45b89a2e55ad3cf2bc146c4acedbdebec3544995a1",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.rejuvenating-glow.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "rejuvenating-glow",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/rejuvenating-glow.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/rejuvenating-glow.webp"
+      },
+      "sha256": "80b4845cdf824233f0d638f722cea93126a65edb3c2064e1ab52701ca1024dc3",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.rite-of-gilded-revelation.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "rite-of-gilded-revelation",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/rite-of-gilded-revelation.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/rite-of-gilded-revelation.webp"
+      },
+      "sha256": "053bb4196bf3252d434f9051625927a337afc0024bc58761c002d50d9a9e91b6",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.shadow-of-shattered-dreams.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "shadow-of-shattered-dreams",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/shadow-of-shattered-dreams.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/shadow-of-shattered-dreams.webp"
+      },
+      "sha256": "e57b0cdc1ba190184d3cb19c79fb177fc20196c83b9c577bb696cc1ca064c84a",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.sierra-gale.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "sierra-gale",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/sierra-gale.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/sierra-gale.webp"
+      },
+      "sha256": "eebf2da30427af8642f68f193931c9950842e061f4445fe69d3ca038fc93ef68",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.song-of-feathered-trace.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "song-of-feathered-trace",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/song-of-feathered-trace.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/song-of-feathered-trace.webp"
+      },
+      "sha256": "7f919452176e5ec2cd9d60f0e422b02ee407aadb648c705bd19b4ccec52c195d",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.sound-of-true-name.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "sound-of-true-name",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/sound-of-true-name.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/sound-of-true-name.webp"
+      },
+      "sha256": "99e4bd51a8f4d1cfb05c6ac28993f56c07232f210e10ec88e10ff80269b3c700",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.special-sonata-effect.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "special-sonata-effect",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/special-sonata-effect.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/special-sonata-effect.webp"
+      },
+      "sha256": "415207b7291dfdde08c05f8c5420f5f9eb4717d0acaa0028c396915e34ddeea9",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.spectro.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "spectro",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/spectro.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/spectro.webp"
+      },
+      "sha256": "64f51d93795ffbab3dd83471f210cd5cee79d9692fa859dee2d17435d0ca8516",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.thread-of-severed-fate.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "thread-of-severed-fate",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/thread-of-severed-fate.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/thread-of-severed-fate.webp"
+      },
+      "sha256": "3cbebdc60508d72f6e1cec9ec0127cb7839e2fb23173cf81d78f3da53c760de9",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.tidebreaking-courage.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "tidebreaking-courage",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/tidebreaking-courage.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/tidebreaking-courage.webp"
+      },
+      "sha256": "3ecbef446c60a2af3d2afcbec1e4a8b7f180f20fb9b423da3f78332abfa6566b",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.trailblazing-star.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "trailblazing-star",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/trailblazing-star.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/trailblazing-star.webp"
+      },
+      "sha256": "a67a60519a2c2f540def8cd24d02c49a285b6f2b54f9ccfbabd9d6d8b6a05dc1",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.void-thunder.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "void-thunder",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/void-thunder.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/void-thunder.webp"
+      },
+      "sha256": "3c299b1d814ffe6f7ae50337d6cd795d32af4a97fda6b2b6428f38d0fa9870cf",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.windward-pilgrimage.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "windward-pilgrimage",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/windward-pilgrimage.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/windward-pilgrimage.webp"
+      },
+      "sha256": "43f386252d59e769af3ec9214ca94bc46eb482de4aae1e4f7eb05e247d70df86",
+      "status": "ready"
+    },
+    {
+      "assetId": "wuwa.artifact.wishes-of-quiet-snowfall.icon",
+      "game": "wuwa",
+      "entityType": "artifact",
+      "entityId": "wishes-of-quiet-snowfall",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/wuthering-waves/echoes/wishes-of-quiet-snowfall.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "wuthering-waves/artifacts/wishes-of-quiet-snowfall.webp"
+      },
+      "sha256": "242020e70c2236ab975ce5e94f39437d2a1b529c907b7e89d501e3865de051c3",
+      "status": "ready"
+    }
+  ]
+}

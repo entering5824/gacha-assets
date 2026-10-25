@@ -1,0 +1,2870 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "assetId": "zzz.character.alice.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "alice",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/alice.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/alice.webp"
+      },
+      "sha256": "d24e03b6a591e07bb004f3a2011f5dcbfe32ad003e927e44795ad73ff45d61fe",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.anby.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "anby",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/anby.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/anby.webp"
+      },
+      "sha256": "bb322f11e5730d935f08af024b36d191260dd05909c8fb563ed3febdace0c98a",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.anton.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "anton",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/anton.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/anton.webp"
+      },
+      "sha256": "b1621c85588bd9fa3f370f58d0ae705f875dddd04749d717693d278e13093baa",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.aria.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "aria",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/aria.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/aria.webp"
+      },
+      "sha256": "bad00685a0a9ca43ceb1057a82a532a34e8f19921dd6f0b2891c0e14d7e323a3",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.astra-yao.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "astra-yao",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/astra-yao.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/astra-yao.webp"
+      },
+      "sha256": "1f77096283e95ff9d5a58223eb99b011831816d310e1b0751e958004b2de172d",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.banyue.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "banyue",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/banyue.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/banyue.webp"
+      },
+      "sha256": "92d84e5a79f98d16ffd516172f977facc847a6035e211f31d921451936aedf90",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.ben.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "ben",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/ben.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/ben.webp"
+      },
+      "sha256": "a406ae17adbe57082b7fe6632df7bb41a4c86e0a3049ca63a90b8bc4db78c18d",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.billy.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "billy",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/billy.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/billy.webp"
+      },
+      "sha256": "e0903048dda29deb5ebe140efa58529c3769d35cbe6f002296cc09fcfba440bb",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.burnice.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "burnice",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/burnice.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/burnice.webp"
+      },
+      "sha256": "b17e13ca09b98704c1483b23a112df315703ffd9367ee704c01848d81146f9a5",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.caesar.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "caesar",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/caesar.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/caesar.webp"
+      },
+      "sha256": "dc9cd68f9eab8e8e285ad1697649a0d630d5a9f0ce7bfcfc5ec475f535787531",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.cissia.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "cissia",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/cissia.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/cissia.webp"
+      },
+      "sha256": "75d0cebc877185b89affed8de2c1b4fc34d5de380e88c2e84892cdb2fd919385",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.corin.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "corin",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/corin.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/corin.webp"
+      },
+      "sha256": "d5ee55558fa74741f78cc1f5953e433c4b18b6b5e49ae5a9aad07a7cb779db0a",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.dialyn.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "dialyn",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/dialyn.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/dialyn.webp"
+      },
+      "sha256": "fc15d20dacd057e7e2c876002a9bfcee187f01e10f94e8517300c259c8a4c385",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.ellen.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "ellen",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/ellen.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/ellen.webp"
+      },
+      "sha256": "519e125e44885445baac1dbc9b99217e27a1228331f5d621c0b40a249b3845a8",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.evelyn.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "evelyn",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/evelyn.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/evelyn.webp"
+      },
+      "sha256": "7a79af7a3d8921d2a4b327ec6f3df1b78ba34f228cc4f003bb1ff3338ba1b092",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.grace.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "grace",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/grace.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/grace.webp"
+      },
+      "sha256": "f3734b3d0e28388711ab4b58f757a9f3a4a0a0e1ec11e6a7ba28002f09dfa85d",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.harumasa.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "harumasa",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/harumasa.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/harumasa.webp"
+      },
+      "sha256": "4309e44dfbbea4692e0b1795f10d10507b7445bd2a765f5410050281eee5f65f",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.hugo.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "hugo",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/hugo.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/hugo.webp"
+      },
+      "sha256": "eee0b2418124e09a4e99a8ca8f4fff228dfbbe6a80b76c6b48e9a43814902b38",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.jane.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "jane",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/jane.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/jane.webp"
+      },
+      "sha256": "d78a8bd31d017073e3f08a32d819908d7e1780b7ca870e9f2358f75145e76235",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.ju-fufu.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "ju-fufu",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/ju-fufu.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/ju-fufu.webp"
+      },
+      "sha256": "47f20b5070de1e7535676abc0d07890b50d46200acf7203d6b1d64a13b243486",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.koleda.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "koleda",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/koleda.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/koleda.webp"
+      },
+      "sha256": "b539fdcfbde250886d2bb0c74eb725217bb946d425318d7e19db7ed65c877e44",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.lighter.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "lighter",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/lighter.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/lighter.webp"
+      },
+      "sha256": "ad43c6abe825f5df74cb29e39c46336bf4dd96761afe1f03850ea8ad1b600cf0",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.lucia.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "lucia",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/lucia.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/lucia.webp"
+      },
+      "sha256": "3c206ddd7a35b08ecc6d9670e4fcb28edc9ad3f234624ed71a61eb4db2b012d1",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.lucy.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "lucy",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/lucy.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/lucy.webp"
+      },
+      "sha256": "16b8c54ab8d5a00a491b7162881a273875b7e1cd941a5a3b092ffb88cce1085e",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.lycaon.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "lycaon",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/lycaon.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/lycaon.webp"
+      },
+      "sha256": "263c29847acf786377bde9120a9855a50bdb5598482db0911d99ac1f3c9c946d",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.manato.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "manato",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/manato.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/manato.webp"
+      },
+      "sha256": "64fd43f4d6d9f3511d48964eba9f5026902e038197455ee1f1e4c285027de1bb",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.miyabi.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "miyabi",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/miyabi.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/miyabi.webp"
+      },
+      "sha256": "87884364452f071fcd1ed8e5477229c78d2e9535ae1bc38cedb06c24984853f1",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.nangong-yu.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "nangong-yu",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/nangong-yu.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/nangong-yu.webp"
+      },
+      "sha256": "ded3ec67c06305564adf191f1903ee86cdb3e681a5b9f750d6d34d9cb1670b43",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.nekomata.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "nekomata",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/nekomata.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/nekomata.webp"
+      },
+      "sha256": "2101d73245488118ae95c6602b5968cd6ba24ff8f6c8abf19365a0df57afdab1",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.nicole.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "nicole",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/nicole.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/nicole.webp"
+      },
+      "sha256": "ca618698690eaf9c42d2d495d12e3bca3c6d7d957c7d669fd205114f4f8e41d9",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.norma.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "norma",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/norma.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/norma.webp"
+      },
+      "sha256": "acbb6913eba5270362b536bf1e94875ed8dbd12e80876338a9ec00e52500f0d7",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.orphie-magus.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "orphie-magus",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/orphie-magus.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/orphie-magus.webp"
+      },
+      "sha256": "0ce75572742fe4d90d80a3ca4fa365eb2678cb6456d4bb098508be874b81cb64",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.pan-yinhu.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "pan-yinhu",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/pan-yinhu.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/pan-yinhu.webp"
+      },
+      "sha256": "e5d91a9d6d6b8d46ecd7d5e0970d2ed6d639a524002b58e71ae0279e19ed17fa",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.phoenix.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "phoenix",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/phoenix.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/phoenix.webp"
+      },
+      "sha256": "a44ec58adb922598379340578bf3c0d213a41507995adc76191972f968ef5156",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.piper.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "piper",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/piper.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/piper.webp"
+      },
+      "sha256": "cf12ae8505b3f1b431e413b3326ef59dc3db0935169181e27246802dbc52c266",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.promeia.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "promeia",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/promeia.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/promeia.webp"
+      },
+      "sha256": "c9401e1de104f5ef114d38dcd982ae9d44584eaa6f9c68977716fe098bd6eb16",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.pulchra.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "pulchra",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/pulchra.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/pulchra.webp"
+      },
+      "sha256": "450d70c2b470a6640c8399b9c085159ab54b13a04aa800bb78fa6c89b1c22d15",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.pyrois.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "pyrois",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/pyrois.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/pyrois.webp"
+      },
+      "sha256": "8512a8be4b1cb8431c86cdd0ec99653fd512e6a3e8c29c924820a2429980d359",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.qingyi.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "qingyi",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/qingyi.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/qingyi.webp"
+      },
+      "sha256": "0eeee5ed2c57da6c3e849b48a8e7f4231679e90fb85c3240a0ff793911a524eb",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.remielle.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "remielle",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/remielle.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/remielle.webp"
+      },
+      "sha256": "140df9255544f9a5d721eef67cbcb76f89bb2b739194cd98fbcee063c3b1ef29",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.rina.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "rina",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/rina.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/rina.webp"
+      },
+      "sha256": "308ee6c2bdafaa7f5777c584c746a44195bca300f956390c0acd64c5ba9e80ef",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.seed.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "seed",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/seed.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/seed.webp"
+      },
+      "sha256": "79668eef621b5b4ccc65762fb1b77c3c46342706d8e001b3a056e604e32227b5",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.seth.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "seth",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/seth.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/seth.webp"
+      },
+      "sha256": "b02efab318ae912c052c557c1d89e0b04063641ad2c1fe2859e8ca2aec6822d5",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.severian-lowell.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "severian-lowell",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/severian-lowell.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/severian-lowell.webp"
+      },
+      "sha256": "bbbe08b2a0777bf891a767a55e915a4adf417ea20d67502a5764c84bb4b9264b",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.soldier-0-anby.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "soldier-0-anby",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/soldier-0-anby.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/soldier-0-anby.webp"
+      },
+      "sha256": "1cdda729afe30bebe6bb6ee1cdafcad0e0ce81e478d2c0eac2360d400e5ac1fe",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.soldier-11.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "soldier-11",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/soldier-11.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/soldier-11.webp"
+      },
+      "sha256": "77a12357b0ca0ca6ed9cfea3ef10afec74b6598322c13d71e5e283cde7de3752",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.soukaku.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "soukaku",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/soukaku.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/soukaku.webp"
+      },
+      "sha256": "b91d0c94821992adb1e4662acd3ad4e10293d60096032b4537f25a6d07bbafd2",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.starlight-billy.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "starlight-billy",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/starlight-billy.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/starlight-billy.webp"
+      },
+      "sha256": "4b02ffd15725a6154530eaf648c2dc91f2fc94c0dbd780af4612062b49b85d1d",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.sunna.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "sunna",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/sunna.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/sunna.webp"
+      },
+      "sha256": "28e810ce61e6e7843b6684b79129d13cce1237bb5bd6f7d8a37a322c87e19ae3",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.trigger.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "trigger",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/trigger.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/trigger.webp"
+      },
+      "sha256": "f39bee6f9d9a5fe2fd0c7760c9c625b6ffed334ed9dead3aadf16a09ee69d6d9",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.velina.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "velina",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/velina.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/velina.webp"
+      },
+      "sha256": "92fc8ff72bc48c1821c0f88eb02b713e46795f4f1d03fe73eab5c6f7ab7a072b",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.vivian.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "vivian",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/vivian.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/vivian.webp"
+      },
+      "sha256": "8322d7fcad30548d8562bb941fc03e8cbc1176a7ae5d9b63399261df09de53f5",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.yanagi.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "yanagi",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/yanagi.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/yanagi.webp"
+      },
+      "sha256": "f776b2bc26b835d950d9762a1415c9caa450852e568c5208339383a5fbde5529",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.ye-shunguang.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "ye-shunguang",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/ye-shunguang.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/ye-shunguang.webp"
+      },
+      "sha256": "c97fd88cced4918daee13442c522c0b0578456e00b8e5c3e0cf53122aeacd46b",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.yidhari.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "yidhari",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/yidhari.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/yidhari.webp"
+      },
+      "sha256": "828b207c09194861e121ce12f33ae8e9d9f05ccd86e2985a040f438455c7f3ff",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.yixuan.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "yixuan",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/yixuan.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/yixuan.webp"
+      },
+      "sha256": "d5dca1db9bafe83dc5e6748ba2bf101954aa85c9e8acee78834c2348080e25b2",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.yuzuha.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "yuzuha",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/yuzuha.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/yuzuha.webp"
+      },
+      "sha256": "91f1f1add3cc28aa5c3428bdfd33c1fdff720f1adf70ede9c592de1f9a674242",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.zhao.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "zhao",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/zhao.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/zhao.webp"
+      },
+      "sha256": "ad73c2ebf09ccc7928ca0b09f42aa82d97e1f63889ab2d39987b6ed1b1e7fde8",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.character.zhu-yuan.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "zhu-yuan",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/characters/zhu-yuan.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/characters/zhu-yuan.webp"
+      },
+      "sha256": "e69e07d4e500f5cba6ad8a79b6d0dbbaf27becb4297e2d31dde69d3b46b078d7",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.weapon-s-1631.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "weapon-s-1631",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/Weapon_S_1631.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/Weapon_S_1631.webp"
+      },
+      "sha256": "73f100e1d04607557556177829c321919f65c8cffb83567c5d4c9ead2e7211a5",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.weapon-s-1641.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "weapon-s-1641",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/Weapon_S_1641.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/Weapon_S_1641.webp"
+      },
+      "sha256": "764e54887caea07085cfcbd8469b379753d4dfb68eb516542cbc8fcb29f1ed13",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.angel-in-the-shell.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "angel-in-the-shell",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/angel-in-the-shell.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/angel-in-the-shell.webp"
+      },
+      "sha256": "2cbdbb8e3bc2537412a04a94c3a6278c272df057b704f8c320fbaa0a2a8f38d6",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.bashful-demon.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "bashful-demon",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/bashful-demon.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/bashful-demon.webp"
+      },
+      "sha256": "67e2921877d2d3a0ea860e0ee78d473e9f5cc72289b1ab8548eec39ed0da0d08",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.bellicose-blaze.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "bellicose-blaze",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/bellicose-blaze.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/bellicose-blaze.webp"
+      },
+      "sha256": "4fa27155a64ca58829c73831720d317d952a38054120a4731c4d8116a25758db",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.big-cylinder.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "big-cylinder",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/big-cylinder.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/big-cylinder.webp"
+      },
+      "sha256": "e31a66bfc5833cbabd21351afe92b016c16d404a6bd8522a1fcf785a8e2e8596",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.blazing-laurel.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "blazing-laurel",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/blazing-laurel.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/blazing-laurel.webp"
+      },
+      "sha256": "4005f4c85834b44fca1893a910c3475aa3c992f538c1f575eb2c47a9cbb0f286",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.bloodmarrow-coffer.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "bloodmarrow-coffer",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/bloodmarrow-coffer.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/bloodmarrow-coffer.webp"
+      },
+      "sha256": "5ba7b59fc3cb394ec9364b249593fef995ab6d2077c9d920a52a5cdbe3f9bcbd",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.boisterous-echoes.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "boisterous-echoes",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/boisterous-echoes.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/boisterous-echoes.webp"
+      },
+      "sha256": "1f39a0cc5f56bf5b380d0ca8e4ef0077d03a518f84b4d578df2dfe06e5d7c228",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.box-cutter.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "box-cutter",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/box-cutter.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/box-cutter.webp"
+      },
+      "sha256": "bff96b3cf63fbef2df73856d867b9d84e121bb8a2e9d1b1d33915bc1ccc652aa",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.bunny-band.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "bunny-band",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/bunny-band.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/bunny-band.webp"
+      },
+      "sha256": "38d441375384c37fc7a576b4d50d0d50b950db0725a2bc02297ce8f309732ddd",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.cannon-rotor.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "cannon-rotor",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/cannon-rotor.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/cannon-rotor.webp"
+      },
+      "sha256": "43c2cb54322c6a2e88e3fb5735d17603656c345ccefc0c1523ec24cf509d0f95",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.catty-luck.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "catty-luck",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/catty-luck.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/catty-luck.webp"
+      },
+      "sha256": "a3a968a6ceb6d8a21ed9b914340489d689ab9086a72eaf8a1962c0285fcf1cf8",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.cauldron-of-clarity.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "cauldron-of-clarity",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/cauldron-of-clarity.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/cauldron-of-clarity.webp"
+      },
+      "sha256": "0347fcf73e6cf2babb368057702df3a2a4b0bb752571de36d106aea49727a0d7",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.chief-sidekick.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "chief-sidekick",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/chief-sidekick.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/chief-sidekick.webp"
+      },
+      "sha256": "d04065ae9ca39523d7ab04df2891a3e1925abe7d3a325f8fa70a6a27f1209330",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.cinder-cobalt.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "cinder-cobalt",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/cinder-cobalt.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/cinder-cobalt.webp"
+      },
+      "sha256": "bbce2017981d74026c95131ae2a7a9ca75bd38a7508abcabbcc6af0b3f53cb23",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.cloudcleave-radiance.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "cloudcleave-radiance",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/cloudcleave-radiance.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/cloudcleave-radiance.webp"
+      },
+      "sha256": "5184f296c237343a81692d9073d11d24ae35dd150786e6157e946caec7ab0caf",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.cordis-germina.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "cordis-germina",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/cordis-germina.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/cordis-germina.webp"
+      },
+      "sha256": "816d6227ea7d604695eac49b42f64c1f69393974c7197894f98c25fed0f08f9a",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.crimson-moon-casket.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "crimson-moon-casket",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/crimson-moon-casket.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/crimson-moon-casket.webp"
+      },
+      "sha256": "16c33b0f978aa1173b79fda4874d89eb15c0c1d4f592a8841796e9e4ea210cb2",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.crimson-thirst.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "crimson-thirst",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/crimson-thirst.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/crimson-thirst.webp"
+      },
+      "sha256": "40254547c2aaad82dcf8ba1c16b7f52014e4f32ae64d4a787620247a1865268e",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.deep-sea-visitor.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "deep-sea-visitor",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/deep-sea-visitor.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/deep-sea-visitor.webp"
+      },
+      "sha256": "93befe6e07b342bd1c499b9f729b8379f77f3b0a55f28376fada4bd64c0a5b05",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.demara-battery-mark-ii.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "demara-battery-mark-ii",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/demara-battery-mark-ii.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/demara-battery-mark-ii.webp"
+      },
+      "sha256": "4ad0087e4a36db1f70eeb4b9ba92fe625bf12de9490ff215ecaf33e7d62a7a5c",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.dreamlit-hearth.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "dreamlit-hearth",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/dreamlit-hearth.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/dreamlit-hearth.webp"
+      },
+      "sha256": "5dfbe42c1bbe82709610f8215b5d768e09faefa93beba0de749951a5f946f11f",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.drill-rig-red-axis.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "drill-rig-red-axis",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/drill-rig-red-axis.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/drill-rig-red-axis.webp"
+      },
+      "sha256": "e8d2416769bdc4fa0faf03ad33f35f4300b8b4b3dac13e1de012c23d8042a761",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.electro-lip-gloss.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "electro-lip-gloss",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/electro-lip-gloss.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/electro-lip-gloss.webp"
+      },
+      "sha256": "bfd58f6cb1eb14ebf3f917fe414c60a1b27524ad575cf7109cad584670fa9b66",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.elegant-vanity.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "elegant-vanity",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/elegant-vanity.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/elegant-vanity.webp"
+      },
+      "sha256": "1b0e22c31f48ed4096252f099bdc3776974fc84b65783355cc0351178349dc55",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.flamemaker-shaker.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "flamemaker-shaker",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/flamemaker-shaker.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/flamemaker-shaker.webp"
+      },
+      "sha256": "ca31ef3f1cb990e6468185972a27bd2f97efc241cfbdcf99b5e630e9cc55feb3",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.flight-of-fancy.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "flight-of-fancy",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/flight-of-fancy.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/flight-of-fancy.webp"
+      },
+      "sha256": "b26ca09e4ed0a4149e1f6a060bbd32f6ef89349b36a3ac0c226d99a4f1b6a040",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.frostfall-sickle.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "frostfall-sickle",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/frostfall-sickle.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/frostfall-sickle.webp"
+      },
+      "sha256": "9ee3a7fd3c7c4ff4ab9aafe3954cd1e275a9c2c5c31e6180bbc1f5bf550b3304",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.fusion-compiler.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "fusion-compiler",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/fusion-compiler.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/fusion-compiler.webp"
+      },
+      "sha256": "107126eedcc9bcbdeeb0fd0bfe984c2b4c2373f69ef603857188a7763542d47a",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.gilded-blossom.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "gilded-blossom",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/gilded-blossom.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/gilded-blossom.webp"
+      },
+      "sha256": "7046fcf5ba3e860d3f6b6809664850ec758e058d1e82876852fe13ac06785814",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.grill-owisp.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "grill-owisp",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/grill-owisp.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/grill-owisp.webp"
+      },
+      "sha256": "31ad634dab786d9eb54286a100d41ebff81cf754dff2a24cda55810c86c7da78",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.hailstorm-shrine.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "hailstorm-shrine",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/hailstorm-shrine.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/hailstorm-shrine.webp"
+      },
+      "sha256": "c466f78d3706171dfcb78ca5abb9d92043a64ff1e3fb260db06e8fa22c9cf024",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.half-sugar-bunny.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "half-sugar-bunny",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/half-sugar-bunny.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/half-sugar-bunny.webp"
+      },
+      "sha256": "07b510cf41de317202ef88ad88151637744389ca405e371046dbbd7ef657ac3e",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.heartstring-nocturne.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "heartstring-nocturne",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/heartstring-nocturne.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/heartstring-nocturne.webp"
+      },
+      "sha256": "6614f89732227f5acad54a03675f8e2b31e1703012554c6d90056172e85afe80",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.hellfire-gears.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "hellfire-gears",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/hellfire-gears.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/hellfire-gears.webp"
+      },
+      "sha256": "f7a7b43a5263d939fb38da38da06eaf39040c769504f7647cd94393aaf207403",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.housekeeper.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "housekeeper",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/housekeeper.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/housekeeper.webp"
+      },
+      "sha256": "4ffdc314e543cc03bb3fd7ff8904fad472338b1c73aa9a62607c59c28932f6bf",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.ice-jade-teapot.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "ice-jade-teapot",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/ice-jade-teapot.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/ice-jade-teapot.webp"
+      },
+      "sha256": "d97e78180bacb02163f91cd0fcc96154a77392ea32dd6ff08ab2243f5a6e4af4",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.identity-base.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "identity-base",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/identity-base.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/identity-base.webp"
+      },
+      "sha256": "3ff19715a906d3cf8fbca878169d935aa74bdf5f6bb5b25ef53615be9a2f8691",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.identity-inflection.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "identity-inflection",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/identity-inflection.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/identity-inflection.webp"
+      },
+      "sha256": "795b8c3d2d82cff5dc814d411a929778f4afd08f0520a5377785fb3cfbc7a6f5",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.joyau-dore.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "joyau-dore",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/joyau-dore.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/joyau-dore.webp"
+      },
+      "sha256": "34e63d1fab155fd1b37f52d9804e9afdb2ee3cac267af78c6c7e4f047c4a25ae",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.kaboom-the-cannon.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "kaboom-the-cannon",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/kaboom-the-cannon.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/kaboom-the-cannon.webp"
+      },
+      "sha256": "be8248ad19ec91f727ed246e1b29df184ca8c830ca10553c1f6cf0ddfc2ac548",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.knights-extolment.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "knights-extolment",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/knights-extolment.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/knights-extolment.webp"
+      },
+      "sha256": "ce635e70df9aaba47bcecb0eb1c3c521b78877edd0e78edc5757e11be5a2e43c",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.krakens-cradle.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "krakens-cradle",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/krakens-cradle.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/krakens-cradle.webp"
+      },
+      "sha256": "a9c7a4a759094020b4daffce1e50db5e7700edb9560c48812454a89aab3ae077",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.lunar-decrescent.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "lunar-decrescent",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/lunar-decrescent.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/lunar-decrescent.webp"
+      },
+      "sha256": "b48d1aac4bd4fcf54b14985a0ad3e0c9288599506826f412c90d91ba1bd78613",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.lunar-noviluna.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "lunar-noviluna",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/lunar-noviluna.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/lunar-noviluna.webp"
+      },
+      "sha256": "a8fb8172a9c13117b2de6b409480708248934ae0721a6b704eda9fbdac973a39",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.lunar-pleniluna.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "lunar-pleniluna",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/lunar-pleniluna.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/lunar-pleniluna.webp"
+      },
+      "sha256": "d7d8d05d60880c797199433a6dd4ea0aaba6d3fe9729d12e814d41d8c49ceaf2",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.lunar-semiluna.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "lunar-semiluna",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/lunar-semiluna.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/lunar-semiluna.webp"
+      },
+      "sha256": "4a2a957b08820cfd54ee84aa087c586242134a332ec401ff67b7996c25cc5915",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.magnetic-storm-alpha.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "magnetic-storm-alpha",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/magnetic-storm-alpha.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/magnetic-storm-alpha.webp"
+      },
+      "sha256": "bedc70e719c836da9c442ad7992215c70d4c086a13dd264e0a75a7741774cd81",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.magnetic-storm-bravo.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "magnetic-storm-bravo",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/magnetic-storm-bravo.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/magnetic-storm-bravo.webp"
+      },
+      "sha256": "91f0d9fe08ec0bca301b63bd633c1c400029c5453e19700b0e54ed03cfb1ef26",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.magnetic-storm-charlie.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "magnetic-storm-charlie",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/magnetic-storm-charlie.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/magnetic-storm-charlie.webp"
+      },
+      "sha256": "d499fb004f4ea3c90551ae4427275c4827d1d0f40aa57b737c3574e014648ad2",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.marcato-desire.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "marcato-desire",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/marcato-desire.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/marcato-desire.webp"
+      },
+      "sha256": "dccc7a325f0e95648f665e6009d8b5f3ef2b2390dabcde53e5aa916bd8607847",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.metanukimorphosis.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "metanukimorphosis",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/metanukimorphosis.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/metanukimorphosis.webp"
+      },
+      "sha256": "79b4284e7ea03c003f271e2bd1ddc4c7ac3d450e78319098848f1f7d5a4ced4d",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.myriad-eclipse.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "myriad-eclipse",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/myriad-eclipse.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/myriad-eclipse.webp"
+      },
+      "sha256": "8af151a16b8d9cf59ca0ac27294c6196da19d4f341c0d1d45e73b55f9bfb2b23",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.neon-fantasies.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "neon-fantasies",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/neon-fantasies.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/neon-fantasies.webp"
+      },
+      "sha256": "0e1931f80059de6baa5ea8834400955093d9afbb700661143f2cdd991653c23f",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.ode-of-resurrected-wings.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "ode-of-resurrected-wings",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/ode-of-resurrected-wings.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/ode-of-resurrected-wings.webp"
+      },
+      "sha256": "769c1021fd0469efa3b850ef6c38c15a3ce6460cff539d6641da5c19cb1dec2e",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.original-transmorpher.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "original-transmorpher",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/original-transmorpher.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/original-transmorpher.webp"
+      },
+      "sha256": "04a941257e30bebed1b1af241bf7b46510e735f17d90c28bb800814c665ae629",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.peacekeeper-specialized.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "peacekeeper-specialized",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/peacekeeper-specialized.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/peacekeeper-specialized.webp"
+      },
+      "sha256": "58b2e30044771f0b2cf9730491b6785d185838b0838e129a5fba0e17339b047b",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.practiced-perfection.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "practiced-perfection",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/practiced-perfection.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/practiced-perfection.webp"
+      },
+      "sha256": "ed5f5c5d61ff9dc844aa71f94e5c9425f7b4d26ccd0769230815d5c5c1141fdf",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.precious-fossilized-core.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "precious-fossilized-core",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/precious-fossilized-core.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/precious-fossilized-core.webp"
+      },
+      "sha256": "7208154e3a613a393d984c402ef3dc16dc86fd3fa8495c93edf70c744ce568f2",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.puzzle-sphere.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "puzzle-sphere",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/puzzle-sphere.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/puzzle-sphere.webp"
+      },
+      "sha256": "c891f6c51c7d16f4bd1baf3ed069450378c99579315087f35de2bcb1aeb3baf3",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.qingming-birdcage.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "qingming-birdcage",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/qingming-birdcage.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/qingming-birdcage.webp"
+      },
+      "sha256": "f0850d83bd3cd9ca41d4c970b3b8322691a8baa0b029f7e0451296b8f66ed698",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.radiowave-journey.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "radiowave-journey",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/radiowave-journey.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/radiowave-journey.webp"
+      },
+      "sha256": "0c40c40bea383813f80f51b93fadc614c460358f2e6f7c9d58baf983b0daef34",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.rainforest-gourmet.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "rainforest-gourmet",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/rainforest-gourmet.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/rainforest-gourmet.webp"
+      },
+      "sha256": "3a4e3b9bb33dd9d05047edb5708a7c4cd1681c7c8a0f0145349cc710df8da77a",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.reel-projector.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "reel-projector",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/reel-projector.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/reel-projector.webp"
+      },
+      "sha256": "65341a6c6b8b757cc82b6f15be838903516fd27dae0e7270538145a18ce898be",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.reverb-mark-i.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "reverb-mark-i",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/reverb-mark-i.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/reverb-mark-i.webp"
+      },
+      "sha256": "773e3495cddf8c406b749567c13c6d3d6726c265ae3defedaf95de4503dbe307",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.reverb-mark-ii.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "reverb-mark-ii",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/reverb-mark-ii.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/reverb-mark-ii.webp"
+      },
+      "sha256": "8ac9a61a076f73b6458baea41447a4211b5d5650da5e3f80c1162cf7aaafbf91",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.reverb-mark-iii.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "reverb-mark-iii",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/reverb-mark-iii.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/reverb-mark-iii.webp"
+      },
+      "sha256": "953e85a4cc78dec4f3439ddee1b914aba0f7184782627a67d713ea32b7b452c9",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.riot-suppressor-mark-vi.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "riot-suppressor-mark-vi",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/riot-suppressor-mark-vi.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/riot-suppressor-mark-vi.webp"
+      },
+      "sha256": "bec96ab53de767f11f0b40029c1187d93de466d8ab5434673521fd05796d68d1",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.roaring-furnace.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "roaring-furnace",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/roaring-furnace.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/roaring-furnace.webp"
+      },
+      "sha256": "55f346dfef36cd82860099815315cef9c9e67eaf2b12bcd7812f89146c5a9ad1",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.roaring-ride.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "roaring-ride",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/roaring-ride.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/roaring-ride.webp"
+      },
+      "sha256": "ed7f7b521d5c774a117b26797db4677c2fb04c777d4497752729ea45171e4500",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.serpentine-seeker.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "serpentine-seeker",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/serpentine-seeker.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/serpentine-seeker.webp"
+      },
+      "sha256": "736f53437af06165b872222c3c26e5c787fc91de80e6c9dddadbaf05d2d3e450",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.severed-innocence.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "severed-innocence",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/severed-innocence.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/severed-innocence.webp"
+      },
+      "sha256": "f2795f9a1ea5f6a524bd199f83605ecec2636e3369285a2147a5c51f9ed46cad",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.sharpened-stinger.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "sharpened-stinger",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/sharpened-stinger.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/sharpened-stinger.webp"
+      },
+      "sha256": "8fd5c6992cb0a2acfa5cff27fcfa5b4d7a0790e608d70af8d09f002496f14ec5",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.six-shooter.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "six-shooter",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/six-shooter.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/six-shooter.webp"
+      },
+      "sha256": "f011aee3b55aaad554aaa20367674740c93ce72930f3785fd5d8b89a3dbef182",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.slice-of-time.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "slice-of-time",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/slice-of-time.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/slice-of-time.webp"
+      },
+      "sha256": "4304ad178a1dc9ace5a32a55c0e1a1d29b332c2d4fccdb05b088ae79e087b627",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.sol-exuvia.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "sol-exuvia",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/sol-exuvia.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/sol-exuvia.webp"
+      },
+      "sha256": "244576839352e2fa18868cf74867d0c57bbb0cd597dfe0ce1d8fffa748eb7bc0",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.spectral-gaze.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "spectral-gaze",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/spectral-gaze.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/spectral-gaze.webp"
+      },
+      "sha256": "9805cc4e58ee8070f367866b8510015a890b2585bc1eb4256c1b04a70d8c8e2a",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.spring-embrace.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "spring-embrace",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/spring-embrace.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/spring-embrace.webp"
+      },
+      "sha256": "f62c2b0e5e7a5d147f85039f944db587913eff4a44bad55ee127cd6e0042736e",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.starlight-engine-replica.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "starlight-engine-replica",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/starlight-engine-replica.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/starlight-engine-replica.webp"
+      },
+      "sha256": "d6e1e42e6a335ac15e1ecf0c3801559956492ecf734519ce8f8777fa1123b31c",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.starlight-engine.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "starlight-engine",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/starlight-engine.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/starlight-engine.webp"
+      },
+      "sha256": "8f8eaee04dc544a377b000dbd35bd3d4d4bbc454993c93011597c8a921c1894f",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.starlight-rider-faceplate.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "starlight-rider-faceplate",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/starlight-rider-faceplate.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/starlight-rider-faceplate.webp"
+      },
+      "sha256": "f593b5037613bc97eed8cedbbaf0e0583095a66c21e820a2e1606298d78e8ecc",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.steam-oven.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "steam-oven",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/steam-oven.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/steam-oven.webp"
+      },
+      "sha256": "f17dfef708a67d885f1191a40d114607a671697c3b78e1cb058a6fc8359dfdc0",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.steel-cushion.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "steel-cushion",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/steel-cushion.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/steel-cushion.webp"
+      },
+      "sha256": "cdc15ff90e85237eb7c12502594f6535d95d2ea30a5f874df89d3147e105e16c",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.street-superstar.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "street-superstar",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/street-superstar.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/street-superstar.webp"
+      },
+      "sha256": "f43ed1b5a51966fcfe30139d02a80bb22d535290557e6b5e05a338b443fe6768",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.the-brimstone.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "the-brimstone",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/the-brimstone.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/the-brimstone.webp"
+      },
+      "sha256": "53674304e57a68f0bcb624747165c666c4219d3fe2c3c4d20636bdb4140882d0",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.the-restrained.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "the-restrained",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/the-restrained.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/the-restrained.webp"
+      },
+      "sha256": "b2d8adefcbac795c35d2c1c23094885aa13bf45eb5ed04b2deafd56d9b9c4930",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.the-simmering-pot.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "the-simmering-pot",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/the-simmering-pot.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/the-simmering-pot.webp"
+      },
+      "sha256": "0ceca2b2dce6deab0cbb3e2de5bf4aa7daf9e93614f354dfbc8e23db969ee0a8",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.the-vault.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "the-vault",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/the-vault.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/the-vault.webp"
+      },
+      "sha256": "997f635afe9cc09e2bdd85b8e42a8e70bc5ca88bf135b90f5e2ad5d7e0c504c5",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.thoughtbop.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "thoughtbop",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/thoughtbop.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/thoughtbop.webp"
+      },
+      "sha256": "14d97950c57869f91fab5212ded066775bc5553a6ab7e8c54d19d7f2b54d6e89",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.timeweaver.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "timeweaver",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/timeweaver.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/timeweaver.webp"
+      },
+      "sha256": "936034dc5e0640a1f1d94b285bbfaee95584b40759f5c79714e864744b9e8ca1",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.tremor-trigram-vessel.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "tremor-trigram-vessel",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/tremor-trigram-vessel.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/tremor-trigram-vessel.webp"
+      },
+      "sha256": "f7f392ae95b1d4f096a8a1674229df47f937c5b67acdb86da4c74af5afbef97a",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.tusks-of-fury.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "tusks-of-fury",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/tusks-of-fury.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/tusks-of-fury.webp"
+      },
+      "sha256": "8cd5e7dd5e705cb5426643a50be63f0ac488f3f9245d15b9a3f4490e17c2faa3",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.unfettered-game-ball.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "unfettered-game-ball",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/unfettered-game-ball.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/unfettered-game-ball.webp"
+      },
+      "sha256": "ffaa9d164b52f9b2a9a222d4fbe76d7a31d275c7f54850a73b71cb6fdea9b9ce",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.vortex-arrow.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "vortex-arrow",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/vortex-arrow.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/vortex-arrow.webp"
+      },
+      "sha256": "63553da2a00a7483d1b7ee1c2ab23a0ec338b4174d9867afc9917e5401859d88",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.vortex-hatchet.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "vortex-hatchet",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/vortex-hatchet.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/vortex-hatchet.webp"
+      },
+      "sha256": "2cbaaf25bf3470e345174f1243df055930804cd3591717e476fd7c27bbd717ab",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.vortex-revolver.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "vortex-revolver",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/vortex-revolver.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/vortex-revolver.webp"
+      },
+      "sha256": "453154aaf311ff5cd3f684a3ba64e7134b73de48f41075a98650561945f3efe7",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.weeping-cradle.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "weeping-cradle",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/weeping-cradle.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/weeping-cradle.webp"
+      },
+      "sha256": "e50f3b13a88c513ef653626942aab661946edf52efdbc326de674e8c8f37597d",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.weeping-gemini.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "weeping-gemini",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/weeping-gemini.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/weeping-gemini.webp"
+      },
+      "sha256": "b4085a58761c6660464e595dffedd429c30dc7e5d2d08e20ddcc75c385b2a83d",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.wrathful-vajra.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "wrathful-vajra",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/wrathful-vajra.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/wrathful-vajra.webp"
+      },
+      "sha256": "98b799e1ec724c21670c51daeeb9ecb24b003a290624b44d5f59831220bcbb40",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.yesterday-calls.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "yesterday-calls",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/yesterday-calls.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/yesterday-calls.webp"
+      },
+      "sha256": "7aacd04892922d252851bd2ffd6bc6e167b3136a02b07c2d7c1caa41f099bd65",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.weapon.zanshin-herb-case.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "zanshin-herb-case",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/w-engines/zanshin-herb-case.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/weapons/zanshin-herb-case.webp"
+      },
+      "sha256": "5abb3540bbb6e597a9f421b696dd8333e56edae6a3f9e32e8edd34db262eb2a5",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.astral-voice.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "astral-voice",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/astral-voice.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/astral-voice.webp"
+      },
+      "sha256": "b4f21d2547a6b36fa7d8c8604f442bd5baacf0a4c12de6debe63692f83a7fe42",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.branch-and-blade-song.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "branch-and-blade-song",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/branch-and-blade-song.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/branch-and-blade-song.webp"
+      },
+      "sha256": "c5b2eb6bbce65eb6e20c61ec215c131ea4c5c20fa2bd055a4b21da5cc97ad77f",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.bunny-in-wonderland.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "bunny-in-wonderland",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/bunny-in-wonderland.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/bunny-in-wonderland.webp"
+      },
+      "sha256": "3b35e19ed3aaee125b8dbe2589b769072fcef64e89aabc41a97f3fe350d7a516",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.chaos-jazz.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "chaos-jazz",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/chaos-jazz.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/chaos-jazz.webp"
+      },
+      "sha256": "1050cf0e72320b5b341556ac4a64905c0fe8c7e13acd8e3ad32bfaa3c61f5ed6",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.chaotic-metal.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "chaotic-metal",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/chaotic-metal.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/chaotic-metal.webp"
+      },
+      "sha256": "39ab7134fd34163d7c9e69e36ddaab1d7c54d29980148427dde556ab42378593",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.dawns-bloom.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "dawns-bloom",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/dawns-bloom.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/dawns-bloom.webp"
+      },
+      "sha256": "16b3c8db13bf9660b48bbd3bb595ad3db91c0184bdf2671141281abefd9142d1",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.fanged-metal.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "fanged-metal",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/fanged-metal.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/fanged-metal.webp"
+      },
+      "sha256": "0fae23e0041325037228b3ac2aa6823ccf494fafefdc9bdc9316b472b1e6cddb",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.feathered-fate.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "feathered-fate",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/feathered-fate.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/feathered-fate.webp"
+      },
+      "sha256": "65c3a7020161394295ec174aa66b32c84d0b22d19d7c3c9b558f9e0037fb989d",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.freedom-blues.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "freedom-blues",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/freedom-blues.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/freedom-blues.webp"
+      },
+      "sha256": "7b006738d861ea8d6b570c7ff1875399bce594d03870951ae42ad66d2155f5c8",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.hormone-punk.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "hormone-punk",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/hormone-punk.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/hormone-punk.webp"
+      },
+      "sha256": "8f1087d3969ffdacb62bd38410ad3b509b5157403d6d676811acb9b4be5aaede",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.inferno-metal.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "inferno-metal",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/inferno-metal.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/inferno-metal.webp"
+      },
+      "sha256": "296021fe7caed4945523f68a401625601df16c4435109f4e8375e7979b713d4d",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.king-of-the-summit.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "king-of-the-summit",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/king-of-the-summit.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/king-of-the-summit.webp"
+      },
+      "sha256": "ee9aac931aaae83ee5f4b36f9cdb5adb87bc7f8acdc5d8a7929dfa056c33ec7a",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.moonlight-lullaby.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "moonlight-lullaby",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/moonlight-lullaby.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/moonlight-lullaby.webp"
+      },
+      "sha256": "9b0229235c0f0bae865a56774c026e689727cddf3341e11174106032f2499618",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.notes-from-the-chained.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "notes-from-the-chained",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/notes-from-the-chained.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/notes-from-the-chained.webp"
+      },
+      "sha256": "d1815e5f166127c3248809ef91787f4f4ba3404859a9dc4b2ff7ee725e55ce29",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.phaethons-melody.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "phaethons-melody",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/phaethons-melody.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/phaethons-melody.webp"
+      },
+      "sha256": "5cf12924d353840b6832f92ef1677c31d4554e959bec03549dbd2093f9fb903e",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.polar-metal.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "polar-metal",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/polar-metal.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/polar-metal.webp"
+      },
+      "sha256": "c6acf533de959de32b74f84e56c0811aad5d6ae816a4856088e1c94aaedf133f",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.proto-punk.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "proto-punk",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/proto-punk.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/proto-punk.webp"
+      },
+      "sha256": "0267914e16f2b593610e09fc0d7889bd4dd49d60c29194ea88904a93fe9170ab",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.puffer-electro.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "puffer-electro",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/puffer-electro.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/puffer-electro.webp"
+      },
+      "sha256": "26fb5204113a2cde4bd449e7ddd02ff1ceb328844115fdab5f9fe6bc9fa8d9db",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.shadow-harmony.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "shadow-harmony",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/shadow-harmony.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/shadow-harmony.webp"
+      },
+      "sha256": "4646ebfb1d4251affa0ef55ce0f5247e6343fc7ca2cf8b49daf79ef960f2c480",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.shining-aria.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "shining-aria",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/shining-aria.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/shining-aria.webp"
+      },
+      "sha256": "0a453250fcb2c3a49e4f2c185b31539e75c6b9c06e1bf173c3f62314647a0138",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.shockstar-disco.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "shockstar-disco",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/shockstar-disco.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/shockstar-disco.webp"
+      },
+      "sha256": "d49b2c2af70187dad3c2064f745b205f702e46c1b42b91b67ccd8c4853f2be90",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.soul-rock.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "soul-rock",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/soul-rock.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/soul-rock.webp"
+      },
+      "sha256": "88105e142268e28245e0da4d58d255236a4759ba350908f543407516c2a201e8",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.swing-jazz.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "swing-jazz",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/swing-jazz.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/swing-jazz.webp"
+      },
+      "sha256": "97e72b931f9f7e9fc9e1bcc85835afe4abec227e0384ca2c9a53cc0b819b8783",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.the-sky-ablaze.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "the-sky-ablaze",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/the-sky-ablaze.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/the-sky-ablaze.webp"
+      },
+      "sha256": "ff1f9ef9c9637b73d50232850cd2bf7b9f19dd0d45a6cc8c0444877955131152",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.thorned-rose.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "thorned-rose",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/thorned-rose.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/thorned-rose.webp"
+      },
+      "sha256": "5f5759aa045fbb2a5aeeb6308ca22f62c15ad61f1a614a986fe758bc5085ce63",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.thunder-metal.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "thunder-metal",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/thunder-metal.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/thunder-metal.webp"
+      },
+      "sha256": "b9df5d6c3f5ef2830266cef0113c2b58614766bc5ae743f3da29a52705e16142",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.white-water-ballad.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "white-water-ballad",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/white-water-ballad.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/white-water-ballad.webp"
+      },
+      "sha256": "8832f7afbb24ae74e669cb348fde796322016a3f528aed9099951a22daa772d6",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.woodpecker-electro.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "woodpecker-electro",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/woodpecker-electro.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/woodpecker-electro.webp"
+      },
+      "sha256": "347e22e0c69506c37fcf9c0ad220d95b1b5d0d2cc53171c4a644ea9670eb0cb8",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.wuthering-salon.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "wuthering-salon",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/wuthering-salon.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/wuthering-salon.webp"
+      },
+      "sha256": "fad1c5cc83b7a4ca245ac090af096dc6c70294a41dc7c9a8ea8b6b82881ce197",
+      "status": "ready"
+    },
+    {
+      "assetId": "zzz.artifact.yunkui-tales.icon",
+      "game": "zzz",
+      "entityType": "artifact",
+      "entityId": "yunkui-tales",
+      "variant": "icon",
+      "storage": "supabase",
+      "path": "assets/games/zzz/disc-sets/yunkui-tales.webp",
+      "source": {
+        "provider": "zenlentering-public-manifest",
+        "sourceId": "zzz/artifacts/yunkui-tales.webp"
+      },
+      "sha256": "03c03d5ed71ecdaf5468c2f9e14b38eeb8f38123ab4531de2e56513a6c962a92",
+      "status": "ready"
+    }
+  ]
+}

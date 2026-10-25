@@ -1,0 +1,52 @@
+{
+  "project": "character-counter",
+  "total": 4,
+  "ready": 1,
+  "unresolved": 3,
+  "assets": [
+    {
+      "assetId": "genshin.weapon.cinnabar-spindle.icon",
+      "game": "genshin",
+      "entityType": "weapon",
+      "entityId": "cinnabar-spindle",
+      "variant": "icon",
+      "sourceId": "cinnabar-spindle",
+      "status": "ready",
+      "resolvedUrl": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Opus.png",
+      "bytes": 61266,
+      "decodedBytes": 26540
+    },
+    {
+      "assetId": "zzz.weapon.poem-of-the-empty-feather-return.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "poem-of-the-empty-feather-return",
+      "variant": "icon",
+      "sourceId": "poem-of-the-empty-feather-return",
+      "status": "unresolved",
+      "reason": "no_source_asset"
+    },
+    {
+      "assetId": "zzz.character.sigrid.icon",
+      "game": "zzz",
+      "entityType": "character",
+      "entityId": "sigrid",
+      "variant": "icon",
+      "sourceId": "sigrid",
+      "status": "unresolved",
+      "reason": "source_variant_mismatch",
+      "candidateUrl": "https://i.gachabase.net/-p8sVe_IsM_p8Agodt2pseFrpG22MYDpgXAHBV4yAzE/q%3A50/f%3Awebp/plain/zzz/assets/7f975cf2ad95cff09ddbd214c9e4cf1e.png",
+      "candidateVariant": "portrait"
+    },
+    {
+      "assetId": "zzz.weapon.lumiflux.icon",
+      "game": "zzz",
+      "entityType": "weapon",
+      "entityId": "lumiflux",
+      "variant": "icon",
+      "sourceId": "lumiflux",
+      "status": "unresolved",
+      "reason": "no_source_asset"
+    }
+  ]
+}
