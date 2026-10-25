@@ -1,0 +1,10 @@
+{
+  "game": "zzz",
+  "base_url": "https://static.nanoka.cc",
+  "locale": "en",
+  "endpoints": ["character", "weapon", "equipment", "shiyu", "boss", "simul", "monster"],
+  "details": ["character", "weapon", "equipment", "shiyu", "boss", "simul"],
+  "concurrency": 4,
+  "timeout": 30,
+  "attempts": 4
+}

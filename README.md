@@ -2,6 +2,28 @@
 
 Canonical asset metadata and a validation-first image pipeline for **Character Counter**, **Zenlentering**, and **GenEntering**. Each consumer can retain its existing storage and runtime architecture.
 
+## Versioned game data
+
+The existing image pipeline is extended with a separate JSON pipeline, **Game
+Data Contract v1**, a Nanoka ZZZ provider, validated raw/image caches, incremental
+diffs, Supabase/PostgreSQL and MongoDB revision publishers, and coordinated release
+activation. Existing image manifests and CLI commands remain supported.
+
+```powershell
+python -m pip install -e ".[mongo,test]"
+gacha-assets data version
+gacha-assets data ingest --dry-run --report reports/zzz-preflight.json
+gacha-assets data ingest --report reports/zzz-ingest.json
+gacha-assets data diff
+gacha-assets data sync --dry-run
+```
+
+Remote writes require explicit `--confirm`. Numeric-to-consumer mappings start
+unresolved until verified; source API versions and image filenames are never
+guessed. [Complete setup, mapping, publishing, verification, recovery and consumer
+integration guide](docs/game-data.md). The independently deployable database
+migration is [migrations/001_game_data.sql](migrations/001_game_data.sql).
+
 ## Overview
 
 The pipeline follows these stages:

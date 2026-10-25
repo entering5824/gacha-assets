@@ -12,6 +12,8 @@ from .env import load_local_env,resolve_supabase_key
 def main():
  load_local_env()
  p=argparse.ArgumentParser(); sub=p.add_subparsers(dest="command",required=True)
+ from .game_data.cli import register as register_data
+ register_data(sub)
  s=sub.add_parser("run");s.add_argument("--input",required=True,type=Path);s.add_argument("--manifest",required=True,type=Path);s.add_argument("--public-root",required=True,type=Path);s.add_argument("--dry-run",action="store_true")
  s=sub.add_parser("check-cc-regressions");s.add_argument("--candidates",type=Path);s.add_argument("--output",type=Path)
  s=sub.add_parser("discover-gen-materials");s.add_argument("--game-data",required=True,type=Path);s.add_argument("--assets-root",type=Path);s.add_argument("--base-url",default="https://genshin.jmp.blue");s.add_argument("--output",required=True,type=Path)
@@ -25,6 +27,10 @@ def main():
  s=sub.add_parser("publish-supabase");s.add_argument("--manifest",required=True,type=Path);s.add_argument("--assets-root",required=True,type=Path);s.add_argument("--url",default=os.environ.get("SUPABASE_URL"));s.add_argument("--bucket",default=os.environ.get("SUPABASE_BUCKET","GachaCounter"));s.add_argument("--key-env",default="SUPABASE_STORAGE_API_KEY");s.add_argument("--manifest-path");s.add_argument("--report",type=Path);s.add_argument("--dry-run",action="store_true");s.add_argument("--verify-only",action="store_true")
  s=sub.add_parser("validate-image");s.add_argument("path",type=Path)
  a=p.parse_args()
+ if a.command=="data":
+  from .game_data.cli import handle
+  handle(a)
+  return
  if a.command=="run": result=run(json.loads(a.input.read_text("utf8")),a.manifest,a.public_root,a.dry_run)
  elif a.command=="check-cc-regressions":
   fixture=Path(__file__).resolve().parents[2]/"config"/"regression"/"character-counter.json";result=check_character_counter_fixtures(fixture,a.candidates)

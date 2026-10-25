@@ -2,9 +2,16 @@
 name="gacha-assets"
 version="0.1.0"
 requires-python=">=3.11"
-dependencies=["Pillow>=10"]
+dependencies=["Pillow>=10", "jsonschema>=4.18"]
+[project.optional-dependencies]
+mongo=["pymongo>=4.6"]
+test=["pytest>=8"]
+[tool.pytest.ini_options]
+pythonpath=["src"]
 [project.scripts]
 gacha-assets="gacha_assets.cli:main"
 [tool.setuptools.packages.find]
 where=["src"]
+[tool.setuptools.package-data]
+"gacha_assets.game_data"=["*.json"]
 
